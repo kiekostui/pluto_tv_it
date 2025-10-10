@@ -9,11 +9,11 @@ on:
 
 jobs:
 
-   permissions:
-      contents: write # Questo concede i permessi necessari per fare commit e push
-
   run-epg-merger:
     runs-on: ubuntu-latest
+    
+   permissions:
+      contents: write # Questo concede i permessi necessari per fare commit e push
     
     steps:
       - name: Checkout Repository
