@@ -1,5 +1,8 @@
 name: EPG Pluto it
 
+env:
+  IT_REGION: ${{ secrets.IT_KEY }}
+
 on:
   # Trigger manuale
   workflow_dispatch:
