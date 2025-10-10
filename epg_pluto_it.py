@@ -9,8 +9,6 @@ import xml.etree.ElementTree as ET
 import os
 
 
-IT_REGION = os.environ.get("IT_REGION")
-
 def date_converter(date_string):
 
     try:    
@@ -91,7 +89,6 @@ def get_channel_list(token, channel_list):
         'Accept-encoding':'gzip, deflate, br, zstd',
         'Accept-language':'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7',
         'Authorization':f'Bearer {token}',
-        'X-Forwarded-For':IT_REGION
         }
     
     try:
@@ -184,7 +181,6 @@ def get_epg(start, token, input_channels):
         'Accept':'*/*',
         'Accept-encoding':'gzip, deflate, br, zstd',
         'Accept-language':'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7',
-        'X-Forwarded-For':IT_REGION,
         'Authorization':f'Bearer {token}'
         }
 
@@ -215,11 +211,9 @@ def get_token(appversion, client_uiid):
         'clientID':f'{client_uiid}',
         'clientModelNumber':'1.2.0'
         }
-    headers={
-        'X-Forwarded-For':IT_REGION
-        }
+
     try:
-        response=requests.get(url, params=params, headers=headers, timeout=10)
+        response=requests.get(url, params=params, timeout=10)
         response.raise_for_status()
 
     except requests.exceptions.RequestException as e:
@@ -250,7 +244,6 @@ def get_appversion():
     headers={
         'upgrade-insecure-requests': '1',
         'user-agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
-        'X-Forwarded-For':IT_REGION
         }
 
     try:    
