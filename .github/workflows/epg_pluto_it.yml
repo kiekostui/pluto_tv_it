@@ -8,18 +8,19 @@ on:
     - cron: '0 */6 * * *'
 
 jobs:
-
   run-epg-merger:
     runs-on: ubuntu-latest
     
-   permissions:
-      contents: write # Questo concede i permessi necessari per fare commit e push
     
-    steps:
+    permissions:
+      contents: write # Questo concede i permessi necessari per fare commit e push
+      
+    steps: 
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Non serve più il token qui se i permessi sono sopra
+          # token: ${{ secrets.GITHUB_TOKEN }} 
           
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -40,4 +41,4 @@ jobs:
         with:
           commit_message: "Automated EPG Update"
           file_pattern: 'epg_pluto_it.xml'
-          branch: main 
+          branch: main
