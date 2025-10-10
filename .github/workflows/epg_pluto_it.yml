@@ -41,5 +41,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Automated EPG Update"
-          file_pattern: 'epg_pluto_it.xml'
+          file_pattern: 'epg_pluto_it.xml channel_list.txt'
           branch: main 
