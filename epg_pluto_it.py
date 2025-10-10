@@ -221,7 +221,6 @@ def get_token(appversion, client_uiid):
         'Accept-language':'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7',
         'Referer': 'https://pluto.tv/',
         'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-        'Authorization':f'Bearer {token}'
         }
 
     try:
