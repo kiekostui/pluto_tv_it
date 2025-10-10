@@ -88,7 +88,7 @@ def get_channel_list(token, channel_list):
         'Accept':'*/*',
         'Accept-encoding':'gzip, deflate, br, zstd',
         'Accept-language':'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7',
-        'Referer": "https://pluto.tv/',
+        'Referer": 'https://pluto.tv/',
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
         'Authorization':f'Bearer {token}',
         }
@@ -183,7 +183,7 @@ def get_epg(start, token, input_channels):
         'Accept':'*/*',
         'Accept-encoding':'gzip, deflate, br, zstd',
         'Accept-language':'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7',
-        'Referer": "https://pluto.tv/',
+        'Referer": 'https://pluto.tv/',
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
         'Authorization':f'Bearer {token}'
         }
@@ -219,7 +219,7 @@ def get_token(appversion, client_uiid):
         'Accept':'*/*',
         'Accept-encoding':'gzip, deflate, br, zstd',
         'Accept-language':'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7',
-        'Referer": "https://pluto.tv/',
+        'Referer": 'https://pluto.tv/',
         'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
         'Authorization':f'Bearer {token}'
         }
@@ -256,7 +256,7 @@ def get_appversion():
     headers={
         'upgrade-insecure-requests': '1',
         'Accept-language':'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7',
-        'Referer": "https://pluto.tv/',
+        'Referer": 'https://pluto.tv/',
         'user-agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
         }
 
