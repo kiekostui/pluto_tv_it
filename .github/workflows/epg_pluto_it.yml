@@ -11,8 +11,11 @@ on:
     - cron: '0 */6 * * *'
 
 jobs:
-  run-epg-merger:
+  run-epg-pluto-it:
     runs-on: ubuntu-latest
+
+    env:
+      HTTPS_PROXY: ${{ secrets.HTTP_PROXY_ITALY }} 
     
     steps:
       - name: Checkout Repository
