@@ -1,0 +1,39 @@
+name: EPG Merger & Update
+
+on:
+  # Trigger manuale
+  workflow_dispatch:
+  # Trigger schedulato (ogni 6 ore)
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  run-epg-merger:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          
+      - name: Run Script
+        run: python epg_pluto_it.py
+        
+      # Commit e Push dei file generati
+      - name: Commit generated EPG and Log files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Automated EPG Update"
+          file_pattern: 'epg.xml epg_log.log'
+          branch: main 
