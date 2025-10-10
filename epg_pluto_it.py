@@ -6,6 +6,7 @@ import json
 from datetime import datetime, timedelta, UTC
 import time
 import xml.etree.ElementTree as ET
+import os
 
 
 IT_REGION = os.environ.get("IT_REGION")
