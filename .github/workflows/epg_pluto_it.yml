@@ -2,6 +2,8 @@ name: EPG Pluto it
 
 env:
   IT_REGION: ${{ secrets.IT_KEY }}
+  HTTP_PROXY:  ${{ secrets.HTTP_PROXY_IT }}
+  HTTPS_PROXY:  ${{ secrets.HTTPS_PROXY_IT }}
 
 on:
   # Trigger manuale
