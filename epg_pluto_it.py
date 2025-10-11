@@ -259,7 +259,7 @@ def get_appversion():
         
         
     except requests.exceptions.RequestException as e:
-        print (f'Error during request of {url}: {e}')
+        print (f'Error during appversion request of {url}: {e}')
         return None
         
     html_file = response.text
