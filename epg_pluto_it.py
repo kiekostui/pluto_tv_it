@@ -9,7 +9,15 @@ import xml.etree.ElementTree as ET
 import os
 
 
-IT_REGION = os.environ.get("IT_REGION")
+#IT_REGION = os.environ.get("IT_REGION")
+HTTP_PROXY = os.environ.get("HTTP_PROXY_IT")
+HTTPS_PROXY = os.environ.get("HTTPS_PROXY_IT")
+
+proxies = {
+  "http": f"HTTP_PROXY",
+  "https": "https://10.10.1.10:1080",
+}
+
 
 def date_converter(date_string):
 
@@ -94,11 +102,10 @@ def get_channel_list(token, channel_list):
         'Accept-encoding':'gzip, deflate, br, zstd',
         'Accept-language':'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7',
         'Authorization':f'Bearer {token}',
-        'X-Forwarded-For':IT_REGION
         }
     
     try:
-        response=requests.get(url, params=url_parmams, headers=headers)
+        response=requests.get(url, params=url_parmams, headers=headers, proxies=proxies)
         response.raise_for_status()
         
     except requests.exceptions.RequestException as e:
@@ -190,12 +197,11 @@ def get_epg(start, token, input_channels):
         'Accept':'*/*',
         'Accept-encoding':'gzip, deflate, br, zstd',
         'Accept-language':'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7',
-        'X-Forwarded-For':IT_REGION,
         'Authorization':f'Bearer {token}'
         }
 
     try:
-        response=requests.get(url, params=url_parmams, headers=headers)
+        response=requests.get(url, params=url_parmams, headers=headers, proxies=proxies)
         response.raise_for_status()
         
     except requests.exceptions.RequestException as e:
@@ -224,11 +230,9 @@ def get_token(appversion, client_uiid):
         "lang": "it",
         "timeZone": "Europe/Rome"
         }
-    headers={
-        'X-Forwarded-For':IT_REGION
-        }
+    
     try:
-        response=requests.get(url, params=params, headers=headers, timeout=10)
+        response=requests.get(url, params=params, proxies=proxies, timeout=10)
         response.raise_for_status()
 
     except requests.exceptions.RequestException as e:
@@ -258,12 +262,11 @@ def get_appversion():
     url = "https://pluto.tv/"
     headers={
         'upgrade-insecure-requests': '1',
-        'user-agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
-        'X-Forwarded-For':IT_REGION
+        'user-agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36)
         }
 
     try:    
-        response = requests.get(url, headers = headers)
+        response = requests.get(url, headers = headers, proxies=proxies)
         response.raise_for_status()
         
         
