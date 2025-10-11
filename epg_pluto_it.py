@@ -296,7 +296,8 @@ start_time = datetime.now(UTC)
 start=start_time
 
 ####Get appversion and create session_uiid to use in the next request for token
-appversion = get_appversion()
+#appversion = get_appversion()
+appversion='9.16.0-1c8668875bc70dd1978c9232cfb832b3eaed04c6'
 
 if not appversion:
     sys.exit()
