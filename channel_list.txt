@@ -1,1 +1,400 @@
-
+id: 673247127d5da5000817b4d6, name: Pluto TV Trending Now,  ch_n: 5,   logo:https://images.pluto.tv/channels/673247127d5da5000817b4d6/colorLogoPNG_1732662634386.png
+id: 5ba3fb9c4b078e0f37ad34e8, name: Pluto TV Spotlight,  ch_n: 10,   logo:https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png
+id: 64b585f84ea480000838e446, name: Pluto TV Icons,  ch_n: 20,   logo:https://images.pluto.tv/channels/64b585f84ea480000838e446/colorLogoPNG.png
+id: 561d7d484dc7c8770484914a, name: Pluto TV Action,  ch_n: 30,   logo:https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png
+id: 617b37b361e0fd0008cfd8c5, name: Pluto TV Reaction,  ch_n: 40,   logo:https://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/colorLogoPNG_1731837948814.png
+id: 5b64a245a202b3337f09e51d, name: Pluto TV Fantastic,  ch_n: 45,   logo:https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG_1756834917957.png
+id: 5a4d3a00ad95e4718ae8d8db, name: Pluto TV Comedy,  ch_n: 50,   logo:https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG_1731836724642.png
+id: 5b4e92e4694c027be6ecece1, name: Pluto TV Drama,  ch_n: 60,   logo:https://images.pluto.tv/channels/5b4e92e4694c027be6ecece1/colorLogoPNG.png
+id: 5a66795ef91fef2c7031c599, name: Pluto TV Romance,  ch_n: 80,   logo:https://images.pluto.tv/channels/5a66795ef91fef2c7031c599/colorLogoPNG.png
+id: 58af4c093a41ca9d4ecabe96, name: BET Cinema,  ch_n: 100,   logo:https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG_1759338280891.png
+id: 68c32d88f56983aba40052bd, name: BET Comedy Movies,  ch_n: 105,   logo:https://images.pluto.tv/channels/68c32d88f56983aba40052bd/colorLogoPNG_1759246622596.png
+id: 663946c1b18d700008d9c168, name: BET Visionaries,  ch_n: 110,   logo:https://images.pluto.tv/channels/663946c1b18d700008d9c168/colorLogoPNG_1759338795452.png
+id: 5f4d8594eb979c0007706de7, name: Pluto TV Crime Movies,  ch_n: 120,   logo:https://images.pluto.tv/channels/5f4d8594eb979c0007706de7/colorLogoPNG.png
+id: 5b4e69e08291147bd04a9fd7, name: Pluto TV Thrillers,  ch_n: 130,   logo:https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png
+id: 569546031a619b8f07ce6e25, name: Pluto TV Horror,  ch_n: 140,   logo:https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png
+id: 5c6dc88fcd232425a6e0f06e, name: Pluto TV Terror,  ch_n: 150,   logo:https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png
+id: 62ba60f059624e000781c436, name: 00s Replay,  ch_n: 160,   logo:https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png
+id: 5f4d86f519358a00072b978e, name: 90s Throwback,  ch_n: 170,   logo:https://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png
+id: 5ca525b650be2571e3943c63, name: 80s Rewind,  ch_n: 180,   logo:https://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png
+id: 5f4d878d3d19b30007d2e782, name: 70s Cinema,  ch_n: 190,   logo:https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png
+id: 5cb0cae7a461406ffe3f5213, name: Paramount Movie Channel,  ch_n: 200,   logo:https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png
+id: 645e7828e1979c00087b75b4, name: MovieSphere by Lionsgate,  ch_n: 205,   logo:https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png
+id: 5b4e94282d4ec87bdcbb87cd, name: Pluto TV Westerns,  ch_n: 210,   logo:https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png
+id: 561c5b0dada51f8004c4d855, name: Classic Movies Channel,  ch_n: 220,   logo:https://images.pluto.tv/channels/561c5b0dada51f8004c4d855/colorLogoPNG_1759790242932.png
+id: 5f4d863b98b41000076cd061, name: Pluto TV Staff Picks,  ch_n: 225,   logo:https://images.pluto.tv/channels/5f4d863b98b41000076cd061/colorLogoPNG.png
+id: 58e55b14ad8e9c364d55f717, name: Flicks of Fury,  ch_n: 240,   logo:https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png
+id: 5c665db3e6c01b72c4977bc2, name: Pluto TV Cult Films,  ch_n: 250,   logo:https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png
+id: 633354b63df9700007f6a1b7, name: Sitcom Legends,  ch_n: 290,   logo:https://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoPNG.png
+id: 66ba495ffe11e5000881f049, name: Cheers + Frasier,  ch_n: 295,   logo:https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG.png
+id: 5c2d64ffbdf11b71587184b8, name: TV Land Sitcoms,  ch_n: 300,   logo:https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png
+id: 6132619f9ddaa50007e7dd86, name: More TV Sitcoms,  ch_n: 310,   logo:https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png
+id: 66e0b4a3f0f17500085cc268, name: Hit Sitcoms,  ch_n: 311,   logo:https://images.pluto.tv/channels/66e0b4a3f0f17500085cc268/colorLogoPNG.png
+id: 5f77939a630f530007dde654, name: Family Ties,  ch_n: 315,   logo:https://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png
+id: 61326275b3c86a00078e4833, name: BET Throwbacks,  ch_n: 320,   logo:https://images.pluto.tv/channels/61326275b3c86a00078e4833/colorLogoPNG_1759340015358.png
+id: 666b265722acab000885c6aa, name: BET x Tyler Perry Comedy,  ch_n: 325,   logo:https://images.pluto.tv/channels/666b265722acab000885c6aa/colorLogoPNG.png
+id: 686d61503484d6073283059d, name: Black Family Sitcoms,  ch_n: 327,   logo:https://images.pluto.tv/channels/686d61503484d6073283059d/colorLogoPNG_1752619670829.png
+id: 580e87ff497c73ba2f321dd3, name: Funny AF,  ch_n: 330,   logo:https://images.pluto.tv/channels/580e87ff497c73ba2f321dd3/colorLogoPNG.png
+id: 67882c1c7b11714b795c2008, name: Sketchy AF,  ch_n: 335,   logo:https://images.pluto.tv/channels/67882c1c7b11714b795c2008/colorLogoPNG.png
+id: 5ca671f215a62078d2ec0abf, name: Comedy Central Pluto TV,  ch_n: 340,   logo:https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/colorLogoPNG.png
+id: 5dae084727c8af0009fe40a4, name: Tosh.0,  ch_n: 370,   logo:https://images.pluto.tv/channels/5dae084727c8af0009fe40a4/colorLogoPNG_1731837283801.png
+id: 5d48678d34ceb37d3c458a55, name: Wild 'N Out,  ch_n: 380,   logo:https://images.pluto.tv/channels/5d48678d34ceb37d3c458a55/colorLogoPNG.png
+id: 545943f1c9f133a519bbac92, name: MST3K,  ch_n: 430,   logo:https://images.pluto.tv/channels/545943f1c9f133a519bbac92/colorLogoPNG.png
+id: 58d947b9e420d8656ee101ab, name: RiffTrax,  ch_n: 440,   logo:https://images.pluto.tv/channels/58d947b9e420d8656ee101ab/colorLogoPNG.png
+id: 554158e864526b29254ff105, name: FailArmy,  ch_n: 460,   logo:https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png
+id: 5f15e32b297f96000768f928, name: Classic TV Comedy,  ch_n: 510,   logo:https://images.pluto.tv/channels/5f15e32b297f96000768f928/colorLogoPNG.png
+id: 61325d18f5166c00081b84e0, name: Classic TV: Families,  ch_n: 520,   logo:https://images.pluto.tv/channels/61325d18f5166c00081b84e0/colorLogoPNG.png
+id: 60f85644a9493e0007a1f035, name: BET Classics,  ch_n: 530,   logo:https://images.pluto.tv/channels/60f85644a9493e0007a1f035/colorLogoPNG_1759339662769.png
+id: 68939e206727ec919bb39061, name: Hogan's Heroes,  ch_n: 535,   logo:https://images.pluto.tv/channels/68939e206727ec919bb39061/colorLogoPNG_1757523507747.png
+id: 634f3011f4fff20007431641, name: I Love Lucy,  ch_n: 540,   logo:https://images.pluto.tv/channels/634f3011f4fff20007431641/colorLogoPNG_1731836749484.png
+id: 60f75178e7f8aa0007e9c259, name: The Andy Griffith Show,  ch_n: 550,   logo:https://images.pluto.tv/channels/60f75178e7f8aa0007e9c259/colorLogoPNG_1758310637593.png
+id: 5d81607ab737153ea3c1c80e, name: The Addams Family,  ch_n: 560,   logo:https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png
+id: 5f7796e470510900070d4e3d, name: Beverly Hillbillies,  ch_n: 570,   logo:https://images.pluto.tv/channels/5f7796e470510900070d4e3d/colorLogoPNG_1731835751688.png
+id: 5f7794162a4559000781fc12, name: Happy Days,  ch_n: 580,   logo:https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG_1731835352299.png
+id: 5ef3977e5d773400077de284, name: Three's Company,  ch_n: 590,   logo:https://images.pluto.tv/channels/5ef3977e5d773400077de284/colorLogoPNG_1731835807101.png
+id: 5f7794a788d29000079d2f07, name: The Love Boat,  ch_n: 620,   logo:https://images.pluto.tv/channels/5f7794a788d29000079d2f07/colorLogoPNG_1731835231895.png
+id: 64d1606b4c5ed80008e3b8b9, name: Dynasty,  ch_n: 630,   logo:https://images.pluto.tv/channels/64d1606b4c5ed80008e3b8b9/colorLogoPNG_1731835571308.png
+id: 654933ac986ad20008a1f406, name: Little House on the Prairie,  ch_n: 640,   logo:https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png
+id: 5f15e3cccf49290007053c67, name: Classic TV Drama,  ch_n: 650,   logo:https://images.pluto.tv/channels/5f15e3cccf49290007053c67/colorLogoPNG.png
+id: 61325c4f982acd000723287e, name: Classic TV Crime Drama,  ch_n: 660,   logo:https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png
+id: 6549341853fc9700083901ac, name: Universal Crime,  ch_n: 670,   logo:https://images.pluto.tv/channels/6549341853fc9700083901ac/colorLogoPNG.png
+id: 60f754f98185580007eb0754, name: Matlock,  ch_n: 680,   logo:https://images.pluto.tv/channels/60f754f98185580007eb0754/colorLogoPNG_1731836706925.png
+id: 6549337183595c000815ad05, name: Murder, She Wrote,  ch_n: 690,   logo:https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png
+id: 6197086891ddd4000739941a, name: Perry Mason,  ch_n: 700,   logo:https://images.pluto.tv/channels/6197086891ddd4000739941a/colorLogoPNG_1731835750293.png
+id: 5f77977bd924d80007eee60c, name: Mission Impossible,  ch_n: 710,   logo:https://images.pluto.tv/channels/5f77977bd924d80007eee60c/colorLogoPNG_1731835516936.png
+id: 5f36d726234ce10007784f2a, name: The Bob Ross Channel,  ch_n: 780,   logo:https://images.pluto.tv/channels/5f36d726234ce10007784f2a/colorLogoPNG.png
+id: 5e8df4bc16e34700077e77d3, name: Western TV,  ch_n: 791,   logo:https://images.pluto.tv/channels/5e8df4bc16e34700077e77d3/colorLogoPNG.png
+id: 60f75771dfc72a00071fd0e0, name: Gunsmoke,  ch_n: 795,   logo:https://images.pluto.tv/channels/60f75771dfc72a00071fd0e0/colorLogoPNG.png
+id: 664e640a0120f40008be4582, name: The Wild Wild West,  ch_n: 800,   logo:https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png
+id: 634f307c7a068e00072c9982, name: Rawhide,  ch_n: 810,   logo:https://images.pluto.tv/channels/634f307c7a068e00072c9982/colorLogoPNG_1731835685335.png
+id: 5e825550e758c700077b0aef, name: The Rifleman,  ch_n: 815,   logo:https://images.pluto.tv/channels/5e825550e758c700077b0aef/colorLogoPNG.png
+id: 65a6dafb7bdc8d0008473c85, name: The Lone Ranger,  ch_n: 825,   logo:https://images.pluto.tv/channels/65a6dafb7bdc8d0008473c85/colorLogoPNG.png
+id: 6661f88f3d173b000845958c, name: Wild West TV,  ch_n: 830,   logo:https://images.pluto.tv/channels/6661f88f3d173b000845958c/colorLogoPNG.png
+id: 61f33318210549000806a530, name: Classic Movie Westerns,  ch_n: 835,   logo:https://images.pluto.tv/channels/61f33318210549000806a530/colorLogoPNG.png
+id: 5efbd39f8c4ce900075d7698, name: Star Trek,  ch_n: 840,   logo:https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png
+id: 634dacf51d90320007fcd5fa, name: Star Trek Voyager,  ch_n: 850,   logo:https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG_1758310287876.png
+id: 65c69bbfd77d450008c7ffee, name: Star Trek Deep Space Nine,  ch_n: 855,   logo:https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG_1758310416057.png
+id: 67352ed93a61d4000881f9fa, name: The Twilight Zone,  ch_n: 857,   logo:https://images.pluto.tv/channels/67352ed93a61d4000881f9fa/colorLogoPNG_1732662672508.png
+id: 620bfa7df72827000703ddb1, name: Stargate,  ch_n: 860,   logo:https://images.pluto.tv/channels/620bfa7df72827000703ddb1/colorLogoPNG.png
+id: 5ce4475cd43850831ca91ce7, name: Doctor Who Classic,  ch_n: 870,   logo:https://images.pluto.tv/channels/5ce4475cd43850831ca91ce7/colorLogoPNG.png
+id: 66c638726838ee00085ac20d, name: OuterSphere,  ch_n: 875,   logo:https://images.pluto.tv/channels/66c638726838ee00085ac20d/colorLogoPNG.png
+id: 5b4fc274694c027be6ed3eea, name: Pluto TV Sci-Fi,  ch_n: 880,   logo:https://images.pluto.tv/channels/5b4fc274694c027be6ed3eea/colorLogoPNG.png
+id: 65a9b20f0c7ff50008d3a3b6, name: Universal Monsters,  ch_n: 905,   logo:https://images.pluto.tv/channels/65a9b20f0c7ff50008d3a3b6/colorLogoPNG.png
+id: 5efbd29e4aa26700076c0d06, name: CSI,  ch_n: 960,   logo:https://images.pluto.tv/channels/5efbd29e4aa26700076c0d06/colorLogoPNG.png
+id: 62f54c11b3af68000702c304, name: CSI: Miami,  ch_n: 970,   logo:https://images.pluto.tv/channels/62f54c11b3af68000702c304/colorLogoPNG_1731837343443.png
+id: 62f54c6439183b000769fb8f, name: CSI: NY,  ch_n: 980,   logo:https://images.pluto.tv/channels/62f54c6439183b000769fb8f/colorLogoPNG_1731837277521.png
+id: 65653817c917a5000844bc30, name: Criminal Minds,  ch_n: 990,   logo:https://images.pluto.tv/channels/65653817c917a5000844bc30/colorLogoPNG.png
+id: 68758038552299d2b08162e3, name: Law & Order,  ch_n: 995,   logo:https://images.pluto.tv/channels/68758038552299d2b08162e3/colorLogoPNG_1754039420438.png
+id: 61b3b8c645b45d0007a9bb8d, name: Blue Bloods,  ch_n: 1000,   logo:https://images.pluto.tv/channels/61b3b8c645b45d0007a9bb8d/colorLogoPNG_1731834396573.png
+id: 66df70cd61dbf00008fa26ff, name: The Good Wife,  ch_n: 1003,   logo:https://images.pluto.tv/channels/66df70cd61dbf00008fa26ff/colorLogoPNG.png
+id: 6675c742ca74680008566b88, name: Nash Bridges,  ch_n: 1005,   logo:https://images.pluto.tv/channels/6675c742ca74680008566b88/colorLogoPNG.png
+id: 5f31fd1b4c510e00071c3103, name: Pluto TV Crime Drama,  ch_n: 1010,   logo:https://images.pluto.tv/channels/5f31fd1b4c510e00071c3103/colorLogoPNG.png
+id: 666b38a5efa2a10008b15b3a, name: BET x Tyler Perry Drama,  ch_n: 1015,   logo:https://images.pluto.tv/channels/666b38a5efa2a10008b15b3a/colorLogoPNG.png
+id: 6675c713fc3a46000863dde7, name: Ebony TV Drama,  ch_n: 1016,   logo:https://images.pluto.tv/channels/6675c713fc3a46000863dde7/colorLogoPNG.png
+id: 5d40bebc5e3d2750a2239d7e, name: TV Land Drama,  ch_n: 1020,   logo:https://images.pluto.tv/channels/5d40bebc5e3d2750a2239d7e/colorLogoPNG.png
+id: 613260e4bdb71c00070d63fa, name: More TV Drama,  ch_n: 1030,   logo:https://images.pluto.tv/channels/613260e4bdb71c00070d63fa/colorLogoPNG.png
+id: 65033c4b98020f0008547124, name: S.W.A.T.,  ch_n: 1040,   logo:https://images.pluto.tv/channels/65033c4b98020f0008547124/colorLogoPNG_1746815929362.png
+id: 654933e253fc970008390114, name: Universal Action,  ch_n: 1050,   logo:https://images.pluto.tv/channels/654933e253fc970008390114/colorLogoPNG.png
+id: 62fa8176b9884200074ef5ae, name: The Walking Dead Universe,  ch_n: 1060,   logo:https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png
+id: 5cbf6a868a1bce4a3d52a5e9, name: Midsomer Murders,  ch_n: 1080,   logo:https://images.pluto.tv/channels/5cbf6a868a1bce4a3d52a5e9/colorLogoPNG.png
+id: 60f5d389985a0c0007357304, name: BritBox Mysteries,  ch_n: 1090,   logo:https://images.pluto.tv/channels/60f5d389985a0c0007357304/colorLogoPNG.png
+id: 65775af3b3801200084a3aa4, name: Feel Good Drama,  ch_n: 1120,   logo:https://images.pluto.tv/channels/65775af3b3801200084a3aa4/colorLogoPNG.png
+id: 5f24662bebe0f0000767de32, name: Supernatural Drama,  ch_n: 1130,   logo:https://images.pluto.tv/channels/5f24662bebe0f0000767de32/colorLogoPNG.png
+id: 5f4d83e0a382c00007bc02e7, name: Beverly Hills 90210,  ch_n: 1150,   logo:https://images.pluto.tv/channels/5f4d83e0a382c00007bc02e7/colorLogoPNG.png
+id: 61f07513227feb00073ee6bc, name: Heartland,  ch_n: 1160,   logo:https://images.pluto.tv/channels/61f07513227feb00073ee6bc/colorLogoPNG.png
+id: 5c6eeb85c05dfc257e5a50c4, name: Degrassi,  ch_n: 1170,   logo:https://images.pluto.tv/channels/5c6eeb85c05dfc257e5a50c4/colorLogoPNG.png
+id: 5812be1c249444e05d09cc50, name: Pluto TV True Crime,  ch_n: 1220,   logo:https://images.pluto.tv/channels/5812be1c249444e05d09cc50/colorLogoPNG.png
+id: 6532e6a9bdf3cf000887ab29, name: More True Crime,  ch_n: 1230,   logo:https://images.pluto.tv/channels/6532e6a9bdf3cf000887ab29/colorLogoPNG.png
+id: 6887aaade3703b7d42b64be8, name: The First 48 by A&E,  ch_n: 1235,   logo:https://images.pluto.tv/channels/6887aaade3703b7d42b64be8/colorLogoPNG_1754999153420.png
+id: 6887a4e01067b66fa16966ec, name: Live PD Presents,  ch_n: 1237,   logo:https://images.pluto.tv/channels/6887a4e01067b66fa16966ec/colorLogoPNG_1757525803914.png
+id: 65492fc7056b9700088560b5, name: American Crimes,  ch_n: 1240,   logo:https://images.pluto.tv/channels/65492fc7056b9700088560b5/colorLogoPNG.png
+id: 637413d8531e0c0007442d6d, name: Dateline 24/7,  ch_n: 1250,   logo:https://images.pluto.tv/channels/637413d8531e0c0007442d6d/colorLogoPNG.png
+id: 6176f39e709f160007ec61c3, name: 48 Hours,  ch_n: 1260,   logo:https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png
+id: 5b4e96a0423e067bd6df6901, name: Unsolved Mysteries,  ch_n: 1270,   logo:https://images.pluto.tv/channels/5b4e96a0423e067bd6df6901/colorLogoPNG.png
+id: 5aea40b35126c2157123aa64, name: The New Detectives,  ch_n: 1280,   logo:https://images.pluto.tv/channels/5aea40b35126c2157123aa64/colorLogoPNG.png
+id: 5c37d6712de254456f7ec340, name: Cold Case Files by A&E,  ch_n: 1290,   logo:https://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG.png
+id: 5bb1af6a268cae539bcedb0a, name: Forensic Files,  ch_n: 1300,   logo:https://images.pluto.tv/channels/5bb1af6a268cae539bcedb0a/colorLogoPNG.png
+id: 654930a8346f420008d3b0b8, name: Oxygen True Crime Archives,  ch_n: 1310,   logo:https://images.pluto.tv/channels/654930a8346f420008d3b0b8/colorLogoPNG.png
+id: 5dae0b4841a7d0000938ddbd, name: Court TV,  ch_n: 1320,   logo:https://images.pluto.tv/channels/5dae0b4841a7d0000938ddbd/colorLogoPNG.png
+id: 6000a5a9e767980007b497ca, name: Crime 360 by A&E,  ch_n: 1330,   logo:https://images.pluto.tv/channels/6000a5a9e767980007b497ca/colorLogoPNG_1750786948836.png
+id: 5e1f7e089f23700009d66303, name: COPS,  ch_n: 1380,   logo:https://images.pluto.tv/channels/5e1f7e089f23700009d66303/colorLogoPNG.png
+id: 65244c403fd33c0008ffff31, name: Car Chase,  ch_n: 1390,   logo:https://images.pluto.tv/channels/65244c403fd33c0008ffff31/colorLogoPNG.png
+id: 5bee1a7359ee03633e780238, name: Dog the Bounty Hunter,  ch_n: 1400,   logo:https://images.pluto.tv/channels/5bee1a7359ee03633e780238/colorLogoPNG.png
+id: 6887a8fd8e92b5e0a7244e88, name: Ancient Aliens,  ch_n: 1405,   logo:https://images.pluto.tv/channels/6887a8fd8e92b5e0a7244e88/colorLogoPNG_1753992701393.png
+id: 5ef3958c66ac540007d6e6a7, name: Dark Shadows,  ch_n: 1415,   logo:https://images.pluto.tv/channels/5ef3958c66ac540007d6e6a7/colorLogoPNG.png
+id: 5812bcc8237a6ff45d16c407, name: Spike Pluto TV,  ch_n: 1420,   logo:https://images.pluto.tv/channels/5812bcc8237a6ff45d16c407/colorLogoPNG.png
+id: 5d8bf0b06d2d855ee15115e3, name: Pluto TV Reality,  ch_n: 1450,   logo:https://images.pluto.tv/channels/5d8bf0b06d2d855ee15115e3/colorLogoPNG.png
+id: 60a3d889a5b3690008dc7fe8, name: Bar Rescue,  ch_n: 1460,   logo:https://images.pluto.tv/channels/60a3d889a5b3690008dc7fe8/colorLogoPNG.png
+id: 6565413e4261ca0008215320, name: Pickers & Pawn,  ch_n: 1465,   logo:https://images.pluto.tv/channels/6565413e4261ca0008215320/colorLogoPNG.png
+id: 6887aaf4e3703b7d42b71a1e, name: Storage Wars by A&E,  ch_n: 1467,   logo:https://images.pluto.tv/channels/6887aaf4e3703b7d42b71a1e/colorLogoPNG_1755034317630.png
+id: 6000a6f4c3f8550008fc9b91, name: Xtreme Outdoor Presented by HISTORY,  ch_n: 1470,   logo:https://images.pluto.tv/channels/6000a6f4c3f8550008fc9b91/colorLogoPNG.png
+id: 5c393cad2de254456f7ef8c2, name: Spike Outdoors,  ch_n: 1480,   logo:https://images.pluto.tv/channels/5c393cad2de254456f7ef8c2/colorLogoPNG.png
+id: 65c69bf23ef47d0008583967, name: Tough Jobs,  ch_n: 1485,   logo:https://images.pluto.tv/channels/65c69bf23ef47d0008583967/colorLogoPNG.png
+id: 686c2677ed17cf4c900a496d, name: Wicked Tuna,  ch_n: 1487,   logo:https://images.pluto.tv/channels/686c2677ed17cf4c900a496d/colorLogoPNG_1755124512679.png
+id: 5cabdf1437b88b26947346b2, name: Pluto TV Backcountry,  ch_n: 1490,   logo:https://images.pluto.tv/channels/5cabdf1437b88b26947346b2/colorLogoPNG.png
+id: 5d8beeb39b5d5d5f8c672530, name: Pluto TV Lives,  ch_n: 1500,   logo:https://images.pluto.tv/channels/5d8beeb39b5d5d5f8c672530/colorLogoPNG.png
+id: 6565436c9d5ac4000822f552, name: Medical Incredible,  ch_n: 1510,   logo:https://images.pluto.tv/channels/6565436c9d5ac4000822f552/colorLogoPNG.png
+id: 656538f8954b020008d389db, name: UnXplained Zone,  ch_n: 1530,   logo:https://images.pluto.tv/channels/656538f8954b020008d389db/colorLogoPNG.png
+id: 5adf96e3e738977e2c31cb04, name: Pluto TV Paranormal,  ch_n: 1540,   logo:https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG.png
+id: 64e561a4354251000823a0e0, name: Ghost Hunters,  ch_n: 1550,   logo:https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png
+id: 5812b3a4249444e05d09cc46, name: Pluto TV Cars,  ch_n: 1560,   logo:https://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png
+id: 636adc255bcf470007d6e0e2, name: Top Gear,  ch_n: 1570,   logo:https://images.pluto.tv/channels/636adc255bcf470007d6e0e2/colorLogoPNG.png
+id: 627d355aa95efd00077afcc7, name: Cheaters,  ch_n: 1580,   logo:https://images.pluto.tv/channels/627d355aa95efd00077afcc7/colorLogoPNG.png
+id: 651f239d9c7aeb0008286823, name: Dating Disasters,  ch_n: 1670,   logo:https://images.pluto.tv/channels/651f239d9c7aeb0008286823/colorLogoPNG.png
+id: 6887a86be3703b7d42b3eca3, name: Matched Married Meet by Lifetime,  ch_n: 1673,   logo:https://images.pluto.tv/channels/6887a86be3703b7d42b3eca3/colorLogoPNG_1757524386570.png
+id: 66abefe5d2d50d00082c7d12, name: VH1 Queens of Reality,  ch_n: 1675,   logo:https://images.pluto.tv/channels/66abefe5d2d50d00082c7d12/colorLogoPNG.png
+id: 5d51e2bceca5b4b2c0e06c50, name: Black Ink Crew,  ch_n: 1680,   logo:https://images.pluto.tv/channels/5d51e2bceca5b4b2c0e06c50/colorLogoPNG_1731835399139.png
+id: 5d51ddf0369acdb278dfb05e, name: Love & Hip Hop,  ch_n: 1690,   logo:https://images.pluto.tv/channels/5d51ddf0369acdb278dfb05e/colorLogoPNG.png
+id: 609bfa51fbecc1000733152e, name: Jersey Shore,  ch_n: 1720,   logo:https://images.pluto.tv/channels/609bfa51fbecc1000733152e/colorLogoPNG.png
+id: 6127e12ed140e900077e7b6f, name: Teen Mom,  ch_n: 1740,   logo:https://images.pluto.tv/channels/6127e12ed140e900077e7b6f/colorLogoPNG.png
+id: 6549322e53fc97000838febc, name: Million Dollar Listing Vault,  ch_n: 1770,   logo:https://images.pluto.tv/channels/6549322e53fc97000838febc/colorLogoPNG.png
+id: 6549310a53fc97000838fcc9, name: Bravo Vault,  ch_n: 1780,   logo:https://images.pluto.tv/channels/6549310a53fc97000838fcc9/colorLogoPNG.png
+id: 6549316d2c1d330008631496, name: Real Housewives Vault,  ch_n: 1790,   logo:https://images.pluto.tv/channels/6549316d2c1d330008631496/colorLogoPNG.png
+id: 654932fa4d6d8f00084c4723, name: Bad Girls Club,  ch_n: 1800,   logo:https://images.pluto.tv/channels/654932fa4d6d8f00084c4723/colorLogoPNG.png
+id: 6532e8342cf13100083b404c, name: Warner Bros. TV Say Yes to the Dress,  ch_n: 1805,   logo:https://images.pluto.tv/channels/6532e8342cf13100083b404c/colorLogoPNG.png
+id: 5e82530945600e0007ca076c, name: All Reality WE tv,  ch_n: 1810,   logo:https://images.pluto.tv/channels/5e82530945600e0007ca076c/colorLogoPNG.png
+id: 603fde9026ecbf0007752c2c, name: Pluto TV Competition,  ch_n: 1870,   logo:https://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png
+id: 68757c45759366af05b3b199, name: America's Next Top Model,  ch_n: 1873,   logo:https://images.pluto.tv/channels/68757c45759366af05b3b199/colorLogoPNG-1756852664017.png
+id: 68757c60552299d2b080eab6, name: Project Runway,  ch_n: 1876,   logo:https://images.pluto.tv/channels/68757c60552299d2b080eab6/colorLogoPNG_1753221108158.png
+id: 5d40855b3fb0855028c99b6f, name: DCC: Making the Team,  ch_n: 1880,   logo:https://images.pluto.tv/channels/5d40855b3fb0855028c99b6f/colorLogoPNG.png
+id: 60807fd5db701400078219c2, name: Ink Master,  ch_n: 1890,   logo:https://images.pluto.tv/channels/60807fd5db701400078219c2/colorLogoPNG_1731836032181.png
+id: 5b4e99f4423e067bd6df6903, name: Gordon Ramsay's Hell's Kitchen,  ch_n: 1900,   logo:https://images.pluto.tv/channels/5b4e99f4423e067bd6df6903/colorLogoPNG.png
+id: 677d672ef090ab00085b8e9b, name: Robot Wars by MECH+,  ch_n: 1923,   logo:https://images.pluto.tv/channels/677d672ef090ab00085b8e9b/colorLogoPNG.png
+id: 6661f11a41af6400080e90d8, name: Big Brother,  ch_n: 1940,   logo:https://images.pluto.tv/channels/6661f11a41af6400080e90d8/colorLogoPNG.png
+id: 5f21e7b24744c60007c1f6fc, name: Survivor,  ch_n: 1950,   logo:https://images.pluto.tv/channels/5f21e7b24744c60007c1f6fc/colorLogoPNG.png
+id: 5f21e8a6e2f12b000755afdb, name: The Amazing Race,  ch_n: 1960,   logo:https://images.pluto.tv/channels/5f21e8a6e2f12b000755afdb/colorLogoPNG.png
+id: 5d48685da7e9f476aa8a1888, name: The Challenge,  ch_n: 1970,   logo:https://images.pluto.tv/channels/5d48685da7e9f476aa8a1888/colorLogoPNG.png
+id: 5ff8c708653d080007361b14, name: Paramount+ Picks,  ch_n: 2020,   logo:https://images.pluto.tv/channels/5ff8c708653d080007361b14/colorLogoPNG.png
+id: 5ca670f6593a5d78f0e85aed, name: BET Pluto TV,  ch_n: 2040,   logo:https://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png
+id: 68487fb3f212bedacf5a53e3, name: 50 Cent Action,  ch_n: 2050,   logo:https://images.pluto.tv/channels/68487fb3f212bedacf5a53e3/colorLogoPNG_1749846553889.png
+id: 65453f30085df200085883d8, name: ION,  ch_n: 2060,   logo:https://images.pluto.tv/channels/65453f30085df200085883d8/colorLogoPNG.png
+id: 63335b193583440007c859fb, name: Movie Favorites By Lifetime,  ch_n: 2070,   logo:https://images.pluto.tv/channels/63335b193583440007c859fb/colorLogoPNG.png
+id: 628e685ba3811100070551a8, name: Hallmark Movies & More,  ch_n: 2080,   logo:https://images.pluto.tv/channels/628e685ba3811100070551a8/colorLogoPNG.png
+id: 6176fd25e83a5f0007a464c9, name: Bounce XL,  ch_n: 2100,   logo:https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png
+id: 6793ea255225b515b4ba91a7, name: ALLBLK Gems,  ch_n: 2103,   logo:https://images.pluto.tv/channels/6793ea255225b515b4ba91a7/colorLogoPNG.png
+id: 5ca672f515a62078d2ec0ad2, name: MTV Pluto TV,  ch_n: 2140,   logo:https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png
+id: 5ce5a8954311f992edbe1da2, name: Logo Pluto TV,  ch_n: 2160,   logo:https://images.pluto.tv/channels/5ce5a8954311f992edbe1da2/colorLogoPNG_1731836723261.png
+id: 674f735a2fb8a100087bf253, name: Revry,  ch_n: 2163,   logo:https://images.pluto.tv/channels/674f735a2fb8a100087bf253/colorLogoPNG_1748892659343.png
+id: 5dc0c78281eddb0009a02d5e, name: ET,  ch_n: 2185,   logo:https://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png
+id: 5873fc21cad696fb37aa9054, name: Live Music,  ch_n: 2190,   logo:https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png
+id: 643f035d5a0cd50008361534, name: The Price Is Right,  ch_n: 2250,   logo:https://images.pluto.tv/channels/643f035d5a0cd50008361534/colorLogoPNG.png
+id: 5f7791b8372da90007fd45e6, name: The Price Is Right: The Barker Era,  ch_n: 2260,   logo:https://images.pluto.tv/channels/5f7791b8372da90007fd45e6/colorLogoPNG.png
+id: 6267352efcf21c0007c76642, name: Let's Make A Deal,  ch_n: 2270,   logo:https://images.pluto.tv/channels/6267352efcf21c0007c76642/colorLogoPNG.png
+id: 672e4d915534bb0008c50168, name: Family Feud,  ch_n: 2290,   logo:https://images.pluto.tv/channels/672e4d915534bb0008c50168/colorLogoPNG_1732662454856.png
+id: 643f03b9d8436e0008edf021, name: Family Feud Classic,  ch_n: 2300,   logo:https://images.pluto.tv/channels/643f03b9d8436e0008edf021/colorLogoPNG.png
+id: 649ddbfb6f29ec000874ca9e, name: Supermarket Sweep,  ch_n: 2320,   logo:https://images.pluto.tv/channels/649ddbfb6f29ec000874ca9e/colorLogoPNG.png
+id: 5e9debf8c881310007d7bde1, name: Deal or No Deal,  ch_n: 2330,   logo:https://images.pluto.tv/channels/5e9debf8c881310007d7bde1/colorLogoPNG.png
+id: 5812bfbe4ced4f7b601b12e6, name: BUZZR,  ch_n: 2340,   logo:https://images.pluto.tv/channels/5812bfbe4ced4f7b601b12e6/colorLogoPNG.png
+id: 6036e7c385749f00075dbd3b, name: Pluto TV Game Shows,  ch_n: 2350,   logo:https://images.pluto.tv/channels/6036e7c385749f00075dbd3b/colorLogoPNG.png
+id: 5e54187aae660e00093561d6, name: Game Show Central,  ch_n: 2370,   logo:https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png
+id: 60f760bbdf090700075d7bfe, name: Best of Dr. Phil,  ch_n: 2430,   logo:https://images.pluto.tv/channels/60f760bbdf090700075d7bfe/colorLogoPNG.png
+id: 68757effdf333e336be1e49f, name: Tony Robbins Network,  ch_n: 2432,   logo:https://images.pluto.tv/channels/68757effdf333e336be1e49f/colorLogoPNG_1754963877109.png
+id: 687ff00ff6bc08130f16ab81, name: Beyond the Gates,  ch_n: 2435,   logo:https://images.pluto.tv/channels/687ff00ff6bc08130f16ab81/colorLogoPNG_1755074273752.png
+id: 5aec96ec5126c2157123c657, name: Nosey,  ch_n: 2440,   logo:https://images.pluto.tv/channels/5aec96ec5126c2157123c657/colorLogoPNG.png
+id: 634ee8f95aa9870007248333, name: Confess by Nosey,  ch_n: 2450,   logo:https://images.pluto.tv/channels/634ee8f95aa9870007248333/colorLogoPNG.png
+id: 5e9decb953e157000752321c, name: Judge Nosey,  ch_n: 2460,   logo:https://images.pluto.tv/channels/5e9decb953e157000752321c/colorLogoPNG.png
+id: 6283d51144ad8f0007fa382d, name: The Judge Judy Channel,  ch_n: 2470,   logo:https://images.pluto.tv/channels/6283d51144ad8f0007fa382d/colorLogoPNG.png
+id: 6036e6e7ac69c400072afca2, name: Hot Bench,  ch_n: 2480,   logo:https://images.pluto.tv/channels/6036e6e7ac69c400072afca2/colorLogoPNG_1731835667408.png
+id: 5bdcdf1e851dd5632e2c11d1, name: QVC,  ch_n: 2500,   logo:https://images.pluto.tv/channels/5bdcdf1e851dd5632e2c11d1/colorLogoPNG.png
+id: 67817323dd7846fe546940dd, name: QVC2,  ch_n: 2505,   logo:https://images.pluto.tv/channels/67817323dd7846fe546940dd/colorLogoPNG.png
+id: 5f8a02476b72230007e62b7d, name: HSN,  ch_n: 2510,   logo:https://images.pluto.tv/channels/5f8a02476b72230007e62b7d/colorLogoPNG-1675271320133.png
+id: 5a6b92f6e22a617379789618, name: CBS News 24/7,  ch_n: 2530,   logo:https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png
+id: 5df97894467dfa00091c873c, name: NBC News NOW,  ch_n: 2531,   logo:https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png
+id: 6508be683a0d700008c534e4, name: ABC News Live,  ch_n: 2532,   logo:https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png
+id: 5421f71da6af422839419cb3, name: CNN HEADLINES,  ch_n: 2533,   logo:https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG_1755034025681.png
+id: 63d025db4e83e700086eaa96, name: LiveNOW from FOX,  ch_n: 2534,   logo:https://images.pluto.tv/channels/63d025db4e83e700086eaa96/colorLogoPNG.png
+id: 62cdca1cda044a00077b903d, name: CBS News Philadelphia,  ch_n: 2540,   logo:https://images.pluto.tv/channels/62cdca1cda044a00077b903d/colorLogoPNG.png
+id: 5dc9b8223687ff000936ed79, name: CBS News New York,  ch_n: 2550,   logo:https://images.pluto.tv/channels/5dc9b8223687ff000936ed79/colorLogoPNG.png
+id: 5dc9b875e280c80009a8a44a, name: CBS News Los Angeles,  ch_n: 2560,   logo:https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png
+id: 62cdc8fdb05d2b0007ef5035, name: CBS News Miami,  ch_n: 2570,   logo:https://images.pluto.tv/channels/62cdc8fdb05d2b0007ef5035/colorLogoPNG.png
+id: 60fb299b79498900070b29e0, name: CBS News Miami,  ch_n: 2570,   logo:https://images.pluto.tv/channels/60fb299b79498900070b29e0/colorLogoPNG.png
+id: 5d695f7db53adf96b78e7ce3, name: TODAY All Day,  ch_n: 2580,   logo:https://images.pluto.tv/channels/5d695f7db53adf96b78e7ce3/colorLogoPNG.png
+id: 5459795fc9f133a519bc0bef, name: Scripps News,  ch_n: 2600,   logo:https://images.pluto.tv/channels/5459795fc9f133a519bc0bef/colorLogoPNG.png
+id: 640a68880e884c0009979cc2, name: FOX Weather,  ch_n: 2619,   logo:https://images.pluto.tv/channels/640a68880e884c0009979cc2/colorLogoPNG-1757012691643.png
+id: 628c274a02000400070a3ae4, name: WeatherNation Raleigh-Durham,  ch_n: 2620,   logo:https://images.pluto.tv/channels/628c274a02000400070a3ae4/colorLogoPNG.png
+id: 65d92a8c8b24c80008e285c0, name: BBC News,  ch_n: 2629,   logo:https://images.pluto.tv/channels/65d92a8c8b24c80008e285c0/colorLogoPNG.png
+id: 55b285cd2665de274553d66f, name: Sky News,  ch_n: 2630,   logo:https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png
+id: 54ff7ba69222cb1c2624c584, name: Bloomberg TV+,  ch_n: 2640,   logo:https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG_1756948295813.png
+id: 55b179af994403942f3061d6, name: Newsmax2,  ch_n: 2670,   logo:https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png
+id: 5e46fba0c43b0d00096e5ac1, name: Blaze Live,  ch_n: 2680,   logo:https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png
+id: 5e1f7da4bc7d740009831259, name: America's Voice News,  ch_n: 2690,   logo:https://images.pluto.tv/channels/5e1f7da4bc7d740009831259/colorLogoPNG.png
+id: 5e7cf6c7b156d500078c5f44, name: OAN Plus,  ch_n: 2700,   logo:https://images.pluto.tv/channels/5e7cf6c7b156d500078c5f44/colorLogoPNG.png
+id: 66a7f0a78561260008c177f2, name: Salem News Channel,  ch_n: 2702,   logo:https://images.pluto.tv/channels/66a7f0a78561260008c177f2/colorLogoPNG.png
+id: 5d486acc34ceb37d3c458a64, name: The First,  ch_n: 2705,   logo:https://images.pluto.tv/channels/5d486acc34ceb37d3c458a64/colorLogoPNG.png
+id: 5e9f2c05172a0f0007db4786, name: CBS Sports HQ,  ch_n: 2780,   logo:https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG_1731837352945.png
+id: 5a74b8e1e22a61737979c6bf, name: FOX Sports,  ch_n: 2790,   logo:https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png
+id: 6549306c83595c000815a696, name: NBC Sports NOW,  ch_n: 2791,   logo:https://images.pluto.tv/channels/6549306c83595c000815a696/colorLogoPNG.png
+id: 5ced7d5df64be98e07ed47b6, name: NFL Channel,  ch_n: 2800,   logo:https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png
+id: 6792c30abc03978b9b8bb832, name: The NBA Channel,  ch_n: 2805,   logo:https://images.pluto.tv/channels/6792c30abc03978b9b8bb832/colorLogoPNG_1747950897785.png
+id: 5e66968a70f34c0007d050be, name: MLB,  ch_n: 2810,   logo:https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png
+id: 5de94dacb394a300099fa22a, name: PGA TOUR,  ch_n: 2820,   logo:https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png
+id: 65493029ab052400089e9d2f, name: GolfPass,  ch_n: 2823,   logo:https://images.pluto.tv/channels/65493029ab052400089e9d2f/colorLogoPNG.png
+id: 681109b688b9d85d0938c6ba, name: TennisChannel 2,  ch_n: 2825,   logo:https://images.pluto.tv/channels/681109b688b9d85d0938c6ba/colorLogoPNG_1747434868944.png
+id: 63a0e33a45264d000850ed7e, name: Golazo Network,  ch_n: 2830,   logo:https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png
+id: 65ea8b928145cb0008509426, name: UEFA Champions League,  ch_n: 2831,   logo:https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png
+id: 60d39387706fe50007fda8e8, name: PBR RidePass,  ch_n: 2840,   logo:https://images.pluto.tv/channels/60d39387706fe50007fda8e8/colorLogoPNG.png
+id: 677d9adfa9a51b0008497fa0, name: UFC,  ch_n: 2850,   logo:https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png
+id: 64d160f53c785e0008df525e, name: Top Rank Classics,  ch_n: 2862,   logo:https://images.pluto.tv/channels/64d160f53c785e0008df525e/colorLogoPNG.png
+id: 649b6898f2ec0000081a9460, name: DAZN Ringside,  ch_n: 2864,   logo:https://images.pluto.tv/channels/649b6898f2ec0000081a9460/colorLogoPNG.png
+id: 5ebc8688f3697d00072f7cf8, name: Bellator MMA,  ch_n: 2870,   logo:https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png
+id: 668c5d3bfd9eb2000882bb50, name: ONE Championship TV,  ch_n: 2875,   logo:https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png
+id: 6334a574605f140007e233c4, name: PFL MMA,  ch_n: 2880,   logo:https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png
+id: 5417a212ff9fba68282fbf5e, name: GLORY Kickboxing,  ch_n: 2885,   logo:https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png
+id: 59b722526996084038c01e1b, name: TNA Wrestling,  ch_n: 2890,   logo:https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png
+id: 66b66b9e14a2bb000872f606, name: WOW – Women of Wrestling,  ch_n: 2895,   logo:https://images.pluto.tv/channels/66b66b9e14a2bb000872f606/colorLogoPNG.png
+id: 682e43b21295f98347710917, name: AWSN,  ch_n: 2900,   logo:https://images.pluto.tv/channels/682e43b21295f98347710917/colorLogoPNG_1748886692805.png
+id: 686d8dd294a028da3ac59566, name: Women's Sports Network,  ch_n: 2903,   logo:https://images.pluto.tv/channels/686d8dd294a028da3ac59566/colorLogoPNG_1753992941899.png
+id: 683df56f5195c2a60a3f5559, name: Swerve Sports,  ch_n: 2905,   logo:https://images.pluto.tv/channels/683df56f5195c2a60a3f5559/colorLogoPNG_1750976158732.png
+id: 5616f9c0ada51f8004c4b091, name: World Poker Tour,  ch_n: 2930,   logo:https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG-1664295222280.png
+id: 5fc54366b04b2300072e31af, name: PokerGO,  ch_n: 2940,   logo:https://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png
+id: 661827ffe8fba800086b217d, name: Triton Poker,  ch_n: 2942,   logo:https://images.pluto.tv/channels/661827ffe8fba800086b217d/colorLogoPNG.png
+id: 65c69ee3d77d450008c80438, name: F1 Channel,  ch_n: 2960,   logo:https://images.pluto.tv/channels/65c69ee3d77d450008c80438/colorLogoPNG.png
+id: 65c69b683ba51e00084534a3, name: Monster Jam,  ch_n: 2970,   logo:https://images.pluto.tv/channels/65c69b683ba51e00084534a3/colorLogoPNG.png
+id: 6400f731d200410008f9b339, name: MotorTrend FAST TV,  ch_n: 2980,   logo:https://images.pluto.tv/channels/6400f731d200410008f9b339/colorLogoPNG.png
+id: 63b48016d9dd51000828fa37, name: POWERNATION,  ch_n: 2990,   logo:https://images.pluto.tv/channels/63b48016d9dd51000828fa37/colorLogoPNG.png
+id: 650b68bc2ce8e40008ac9c14, name: FanDuel TV Extra,  ch_n: 3003,   logo:https://images.pluto.tv/channels/650b68bc2ce8e40008ac9c14/colorLogoPNG_1744930668027.png
+id: 5bb3fea0f711fd76340eebff, name: Pluto TV Military,  ch_n: 3080,   logo:https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png
+id: 5a4d35dfa5c02e717a234f86, name: Pluto TV History,  ch_n: 3090,   logo:https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png
+id: 66b646f9cd0d3100086af83c, name: 60 Minutes,  ch_n: 3095,   logo:https://images.pluto.tv/channels/66b646f9cd0d3100086af83c/colorLogoPNG.png
+id: 66e0b4536ad04d0008fff4b2, name: CNN Originals,  ch_n: 3097,   logo:https://images.pluto.tv/channels/66e0b4536ad04d0008fff4b2/colorLogoPNG_1755018282136.png
+id: 65775d29dfed030008cb3db2, name: Modern Marvels Presented by HISTORY,  ch_n: 3100,   logo:https://images.pluto.tv/channels/65775d29dfed030008cb3db2/colorLogoPNG.png
+id: 64d2b6bf9b414d0008187d83, name: Real Disaster Channel,  ch_n: 3105,   logo:https://images.pluto.tv/channels/64d2b6bf9b414d0008187d83/colorLogoPNG.png
+id: 563a970aa1a1f7fe7c9daad7, name: Pluto TV Science,  ch_n: 3110,   logo:https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png
+id: 66e0b4866ad04d0008fff4d8, name: MythBusters,  ch_n: 3115,   logo:https://images.pluto.tv/channels/66e0b4866ad04d0008fff4d8/colorLogoPNG.png
+id: 5f21ea08007a49000762d349, name: Smithsonian Channel Selects,  ch_n: 3130,   logo:https://images.pluto.tv/channels/5f21ea08007a49000762d349/colorLogoPNG.png
+id: 67c62ac2095aea2ec805eb34, name: The Martha Stewart Channel,  ch_n: 3300,   logo:https://images.pluto.tv/channels/67c62ac2095aea2ec805eb34/colorLogoPNG.png
+id: 5d51e791b7dba3b2ae990ab2, name: This Old House,  ch_n: 3310,   logo:https://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png
+id: 66df8aa7abec540008ca8cb6, name: Homeful,  ch_n: 3322,   logo:https://images.pluto.tv/channels/66df8aa7abec540008ca8cb6/colorLogoPNG.png
+id: 65654230c917a5000844ce96, name: Home Crashers,  ch_n: 3325,   logo:https://images.pluto.tv/channels/65654230c917a5000844ce96/colorLogoPNG.png
+id: 656542ae4261ca00082154a8, name: Ultimate Builds,  ch_n: 3330,   logo:https://images.pluto.tv/channels/656542ae4261ca00082154a8/colorLogoPNG.png
+id: 6565430c9d5ac4000822f508, name: Rustic Retreats,  ch_n: 3335,   logo:https://images.pluto.tv/channels/6565430c9d5ac4000822f508/colorLogoPNG.png
+id: 601a0342dcf4370007566891, name: Tiny House Nation,  ch_n: 3360,   logo:https://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG.png
+id: 5dc1cb279c91420009db261d, name: Home.Made.Nation,  ch_n: 3370,   logo:https://images.pluto.tv/channels/5dc1cb279c91420009db261d/colorLogoPNG.png
+id: 636c2b3c55d2e700074105c4, name: PBS Antiques Roadshow,  ch_n: 3390,   logo:https://images.pluto.tv/channels/636c2b3c55d2e700074105c4/colorLogoPNG.png
+id: 5ce44810b421747ae467b7cd, name: Antiques Roadshow UK,  ch_n: 3400,   logo:https://images.pluto.tv/channels/5ce44810b421747ae467b7cd/colorLogoPNG.png
+id: 615b8ec39e878900073f419a, name: Antiques Road Trip,  ch_n: 3410,   logo:https://images.pluto.tv/channels/615b8ec39e878900073f419a/colorLogoPNG.png
+id: 67d07b7b798df95b8e9484b5, name: The Emeril Lagasse Channel,  ch_n: 3418,   logo:https://images.pluto.tv/channels/67d07b7b798df95b8e9484b5/colorLogoPNG.png
+id: 5e84f54a82f05300080e6746, name: America's Test Kitchen,  ch_n: 3420,   logo:https://images.pluto.tv/channels/5e84f54a82f05300080e6746/colorLogoPNG.png
+id: 68509fe882d704acfc5bacd1, name: Tastemade Smokehouse,  ch_n: 3425,   logo:https://images.pluto.tv/channels/68509fe882d704acfc5bacd1/colorLogoPNG_1750914005853.png
+id: 66ff0cf663292d0008320cf8, name: No Reservations,  ch_n: 3435,   logo:https://images.pluto.tv/channels/66ff0cf663292d0008320cf8/colorLogoPNG.png
+id: 6532e7fa045c3d0008514ca7, name: Warner Bros. TV Sweet Escapes,  ch_n: 3440,   logo:https://images.pluto.tv/channels/6532e7fa045c3d0008514ca7/colorLogoPNG.png
+id: 64dab9df3d48f40008868091, name: The Jamie Oliver Channel,  ch_n: 3480,   logo:https://images.pluto.tv/channels/64dab9df3d48f40008868091/colorLogoPNG.png
+id: 656535fc2c46f30008870fae, name: BBC Earth,  ch_n: 3560,   logo:https://images.pluto.tv/channels/656535fc2c46f30008870fae/colorLogoPNG.png
+id: 673bf05ddaad7f0008ac7a5c, name: Dinos 24/7,  ch_n: 3565,   logo:https://images.pluto.tv/channels/673bf05ddaad7f0008ac7a5c/colorLogoPNG.png
+id: 640a64bd73e013000893d4e0, name: PBS Nature,  ch_n: 3580,   logo:https://images.pluto.tv/channels/640a64bd73e013000893d4e0/colorLogoPNG.png
+id: 66df8a29b25d2b0008fc5fe0, name: Love Nature,  ch_n: 3585,   logo:https://images.pluto.tv/channels/66df8a29b25d2b0008fc5fe0/colorLogoPNG.png
+id: 5812bd9f249444e05d09cc4e, name: Naturescape,  ch_n: 3590,   logo:https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png
+id: 5bb1ad55268cae539bcedb08, name: The Pet Collective,  ch_n: 3620,   logo:https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png
+id: 664fd48894d5580008e45e7c, name: Dog Whisperer with Cesar Millan,  ch_n: 3625,   logo:https://images.pluto.tv/channels/664fd48894d5580008e45e7c/colorLogoPNG.png
+id: 5ca6748a37b88b269472dad9, name: Nick Jr. Pluto TV,  ch_n: 3700,   logo:https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png
+id: 65e23f340d4561000821540d, name: Mister Rogers' Neighborhood,  ch_n: 3705,   logo:https://images.pluto.tv/channels/65e23f340d4561000821540d/colorLogoPNG.png
+id: 5d14fb6c84dd37df3b4290c5, name: Peppa Pig,  ch_n: 3720,   logo:https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG_1730733871298.png
+id: 51c75f7bb6f26ba1cd00002f, name: Little Stars Universe,  ch_n: 3730,   logo:https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png
+id: 5eb301b7395671000780d100, name: Little Angel's Playroom,  ch_n: 3740,   logo:https://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png
+id: 60493283ffc52f000710edae, name: Little Angel's Playroom en Español,  ch_n: 3750,   logo:https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png
+id: 66fedd65d7de140008dccd66, name: El Reino Infantil,  ch_n: 3755,   logo:https://images.pluto.tv/channels/66fedd65d7de140008dccd66/colorLogoPNG.png
+id: 60faffc3fbbc120007fc4376, name: Baby Shark TV,  ch_n: 3760,   logo:https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG_1754073070812.png
+id: 5ca673e0d0bd6c2689c94ce3, name: Nickelodeon Pluto TV,  ch_n: 3770,   logo:https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png
+id: 5d8d08395f39465da6fb3ec4, name: Nickelodeon en español,  ch_n: 3780,   logo:https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png
+id: 6452c814939a590008567a3b, name: 90's Kids,  ch_n: 3785,   logo:https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG_1731836283044.png
+id: 6452c77ed3fdde00080eb3a8, name: 90s Kids TV 2,  ch_n: 3787,   logo:https://images.pluto.tv/channels/6452c77ed3fdde00080eb3a8/colorLogoPNG.png
+id: 6450209d939a5900084dba1d, name: iCarly TV,  ch_n: 3790,   logo:https://images.pluto.tv/channels/6450209d939a5900084dba1d/colorLogoPNG.png
+id: 5d0c16d686454ead733d08f8, name: TOTALLY TURTLES,  ch_n: 3800,   logo:https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png
+id: 6675c7868768aa0008d7f1c7, name: Pokémon,  ch_n: 3805,   logo:https://images.pluto.tv/channels/6675c7868768aa0008d7f1c7/colorLogoPNG.png
+id: 6812948d5a1ac24c25fac322, name: Kids Anime,  ch_n: 3808,   logo:https://images.pluto.tv/channels/6812948d5a1ac24c25fac322/colorLogoPNG_1747069932836.png
+id: 60fb053712f22a0007ff14d2, name: Transformers TV,  ch_n: 3810,   logo:https://images.pluto.tv/channels/60fb053712f22a0007ff14d2/colorLogoPNG.png
+id: 667f3852efa2a10008e1e514, name: Go Go Gadget!,  ch_n: 3815,   logo:https://images.pluto.tv/channels/667f3852efa2a10008e1e514/colorLogoPNG.png
+id: 60fb01a24795a6000762fe83, name: LEGO Kids TV,  ch_n: 3830,   logo:https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png
+id: 667f393836a2f90008fd17c0, name: Strawberry Shortcake and Friends,  ch_n: 3855,   logo:https://images.pluto.tv/channels/667f393836a2f90008fd17c0/colorLogoPNG_1753982261322.png
+id: 60fb040d4795a6000762fe8f, name: Kartoon Channel!,  ch_n: 3860,   logo:https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png
+id: 5fb584b7613a31000789de5a, name: Ryan and Friends,  ch_n: 3880,   logo:https://images.pluto.tv/channels/5fb584b7613a31000789de5a/colorLogoPNG.png
+id: 56171fafada51f8004c4b40f, name: Forever Kids,  ch_n: 3900,   logo:https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png
+id: 60faf9ddfcc1f200070a5932, name: Garfield and Friends,  ch_n: 3910,   logo:https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png
+id: 5812b7d3249444e05d09cc49, name: Pluto TV Anime,  ch_n: 3980,   logo:https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG_1748797351518.png
+id: 67ed8c15c84f951267dbebc2, name: Pluto TV Anime Comedy,  ch_n: 3986,   logo:https://images.pluto.tv/channels/67ed8c15c84f951267dbebc2/colorLogoPNG_1746815802607.png
+id: 67ed8f7e443f0671bc2b2368, name: Pluto TV Anime Movies,  ch_n: 3988,   logo:https://images.pluto.tv/channels/67ed8f7e443f0671bc2b2368/colorLogoPNG_1747069531459.png
+id: 65652f7fc0fc88000883537a, name: Crunchyroll,  ch_n: 3990,   logo:https://images.pluto.tv/channels/65652f7fc0fc88000883537a/colorLogoPNG.png
+id: 6793eaa4bc03978b9bc63db1, name: ANIME x HIDIVE,  ch_n: 3992,   logo:https://images.pluto.tv/channels/6793eaa4bc03978b9bc63db1/colorLogoPNG_1746815871603.png
+id: 637e55347427a40007fac703, name: Sailor Moon,  ch_n: 4000,   logo:https://images.pluto.tv/channels/637e55347427a40007fac703/colorLogoPNG.png
+id: 5f7790b3ed0c88000720b241, name: One Piece,  ch_n: 4010,   logo:https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG_1731837233662.png
+id: 5da0c85bd2c9c10009370984, name: Naruto,  ch_n: 4020,   logo:https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png
+id: 67c63b90a20c0399a381b816, name: Inuyasha,  ch_n: 4025,   logo:https://images.pluto.tv/channels/67c63b90a20c0399a381b816/colorLogoPNG_1745441127472.png
+id: 5f4ec10ed9636f00089b8c89, name: Yu-Gi-Oh!,  ch_n: 4030,   logo:https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png
+id: 60f74ba51c82ac000776c669, name: Lupin the 3rd,  ch_n: 4040,   logo:https://images.pluto.tv/channels/60f74ba51c82ac000776c669/colorLogoPNG_1732662947992.png
+id: 5cf968040ab7d8f181e6a68b, name: Cine Premiere,  ch_n: 4090,   logo:https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png
+id: 5cf96b1c4f1ca3f0629f4bf0, name: Cine en español,  ch_n: 4100,   logo:https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png
+id: 64b9671cdac71b0008f371df, name: Cine Clásico,  ch_n: 4110,   logo:https://images.pluto.tv/channels/64b9671cdac71b0008f371df/colorLogoPNG.png
+id: 60fb2f47c133270007327375, name: Cine aventura,  ch_n: 4120,   logo:https://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG_1757954279063.png
+id: 5d8d164d92e97a5e107638d2, name: Cine adrenalina,  ch_n: 4130,   logo:https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/colorLogoPNG.png
+id: 687fea9a4fa995eff284a1c8, name: Más adrenalina,  ch_n: 4132,   logo:https://images.pluto.tv/channels/687fea9a4fa995eff284a1c8/colorLogoPNG_1755151031497.png
+id: 686c1c873ffa5e0c91a85938, name: Cine Crimen,  ch_n: 4135,   logo:https://images.pluto.tv/channels/686c1c873ffa5e0c91a85938/colorLogoPNG_1751915821493.png
+id: 5d8d180092e97a5e107638d3, name: Cine terror,  ch_n: 4140,   logo:https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png
+id: 5f513564e4622a0007c578c0, name: Cine comedia,  ch_n: 4150,   logo:https://images.pluto.tv/channels/5f513564e4622a0007c578c0/colorLogoPNG_1757954361053.png
+id: 5f5136317aedfb0007016f93, name: Cine Amor,  ch_n: 4160,   logo:https://images.pluto.tv/channels/5f5136317aedfb0007016f93/colorLogoPNG_1757957531383.png
+id: 6532e7b290a74c00084a3bb6, name: Hallmark en español,  ch_n: 4170,   logo:https://images.pluto.tv/channels/6532e7b290a74c00084a3bb6/colorLogoPNG.png
+id: 5cf96cc422df39f1a338d165, name: Telemundo telenovelas clásicas,  ch_n: 4180,   logo:https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png
+id: 5cf96c0222df39f1a338d163, name: Pluto TV Novelas,  ch_n: 4185,   logo:https://images.pluto.tv/channels/5cf96c0222df39f1a338d163/colorLogoPNG.png
+id: 668c5cb4f01dbe0008dd4082, name: CBS en español,  ch_n: 4245,   logo:https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/colorLogoPNG.png
+id: 604928d54a4f730007ff76bc, name: CSI en Español,  ch_n: 4250,   logo:https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png
+id: 632b5950b515b000079e6b81, name: CSI: Miami en español,  ch_n: 4260,   logo:https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG_1731837336190.png
+id: 632b606e12a67b0007c9e371, name: CSI: NY en español,  ch_n: 4270,   logo:https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG_1731837281479.png
+id: 5e82bb378601b80007b4bd78, name: The Walking Dead en español,  ch_n: 4280,   logo:https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png
+id: 668c566d08d5490008075948, name: La Familia del Barrio,  ch_n: 4335,   logo:https://images.pluto.tv/channels/668c566d08d5490008075948/colorLogoPNG.png
+id: 64dab1f835425100080e1e7b, name: Acapulco Shore,  ch_n: 4340,   logo:https://images.pluto.tv/channels/64dab1f835425100080e1e7b/colorLogoPNG_1751300628513.png
+id: 5cf96d351652631e36d4331f, name: MTV en español,  ch_n: 4350,   logo:https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG-1641928405432.png
+id: 5cf96dad1652631e36d43320, name: Comedy Central en español,  ch_n: 4360,   logo:https://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG_1731837238379.png
+id: 5cf0622da00ca1e2f6fac712, name: EstrellaTV,  ch_n: 4370,   logo:https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/colorLogoPNG.png
+id: 60d393e5579a420007ee553c, name: Casos de la Dra. Polo,  ch_n: 4390,   logo:https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png
+id: 673249215534bb0008c8a012, name: Bodas+,  ch_n: 4405,   logo:https://images.pluto.tv/channels/673249215534bb0008c8a012/colorLogoPNG.png
+id: 605e479d5b8229000763e697, name: Sony Canal Escape Perfecto,  ch_n: 4410,   logo:https://images.pluto.tv/channels/605e479d5b8229000763e697/colorLogoPNG.png
+id: 673249afc7626f0008c7205d, name: Vidas Extremas,  ch_n: 4443,   logo:https://images.pluto.tv/channels/673249afc7626f0008c7205d/colorLogoPNG.png
+id: 673249433a61d400087a51ed, name: Construcciones Asombrosas,  ch_n: 4445,   logo:https://images.pluto.tv/channels/673249433a61d400087a51ed/colorLogoPNG_1732662528285.png
+id: 673249ccc7626f0008c72076, name: TuDiscovery,  ch_n: 4453,   logo:https://images.pluto.tv/channels/673249ccc7626f0008c72076/colorLogoPNG.png
+id: 66ba53cda4ee2700083fac09, name: Sala de Emergencias: Historias Inéditas,  ch_n: 4455,   logo:https://images.pluto.tv/channels/66ba53cda4ee2700083fac09/colorLogoPNG.png
+id: 6732495dc7626f0008c71e7d, name: Expedientes Sobrenaturales,  ch_n: 4457,   logo:https://images.pluto.tv/channels/6732495dc7626f0008c71e7d/colorLogoPNG.png
+id: 6732499ce40c4a0008bb9894, name: Crimen,  ch_n: 4459,   logo:https://images.pluto.tv/channels/6732499ce40c4a0008bb9894/colorLogoPNG.png
+id: 5e94cd036cc69d0007e8a1ba, name: Crímenes imperfectos,  ch_n: 4460,   logo:https://images.pluto.tv/channels/5e94cd036cc69d0007e8a1ba/colorLogoPNG.png
+id: 5f4d882d5233170007ee880e, name: Misterios sin resolver,  ch_n: 4470,   logo:https://images.pluto.tv/channels/5f4d882d5233170007ee880e/colorLogoPNG.png
+id: 5cf96b8f4f1ca3f0629f4bf1, name: Investiga,  ch_n: 4480,   logo:https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png
+id: 65791199dfed030008d031d3, name: Telemundo Noticias Noreste,  ch_n: 4490,   logo:https://images.pluto.tv/channels/65791199dfed030008d031d3/colorLogoPNG.png
+id: 673248f9030a2c0008033af8, name: CNN XPRESS,  ch_n: 4525,   logo:https://images.pluto.tv/channels/673248f9030a2c0008033af8/colorLogoPNG_1755019014490.png
+id: 60492e6d7f3f560007ab0f62, name: Estrella News,  ch_n: 4530,   logo:https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/colorLogoPNG.png
+id: 63d0269d60bc8f000890facc, name: FOX Deportes,  ch_n: 4550,   logo:https://images.pluto.tv/channels/63d0269d60bc8f000890facc/colorLogoPNG.png
+id: 5c01df1759ee03633e7b272c, name: Lucha Libre AAA,  ch_n: 4570,   logo:https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png
+id: 64dab5fe35425100080e2991, name: Vevo Regional Mexicano,  ch_n: 4580,   logo:https://images.pluto.tv/channels/64dab5fe35425100080e2991/colorLogoPNG.png
+id: 64d161c93c785e0008df575e, name: Vevo Íconos Latinos,  ch_n: 4590,   logo:https://images.pluto.tv/channels/64d161c93c785e0008df575e/colorLogoPNG.png
+id: 5f32f26bcd8aea00071240e5, name: Vevo '70s,  ch_n: 4640,   logo:https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png
+id: 5fd7b8bf927e090007685853, name: Vevo '80s,  ch_n: 4650,   logo:https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png
+id: 5fd7bb1f86d94a000796e2c2, name: Vevo '90s,  ch_n: 4660,   logo:https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png
+id: 5fd7bca3e0a4ee0007a38e8c, name: Vevo 2K,  ch_n: 4670,   logo:https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png
+id: 5f68f53eb1e5800007390bf8, name: CMT Equal Play,  ch_n: 4680,   logo:https://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png
+id: 623b92a2ccefed0007b1db48, name: XITE Classic Country,  ch_n: 4690,   logo:https://images.pluto.tv/channels/623b92a2ccefed0007b1db48/colorLogoPNG.png
+id: 5da0d75e84830900098a1ea0, name: Vevo Country,  ch_n: 4700,   logo:https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png
+id: 5d14fc31252d35decbc4080b, name: Yo! MTV,  ch_n: 4710,   logo:https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png
+id: 61d4c2817a823d00070ba53e, name: Vevo True School Hip-Hop,  ch_n: 4720,   logo:https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png
+id: 5da0d83f66c9700009b96d0e, name: Vevo R&B,  ch_n: 4730,   logo:https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png
+id: 61d4b38226b8a50007fe03a6, name: Vevo Rock,  ch_n: 4740,   logo:https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG_1748797615724.png
+id: 623a1b5188ecdc0007c9ef5a, name: XITE Rock x Metal,  ch_n: 4750,   logo:https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/colorLogoPNG.png
+id: 5d93b635b43dd1a399b39eee, name: Vevo Pop,  ch_n: 4760,   logo:https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png
+id: 5d14fdb8ca91eedee1633117, name: MTV Spankin' New,  ch_n: 4770,   logo:https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png
+id: 5d14fd1a252d35decbc4080c, name: MTV Biggest Pop,  ch_n: 4780,   logo:https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG_1758324914960.png
+id: 5d3609cd6a6c78d7672f2a81, name: MTV Flow Latino,  ch_n: 4790,   logo:https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG_1731834717093.png
+id: 623b93628e6ded0007337d4d, name: XITE Gospel,  ch_n: 4800,   logo:https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png
+id: 5f779951372da90007fd45e8, name: Classica,  ch_n: 4810,   logo:https://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png
+id: 632b642933a6280007aaf265, name: WSB Atlanta,  ch_n: 5060,   logo:https://images.pluto.tv/channels/632b642933a6280007aaf265/colorLogoPNG.png
+id: 60f75919718aed0007250d7a, name: CBS News Baltimore,  ch_n: 5070,   logo:https://images.pluto.tv/channels/60f75919718aed0007250d7a/colorLogoPNG-1643042747442.png
+id: 5eb1afb21486df0007abc57c, name: CBS News Bay Area,  ch_n: 5080,   logo:https://images.pluto.tv/channels/5eb1afb21486df0007abc57c/colorLogoPNG.png
+id: 5eb1af2ad345340008fccd1e, name: CBS News Boston,  ch_n: 5090,   logo:https://images.pluto.tv/channels/5eb1af2ad345340008fccd1e/colorLogoPNG.png
+id: 632b648c08cd050007d94114, name: WSOC Charlotte,  ch_n: 5110,   logo:https://images.pluto.tv/channels/632b648c08cd050007d94114/colorLogoPNG.png
+id: 5eb1aeb2fd4b8a00076c2047, name: CBS News Chicago,  ch_n: 5120,   logo:https://images.pluto.tv/channels/5eb1aeb2fd4b8a00076c2047/colorLogoPNG.png
+id: 5eb1b12146cba40007aa7e5d, name: CBS News Colorado,  ch_n: 5130,   logo:https://images.pluto.tv/channels/5eb1b12146cba40007aa7e5d/colorLogoPNG-1643041708234.png
+id: 634f2610d5023700078f7dee, name: CBS News Detroit,  ch_n: 5140,   logo:https://images.pluto.tv/channels/634f2610d5023700078f7dee/colorLogoPNG.png
+id: 5dc481cda1d430000948a1b4, name: CBS News Los Angeles,  ch_n: 5150,   logo:https://images.pluto.tv/channels/5dc481cda1d430000948a1b4/colorLogoPNG.png
+id: 5eb1b0bf2240d8000732a09c, name: CBS News Minnesota,  ch_n: 5170,   logo:https://images.pluto.tv/channels/5eb1b0bf2240d8000732a09c/colorLogoPNG.png
+id: 5dc48170e280c80009a861ab, name: CBS News New York,  ch_n: 5180,   logo:https://images.pluto.tv/channels/5dc48170e280c80009a861ab/colorLogoPNG.png
+id: 5fff49cfb5cd4f0007c2b0dc, name: News 12 New York,  ch_n: 5190,   logo:https://images.pluto.tv/channels/5fff49cfb5cd4f0007c2b0dc/colorLogoPNG.png
+id: 632b6233822bbc000748fd81, name: WFTV Orlando,  ch_n: 5200,   logo:https://images.pluto.tv/channels/632b6233822bbc000748fd81/colorLogoPNG.png
+id: 5eb1b05ea168cc000767ba67, name: CBS News Philadelphia,  ch_n: 5210,   logo:https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/colorLogoPNG.png
+id: 5eb1b17aa5277e00083f6521, name: CBS News Pittsburgh,  ch_n: 5220,   logo:https://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/colorLogoPNG.png
+id: 60cb6df2b2ad610008cd5bea, name: CBS News Sacramento,  ch_n: 5230,   logo:https://images.pluto.tv/channels/60cb6df2b2ad610008cd5bea/colorLogoPNG.png
+id: 5eceb0d4065c240007688ec6, name: CBS News Texas,  ch_n: 5250,   logo:https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png
