@@ -83,7 +83,10 @@ def get_channel_list(token, channel_list):
         'channelIds':'',
         'offset':'0',
         'limit':'1000',
-        'sort':'number:asc'
+        'sort':'number:asc',
+        "region": "IT",
+        "lang": "it",
+        "timeZone": "Europe/Rome"
         }            
 
     headers={
@@ -177,7 +180,10 @@ def get_epg(start, token, input_channels):
     url_parmams={
         'start':f'{start_epg}',
         'channelIds':ch_ids,
-        'duration':'240'
+        'duration':'240',
+        "region": "IT",
+        "lang": "it",
+        "timeZone": "Europe/Rome"
         }
     
     headers={
@@ -213,7 +219,10 @@ def get_token(appversion, client_uiid):
         'appName':'web',
         'appVersion':f'{appversion}',
         'clientID':f'{client_uiid}',
-        'clientModelNumber':'1.2.0'
+        'clientModelNumber':'1.2.0',
+        "region": "IT",
+        "lang": "it",
+        "timeZone": "Europe/Rome"
         }
     headers={
         'X-Forwarded-For':IT_REGION
@@ -248,7 +257,7 @@ def get_token(appversion, client_uiid):
 def get_appversion():
     url = "https://pluto.tv/"
     headers={
-        #'upgrade-insecure-requests': '1',
+        'upgrade-insecure-requests': '1',
         'user-agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
         'X-Forwarded-For':IT_REGION
         }
@@ -259,7 +268,7 @@ def get_appversion():
         
         
     except requests.exceptions.RequestException as e:
-        print (f'Error during appversion request of {url}: {e}')
+        print (f'Error during request of {url}: {e}')
         return None
         
     html_file = response.text
@@ -287,8 +296,7 @@ start_time = datetime.now(UTC)
 start=start_time
 
 ####Get appversion and create session_uiid to use in the next request for token
-#appversion = get_appversion()
-appversion='9.16.0-1c8668875bc70dd1978c9232cfb832b3eaed04c6'
+appversion = get_appversion()
 
 if not appversion:
     sys.exit()
@@ -397,4 +405,3 @@ end_time = datetime.now(UTC)
 process_time = end_time - start_time
 
 print (f'Process terminated in {process_time}')
-
