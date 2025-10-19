@@ -1,7 +1,5 @@
 name: EPG Pluto it
 
-env:
-  REGION: ${{ secrets.IT_KEY }}
 
 on:
   # Trigger manuale
