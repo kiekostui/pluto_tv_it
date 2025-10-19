@@ -15,7 +15,7 @@ HTTPS_PROXY = os.environ.get("HTTPS_PROXY_IT")
 
 proxies = {
   "http": f"HTTP_PROXY",
-  "https": "https://10.10.1.10:1080",
+  "https": f"HTTPS_PROXY",
 }
 
 
