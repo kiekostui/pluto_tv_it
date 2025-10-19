@@ -203,15 +203,15 @@ id: 5df97894467dfa00091c873c, name: NBC News NOW,  ch_n: 2531,   logo:https://im
 id: 6508be683a0d700008c534e4, name: ABC News Live,  ch_n: 2532,   logo:https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png
 id: 5421f71da6af422839419cb3, name: CNN HEADLINES,  ch_n: 2533,   logo:https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG_1755034025681.png
 id: 63d025db4e83e700086eaa96, name: LiveNOW from FOX,  ch_n: 2534,   logo:https://images.pluto.tv/channels/63d025db4e83e700086eaa96/colorLogoPNG.png
+id: 62cdca1cda044a00077b903d, name: CBS News Philadelphia,  ch_n: 2540,   logo:https://images.pluto.tv/channels/62cdca1cda044a00077b903d/colorLogoPNG.png
 id: 5dc9b8223687ff000936ed79, name: CBS News New York,  ch_n: 2550,   logo:https://images.pluto.tv/channels/5dc9b8223687ff000936ed79/colorLogoPNG.png
 id: 5dc9b875e280c80009a8a44a, name: CBS News Los Angeles,  ch_n: 2560,   logo:https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png
-id: 62cdc813f5def500070361eb, name: CBS News Texas,  ch_n: 2570,   logo:https://images.pluto.tv/channels/62cdc813f5def500070361eb/colorLogoPNG.png
-id: 62cdc75b1a1cbd0007ed45dc, name: CBS News Chicago,  ch_n: 2570,   logo:https://images.pluto.tv/channels/62cdc75b1a1cbd0007ed45dc/colorLogoPNG.png
 id: 60fb299b79498900070b29e0, name: CBS News Miami,  ch_n: 2570,   logo:https://images.pluto.tv/channels/60fb299b79498900070b29e0/colorLogoPNG.png
+id: 62cdc813f5def500070361eb, name: CBS News Texas,  ch_n: 2570,   logo:https://images.pluto.tv/channels/62cdc813f5def500070361eb/colorLogoPNG.png
 id: 5d695f7db53adf96b78e7ce3, name: TODAY All Day,  ch_n: 2580,   logo:https://images.pluto.tv/channels/5d695f7db53adf96b78e7ce3/colorLogoPNG.png
 id: 5459795fc9f133a519bc0bef, name: Scripps News,  ch_n: 2600,   logo:https://images.pluto.tv/channels/5459795fc9f133a519bc0bef/colorLogoPNG.png
 id: 640a68880e884c0009979cc2, name: FOX Weather,  ch_n: 2619,   logo:https://images.pluto.tv/channels/640a68880e884c0009979cc2/colorLogoPNG-1757012691643.png
-id: 61e9d0509e38ec0007a299dd, name: WeatherNation Chicago,  ch_n: 2620,   logo:https://images.pluto.tv/channels/61e9d0509e38ec0007a299dd/colorLogoPNG.png
+id: 628c274a02000400070a3ae4, name: WeatherNation Raleigh-Durham,  ch_n: 2620,   logo:https://images.pluto.tv/channels/628c274a02000400070a3ae4/colorLogoPNG.png
 id: 65d92a8c8b24c80008e285c0, name: BBC News,  ch_n: 2629,   logo:https://images.pluto.tv/channels/65d92a8c8b24c80008e285c0/colorLogoPNG.png
 id: 55b285cd2665de274553d66f, name: Sky News,  ch_n: 2630,   logo:https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png
 id: 54ff7ba69222cb1c2624c584, name: Bloomberg TV+,  ch_n: 2640,   logo:https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG_1756948295813.png
@@ -358,6 +358,7 @@ id: 6732499ce40c4a0008bb9894, name: Crimen,  ch_n: 4459,   logo:https://images.p
 id: 5e94cd036cc69d0007e8a1ba, name: Crímenes imperfectos,  ch_n: 4460,   logo:https://images.pluto.tv/channels/5e94cd036cc69d0007e8a1ba/colorLogoPNG.png
 id: 5f4d882d5233170007ee880e, name: Misterios sin resolver,  ch_n: 4470,   logo:https://images.pluto.tv/channels/5f4d882d5233170007ee880e/colorLogoPNG.png
 id: 5cf96b8f4f1ca3f0629f4bf1, name: Investiga,  ch_n: 4480,   logo:https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png
+id: 65791199dfed030008d031d3, name: Telemundo Noticias Noreste,  ch_n: 4490,   logo:https://images.pluto.tv/channels/65791199dfed030008d031d3/colorLogoPNG.png
 id: 673248f9030a2c0008033af8, name: CNN XPRESS,  ch_n: 4525,   logo:https://images.pluto.tv/channels/673248f9030a2c0008033af8/colorLogoPNG_1755019014490.png
 id: 60492e6d7f3f560007ab0f62, name: Estrella News,  ch_n: 4530,   logo:https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/colorLogoPNG.png
 id: 63d0269d60bc8f000890facc, name: FOX Deportes,  ch_n: 4550,   logo:https://images.pluto.tv/channels/63d0269d60bc8f000890facc/colorLogoPNG.png
@@ -382,18 +383,19 @@ id: 5d14fd1a252d35decbc4080c, name: MTV Biggest Pop,  ch_n: 4780,   logo:https:/
 id: 5d3609cd6a6c78d7672f2a81, name: MTV Flow Latino,  ch_n: 4790,   logo:https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG_1731834717093.png
 id: 623b93628e6ded0007337d4d, name: XITE Gospel,  ch_n: 4800,   logo:https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png
 id: 5f779951372da90007fd45e8, name: Classica,  ch_n: 4810,   logo:https://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png
+id: 632b642933a6280007aaf265, name: WSB Atlanta,  ch_n: 5060,   logo:https://images.pluto.tv/channels/632b642933a6280007aaf265/colorLogoPNG.png
 id: 60f75919718aed0007250d7a, name: CBS News Baltimore,  ch_n: 5070,   logo:https://images.pluto.tv/channels/60f75919718aed0007250d7a/colorLogoPNG-1643042747442.png
 id: 5eb1afb21486df0007abc57c, name: CBS News Bay Area,  ch_n: 5080,   logo:https://images.pluto.tv/channels/5eb1afb21486df0007abc57c/colorLogoPNG.png
 id: 5eb1af2ad345340008fccd1e, name: CBS News Boston,  ch_n: 5090,   logo:https://images.pluto.tv/channels/5eb1af2ad345340008fccd1e/colorLogoPNG.png
+id: 632b648c08cd050007d94114, name: WSOC Charlotte,  ch_n: 5110,   logo:https://images.pluto.tv/channels/632b648c08cd050007d94114/colorLogoPNG.png
 id: 5eb1aeb2fd4b8a00076c2047, name: CBS News Chicago,  ch_n: 5120,   logo:https://images.pluto.tv/channels/5eb1aeb2fd4b8a00076c2047/colorLogoPNG.png
-id: 65790922b3801200084e57f1, name: NBC Chicago News,  ch_n: 5121,   logo:https://images.pluto.tv/channels/65790922b3801200084e57f1/colorLogoPNG.png
-id: 667f2bc063a5f20008f4d386, name: FOX 32 Chicago,  ch_n: 5121,   logo:https://images.pluto.tv/channels/667f2bc063a5f20008f4d386/colorLogoPNG.png
 id: 5eb1b12146cba40007aa7e5d, name: CBS News Colorado,  ch_n: 5130,   logo:https://images.pluto.tv/channels/5eb1b12146cba40007aa7e5d/colorLogoPNG-1643041708234.png
 id: 634f2610d5023700078f7dee, name: CBS News Detroit,  ch_n: 5140,   logo:https://images.pluto.tv/channels/634f2610d5023700078f7dee/colorLogoPNG.png
 id: 5dc481cda1d430000948a1b4, name: CBS News Los Angeles,  ch_n: 5150,   logo:https://images.pluto.tv/channels/5dc481cda1d430000948a1b4/colorLogoPNG.png
 id: 5eb1b0bf2240d8000732a09c, name: CBS News Minnesota,  ch_n: 5170,   logo:https://images.pluto.tv/channels/5eb1b0bf2240d8000732a09c/colorLogoPNG.png
 id: 5dc48170e280c80009a861ab, name: CBS News New York,  ch_n: 5180,   logo:https://images.pluto.tv/channels/5dc48170e280c80009a861ab/colorLogoPNG.png
 id: 5fff49cfb5cd4f0007c2b0dc, name: News 12 New York,  ch_n: 5190,   logo:https://images.pluto.tv/channels/5fff49cfb5cd4f0007c2b0dc/colorLogoPNG.png
+id: 632b6233822bbc000748fd81, name: WFTV Orlando,  ch_n: 5200,   logo:https://images.pluto.tv/channels/632b6233822bbc000748fd81/colorLogoPNG.png
 id: 5eb1b05ea168cc000767ba67, name: CBS News Philadelphia,  ch_n: 5210,   logo:https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/colorLogoPNG.png
 id: 5eb1b17aa5277e00083f6521, name: CBS News Pittsburgh,  ch_n: 5220,   logo:https://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/colorLogoPNG.png
 id: 60cb6df2b2ad610008cd5bea, name: CBS News Sacramento,  ch_n: 5230,   logo:https://images.pluto.tv/channels/60cb6df2b2ad610008cd5bea/colorLogoPNG.png
