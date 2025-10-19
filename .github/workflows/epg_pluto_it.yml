@@ -1,7 +1,7 @@
 name: EPG Pluto it
 
 env:
-  IT_REGION: ${{ secrets.IT_KEY }}
+  REGION: ${{ secrets.IT_KEY }}
   HTTP_PROXY:  ${{ secrets.HTTP_PROXY_ITALY }}
   HTTPS_PROXY:  ${{ secrets.HTTPS_PROXY_ITALY }}
 
