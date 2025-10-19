@@ -191,7 +191,7 @@ def get_epg(start, token, input_channels, timeframe_chunk):
         'Accept':'*/*',
         'Accept-encoding':'gzip, deflate, br, zstd',
         'Accept-language':'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7',
-        'Authorization':f'Bearer {token}'
+        'Authorization':f'Bearer {token}',
         'X-Forwarded-For':f'{REGION}'
         }
 
