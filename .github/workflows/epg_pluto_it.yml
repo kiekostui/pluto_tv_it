@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      REGION: '0.0.0.0'
+      REGION: '${{ secrets.IT_KEY }}'
     
     steps:
       - name: Checkout Repository
