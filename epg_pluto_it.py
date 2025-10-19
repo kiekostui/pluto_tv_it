@@ -6,10 +6,17 @@ import json
 from datetime import datetime, timedelta, UTC
 import time
 import xml.etree.ElementTree as ET
-import os
 
 
+
+epg_time_frame = 48 #finestra temporale in ore per l'epg
+channels_chunk = 30 #numero canali per singola richiesta
+timeframe_chunk = 4 #finestra temporale per singola richiesta
+appversion = '9.16.0-1c8668875bc70dd1978c9232cfb832b3eaed04c6'
 REGION = os.environ.get('REGION')
+
+
+
 
 def date_converter(date_string):
 
@@ -158,7 +165,7 @@ def get_channel_list(token, channel_list):
 
  
 
-def get_epg(start, token, input_channels):
+def get_epg(start, token, input_channels, timeframe_chunk):
 
     if not input_channels:
         print('No channels provided')
@@ -177,15 +184,15 @@ def get_epg(start, token, input_channels):
     url_parmams={
         'start':f'{start_epg}',
         'channelIds':ch_ids,
-        'duration':'240'
+        'duration':str(timeframe_chunk*60)
         }
     
     headers={
         'Accept':'*/*',
         'Accept-encoding':'gzip, deflate, br, zstd',
         'Accept-language':'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7',
-        'X-Forwarded-For':REGION,
         'Authorization':f'Bearer {token}'
+        'X-Forwarded-For':REGION
         }
 
     try:
@@ -215,6 +222,7 @@ def get_token(appversion, client_uiid):
         'clientID':f'{client_uiid}',
         'clientModelNumber':'1.2.0'
         }
+
     headers={
         'X-Forwarded-For':REGION
         }
@@ -245,53 +253,10 @@ def get_token(appversion, client_uiid):
 
 
 
-def get_appversion():
-    url = "https://pluto.tv/"
-    headers={
-        'upgrade-insecure-requests': '1',
-        'user-agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
-        'X-Forwarded-For':REGION
-        }
-
-    try:    
-        response = requests.get(url, headers = headers)
-        response.raise_for_status()
-        
-        
-    except requests.exceptions.RequestException as e:
-        print (f'Error during request of {url}: {e}')
-        return None
-        
-    html_file = response.text
-
-    regex = r'name="appVersion".*?content="([^"]+)"'
-
-    appversion_list = re.findall(regex, html_file)
-
-    if not appversion_list:
-        print(f'Response by {url} not valid: appversion missing!')
-        return None
-              
-    if len(appversion_list) == 1:
-        appversion = appversion_list[0]
-        print(f'Appversion: {appversion}')
-        return appversion
-
-    else:
-        print(f'Response by {url} not valid: multiple values of appversion!')
-        return None
-
-
-
 start_time = datetime.now(UTC)
 start=start_time
 
-####Get appversion and create session_uiid to use in the next request for token
-appversion = get_appversion()
-
-if not appversion:
-    sys.exit()
-    
+####Create session_uiid to use in the next request for token
 client_uiid = str(uuid.uuid4())
 print(f'client id:{client_uiid}')
 
@@ -344,7 +309,6 @@ id_list=list(channel_list)
 
 program_list = set()
 
-epg_time_frame = 48
 increment = 0
 
 full_epg_json ={'data':[]}
@@ -355,20 +319,20 @@ while increment <=  epg_time_frame:
 
     while i<len(id_list):
 
-        for current_id in id_list[i: i+30]:
+        for current_id in id_list[i: i+channels_chunk]:
             input_channels[current_id]=channel_list[current_id]
             
-        epg_json=get_epg(start, session_token, input_channels)
+        epg_json=get_epg(start, session_token, input_channels, timeframe_chunk)
 
         if not epg_json:
                 continue
 
         full_epg_json['data'].extend(epg_json['data'])
 
-        i=i+30
+        i=i+channels_chunk
         input_channels.clear()
-    increment = increment + 4 #240 minuti dell'url
-    start = start + timedelta(hours=4)
+    increment = increment + timeframe_chunk
+    start = start + timedelta(hours=timeframe_chunk)
     
 
 epg_conversion = append_json(epg_xml,full_epg_json, program_list)
