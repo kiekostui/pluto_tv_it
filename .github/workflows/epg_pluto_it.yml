@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      HTTPS_PROXY: ${{ secrets.HTTP_PROXY_ITALY }} 
+      REGION: ${{ secrets.IT_KEY }} 
     
     steps:
       - name: Checkout Repository
