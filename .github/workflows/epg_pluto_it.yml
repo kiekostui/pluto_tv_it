@@ -3,6 +3,9 @@ name: EPG Pluto it
 on:
   # Trigger manuale
   workflow_dispatch:
+  # Trigger schedulato (ogni 6 ore)
+  schedule:
+    - cron: '0 */6 * * *'
 
 jobs:
   run-epg-pluto-it:
