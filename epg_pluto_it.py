@@ -275,15 +275,13 @@ channel_list = {}
 if get_channel_list(session_token, channel_list):
     print('Channels list obtained')
 
-#####################da rimuovere #########################################à
 with open('channel_list.txt', 'w') as f:
     
     for key, value in channel_list.items():
         ch_name=value['name']
         ch_number=str(value['lcn'])
         ch_logo=value['logo']
-        f.write(f'id: {key}, name: {ch_name},  ch_n: {ch_number},   logo:{ch_logo}\n')
-##############################################################################à
+        f.write(f'id: {key}, name: {ch_name}, ch_n: {ch_number}')
 
 epg_xml = ET.Element('tv')
 epg_xml.attrib['source-info-name'] = 'None'
