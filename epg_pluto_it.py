@@ -10,8 +10,8 @@ import os
 
 
 #IT_REGION = os.environ.get("IT_REGION")
-HTTP_PROXY = os.environ.get("HTTP_PROXY_IT")
-HTTPS_PROXY = os.environ.get("HTTPS_PROXY_IT")
+HTTP_PROXY = os.environ.get("HTTP_PROXY_ITALY")
+HTTPS_PROXY = os.environ.get("HTTPS_PROXY_ITALY")
 
 proxies = {
   "http": f"{HTTP_PROXY}",
