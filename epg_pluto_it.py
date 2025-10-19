@@ -98,7 +98,7 @@ def get_channel_list(token, channel_list):
         'Accept-encoding':'gzip, deflate, br, zstd',
         'Accept-language':'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7',
         'Authorization':f'Bearer {token}',
-        'X-Forwarded-For':REGION
+        'X-Forwarded-For':f'{REGION}'
         }
     
     try:
@@ -192,7 +192,7 @@ def get_epg(start, token, input_channels, timeframe_chunk):
         'Accept-encoding':'gzip, deflate, br, zstd',
         'Accept-language':'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7',
         'Authorization':f'Bearer {token}'
-        'X-Forwarded-For':REGION
+        'X-Forwarded-For':f'{REGION}'
         }
 
     try:
@@ -224,7 +224,7 @@ def get_token(appversion, client_uiid):
         }
 
     headers={
-        'X-Forwarded-For':REGION
+        'X-Forwarded-For':f'{REGION}'
         }
     try:
         response=requests.get(url, params=params, headers=headers, timeout=10)
