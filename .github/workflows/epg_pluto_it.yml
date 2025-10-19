@@ -1,19 +1,12 @@
 name: EPG Pluto it
 
-
 on:
   # Trigger manuale
   workflow_dispatch:
-  # Trigger schedulato (ogni 6 ore)
-  #schedule:
-    #- cron: '0 */6 * * *'
 
 jobs:
   run-epg-pluto-it:
     runs-on: ubuntu-latest
-
-    env:
-      REGION: '${{ secrets.IT_KEY }}'
     
     steps:
       - name: Checkout Repository
@@ -30,11 +23,12 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-          
+      
       - name: Run EPG Pluto it
+        env:
+          REGION: ${{ secrets.IT_KEY }}
         run: python epg_pluto_it.py
-        
-      # Commit e Push dei file generati
+          
       - name: Commit generated EPG and Log files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
