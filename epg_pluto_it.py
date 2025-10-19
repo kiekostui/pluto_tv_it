@@ -9,15 +9,7 @@ import xml.etree.ElementTree as ET
 import os
 
 
-#IT_REGION = os.environ.get("IT_REGION")
-HTTP_PROXY = os.environ.get("HTTP_PROXY")
-HTTPS_PROXY = os.environ.get("HTTPS_PROXY")
-
-proxies = {
-  "http": f"{HTTP_PROXY}",
-  "https": f"{HTTPS_PROXY}",
-}
-
+IT_REGION = os.environ.get('REGION')
 
 def date_converter(date_string):
 
@@ -91,10 +83,7 @@ def get_channel_list(token, channel_list):
         'channelIds':'',
         'offset':'0',
         'limit':'1000',
-        'sort':'number:asc',
-        "region": "IT",
-        "lang": "it",
-        "timeZone": "Europe/Rome"
+        'sort':'number:asc'
         }            
 
     headers={
@@ -102,10 +91,11 @@ def get_channel_list(token, channel_list):
         'Accept-encoding':'gzip, deflate, br, zstd',
         'Accept-language':'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7',
         'Authorization':f'Bearer {token}',
+        'X-Forwarded-For':IT_REGION
         }
     
     try:
-        response=requests.get(url, params=url_parmams, headers=headers, proxies=proxies)
+        response=requests.get(url, params=url_parmams, headers=headers)
         response.raise_for_status()
         
     except requests.exceptions.RequestException as e:
@@ -187,21 +177,19 @@ def get_epg(start, token, input_channels):
     url_parmams={
         'start':f'{start_epg}',
         'channelIds':ch_ids,
-        'duration':'240',
-        "region": "IT",
-        "lang": "it",
-        "timeZone": "Europe/Rome"
+        'duration':'240'
         }
     
     headers={
         'Accept':'*/*',
         'Accept-encoding':'gzip, deflate, br, zstd',
         'Accept-language':'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7',
+        'X-Forwarded-For':IT_REGION,
         'Authorization':f'Bearer {token}'
         }
 
     try:
-        response=requests.get(url, params=url_parmams, headers=headers, proxies=proxies)
+        response=requests.get(url, params=url_parmams, headers=headers)
         response.raise_for_status()
         
     except requests.exceptions.RequestException as e:
@@ -225,14 +213,13 @@ def get_token(appversion, client_uiid):
         'appName':'web',
         'appVersion':f'{appversion}',
         'clientID':f'{client_uiid}',
-        'clientModelNumber':'1.2.0',
-        "region": "IT",
-        "lang": "it",
-        "timeZone": "Europe/Rome"
+        'clientModelNumber':'1.2.0'
         }
-    
+    headers={
+        'X-Forwarded-For':IT_REGION
+        }
     try:
-        response=requests.get(url, params=params, proxies=proxies, timeout=10)
+        response=requests.get(url, params=params, headers=headers, timeout=10)
         response.raise_for_status()
 
     except requests.exceptions.RequestException as e:
@@ -262,11 +249,12 @@ def get_appversion():
     url = "https://pluto.tv/"
     headers={
         'upgrade-insecure-requests': '1',
-        'user-agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36)'
+        'user-agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        'X-Forwarded-For':IT_REGION
         }
 
     try:    
-        response = requests.get(url, headers = headers, proxies=proxies)
+        response = requests.get(url, headers = headers)
         response.raise_for_status()
         
         
@@ -299,8 +287,7 @@ start_time = datetime.now(UTC)
 start=start_time
 
 ####Get appversion and create session_uiid to use in the next request for token
-#appversion = get_appversion()
-appversion='9.16.0-1c8668875bc70dd1978c9232cfb832b3eaed04c6'
+appversion = get_appversion()
 
 if not appversion:
     sys.exit()
@@ -322,15 +309,6 @@ channel_list = {}
 if get_channel_list(session_token, channel_list):
     print('Channels list obtained')
 
-#####################da rimuovere #########################################à
-with open('channel_list.txt', 'w') as f:
-    
-    for key, value in channel_list.items():
-        ch_name=value['name']
-        ch_number=str(value['lcn'])
-        ch_logo=value['logo']
-        f.write(f'id: {key}, name: {ch_name},  ch_n: {ch_number},   logo:{ch_logo}\n')
-##############################################################################à
 
 epg_xml = ET.Element('tv')
 epg_xml.attrib['source-info-name'] = 'None'
