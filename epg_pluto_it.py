@@ -253,7 +253,7 @@ def get_token(appversion, client_uiid):
     return token
 
 
-
+print(f'Region: {REGION}')
 start_time = datetime.now(UTC)
 start=start_time
 
