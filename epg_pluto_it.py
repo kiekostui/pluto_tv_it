@@ -281,7 +281,7 @@ with open('channel_list.txt', 'w') as f:
         ch_name=value['name']
         ch_number=str(value['lcn'])
         ch_logo=value['logo']
-        f.write(f'id: {key}, name: {ch_name}, ch_n: {ch_number}')
+        f.write(f'id: {key}, name: {ch_name}, ch_n: {ch_number}\n')
 
 epg_xml = ET.Element('tv')
 epg_xml.attrib['source-info-name'] = 'None'
