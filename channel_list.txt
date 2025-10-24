@@ -1,3 +1,4 @@
+id: 612e05b885183d0007958101, name: Pluto TV Christmas, ch_n: 50
 id: 61c09e3ac210ed0007606620, name: Pluto TV Horror, ch_n: 60
 id: 68bed49e00a2f063fd14dba9, name: Saw, ch_n: 61
 id: 62e8d3c2c2db99000787b786, name: Pluto TV Halloween, ch_n: 62
