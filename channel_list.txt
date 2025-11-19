@@ -81,8 +81,7 @@ id: 608030eff4b6f70007e1684c, name: Pluto TV Sport, ch_n: 565
 id: 66461e4394d5580008cfd9c5, name: DFB Play TV, ch_n: 570
 id: 65f955ff18036500084e88fc, name: Realmadrid TV, ch_n: 575
 id: 679203d4bc03978b9b4b79a6, name: UFC, ch_n: 580
-id: 65bce7f1d77d450008b3a430, name: Monster Jam, ch_n: 585
-id: 671655b2daad7f00085d202d, name: MODUS Super Series Darts, ch_n: 590
+id: 671655b2daad7f00085d202d, name: MODUS Super Series Darts, ch_n: 585
 id: 62bc1f502b70e3000706298e, name: South Park, ch_n: 610
 id: 6602acadb2abe500081cf28a, name: I soliti idioti, ch_n: 615
 id: 609404b0a8ec810007d8de9d, name: Pluto TV Scherzi e risate, ch_n: 620
