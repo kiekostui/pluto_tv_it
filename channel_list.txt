@@ -3,7 +3,6 @@ id: 612ce23f51cce000078eeed5, name: Pluto TV Fireplace, ch_n: 60
 id: 688244e00a154253b39f3e44, name: Pluto TV Christmas Family, ch_n: 61
 id: 62e8e137865c590007ecae3c, name: VH1+ Christmas, ch_n: 63
 id: 66a0eea88561260008b1c5d0, name: Carabinieri, ch_n: 100
-id: 654c955683595c00081d9d87, name: Elisa di Rivombrosa, ch_n: 104
 id: 62442f28afe626000747f195, name: I Jefferson, ch_n: 105
 id: 660fc6630cd4630008fae92f, name: Baywatch, ch_n: 110
 id: 6245d3792792150007e20634, name: Settimo Cielo, ch_n: 115
@@ -73,8 +72,8 @@ id: 61925f874b1ec000075e700a, name: Pluto TV Reality, ch_n: 510
 id: 60940a07d88ba90007b9cb71, name: 16 Anni e Incinta, ch_n: 515
 id: 62e7fc8c0d061100083946a9, name: Teen Mom, ch_n: 520
 id: 64c109a4798def0008a6e03e, name: Top Gear, ch_n: 535
-id: 69148c76e9dec35c9269a16c, name: Pluto TV Snooker 900, ch_n: 540
 id: 636a4eaf77279a0007f14861, name: Pimp My Ride, ch_n: 540
+id: 69148c76e9dec35c9269a16c, name: Pluto TV Snooker 900, ch_n: 540
 id: 660bfc4424e1d000085b5f93, name: FIFA+, ch_n: 545
 id: 608016e446d73500075ea7e0, name: World Poker Tour, ch_n: 550
 id: 6616a51124e1d00008761a7e, name: Triton Poker, ch_n: 555
