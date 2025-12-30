@@ -1,10 +1,8 @@
-id: 612e05b885183d0007958101, name: Pluto TV Christmas, ch_n: 60
 id: 612ce23f51cce000078eeed5, name: Pluto TV Fireplace, ch_n: 60
+id: 612e05b885183d0007958101, name: Pluto TV Christmas, ch_n: 60
 id: 688244e00a154253b39f3e44, name: Pluto TV Christmas Family, ch_n: 61
-id: 62e8e137865c590007ecae3c, name: VH1+ Christmas, ch_n: 63
 id: 66a0eea88561260008b1c5d0, name: Carabinieri, ch_n: 100
 id: 62442f28afe626000747f195, name: I Jefferson, ch_n: 105
-id: 660fc6630cd4630008fae92f, name: Baywatch, ch_n: 110
 id: 6245d3792792150007e20634, name: Settimo Cielo, ch_n: 115
 id: 67d9836ba1609bdb523f0c9d, name: Relic Hunter, ch_n: 120
 id: 60b9ff2722bfa400072676ef, name: Pluto TV Serie, ch_n: 125
@@ -24,29 +22,27 @@ id: 65cb76723a116800079e1fc3, name: Love Boat, ch_n: 175
 id: 65cb76ea11ced70008206b66, name: Dynasty, ch_n: 180
 id: 65cb77853ba51e00084cba02, name: Mission Impossible, ch_n: 185
 id: 634926e4b51d2d00077819a2, name: Renegade, ch_n: 190
-id: 6245d4511358320007029cdf, name: MacGyver, ch_n: 195
 id: 608aa17fb9f4490007e6419a, name: Pluto TV Film, ch_n: 200
 id: 608aa20a2e7f270007c4878d, name: Pluto TV Film Azione, ch_n: 205
 id: 61c09e3ac210ed0007606620, name: Pluto TV Horror, ch_n: 210
 id: 608aa5e995132a00075f7005, name: Pluto TV Film Thriller, ch_n: 215
 id: 64808a8c536e0c0008a276d1, name: Pluto TV Legami Letali, ch_n: 220
 id: 608aa4a4cc92820007b663af, name: Pluto TV Film Romantici, ch_n: 225
-id: 688244971027d56590287356, name: Pluto TV Cinema Family, ch_n: 235
-id: 608aa512d67fd900072323db, name: Pluto TV Film Commedia, ch_n: 245
-id: 608aa42b5c2b8f0007197529, name: Pluto TV Cinema Emozione, ch_n: 250
-id: 608aa3c446d73500075f0e24, name: Pluto TV Film Classici, ch_n: 255
-id: 62e7fb67478a5b0007e6c50c, name: Pluto TV Western, ch_n: 260
-id: 65253f9881f942000833ccd5, name: Pluto TV Totò, ch_n: 265
-id: 661f8f01801af800083d9d81, name: Pluto TV Alberto Sordi, ch_n: 270
-id: 608aa7d8359b270007861489, name: Pluto TV Cinema Italiano, ch_n: 275
-id: 6875080e3484d607323641f8, name: Pluto TV Dive Italiane, ch_n: 280
-id: 671754d8e482950008962aaf, name: Cinema Poliziottesco, ch_n: 285
-id: 66335489307fa300082bd6e4, name: Pluto TV Eros, ch_n: 290
-id: 6786235bd648bf0008c2780a, name: Pluto TV Cinema Orientale, ch_n: 295
-id: 68750875759366af05a151ce, name: Pluto TV Film Storici, ch_n: 300
-id: 65f865a62873090008d06382, name: Duri a Morire, ch_n: 305
-id: 6536608b4f123d000876b78b, name: Gli Immortali | Van Damme vs Lundgren, ch_n: 310
-id: 653660b4295b840008a70ba3, name: CineThriller, ch_n: 315
+id: 608aa512d67fd900072323db, name: Pluto TV Film Commedia, ch_n: 240
+id: 608aa42b5c2b8f0007197529, name: Pluto TV Cinema Emozione, ch_n: 245
+id: 608aa3c446d73500075f0e24, name: Pluto TV Film Classici, ch_n: 250
+id: 62e7fb67478a5b0007e6c50c, name: Pluto TV Western, ch_n: 255
+id: 65253f9881f942000833ccd5, name: Pluto TV Totò, ch_n: 260
+id: 661f8f01801af800083d9d81, name: Pluto TV Alberto Sordi, ch_n: 265
+id: 608aa7d8359b270007861489, name: Pluto TV Cinema Italiano, ch_n: 270
+id: 6875080e3484d607323641f8, name: Pluto TV Dive Italiane, ch_n: 275
+id: 671754d8e482950008962aaf, name: Cinema Poliziottesco, ch_n: 280
+id: 66335489307fa300082bd6e4, name: Pluto TV Eros, ch_n: 285
+id: 6786235bd648bf0008c2780a, name: Pluto TV Cinema Orientale, ch_n: 290
+id: 68750875759366af05a151ce, name: Pluto TV Film Storici, ch_n: 295
+id: 65f865a62873090008d06382, name: Duri a Morire, ch_n: 300
+id: 6536608b4f123d000876b78b, name: Gli Immortali | Van Damme vs Lundgren, ch_n: 305
+id: 653660b4295b840008a70ba3, name: CineThriller, ch_n: 310
 id: 6633551323e24f00084744aa, name: Pluto TV Mostri e Vampiri, ch_n: 320
 id: 66335533307fa300082bd80a, name: Pluto TV Splatter, ch_n: 325
 id: 66c35c0c92b1af0008c8e83a, name: Horror Club, ch_n: 330
@@ -72,17 +68,15 @@ id: 61925f874b1ec000075e700a, name: Pluto TV Reality, ch_n: 510
 id: 60940a07d88ba90007b9cb71, name: 16 Anni e Incinta, ch_n: 515
 id: 62e7fc8c0d061100083946a9, name: Teen Mom, ch_n: 520
 id: 64c109a4798def0008a6e03e, name: Top Gear, ch_n: 535
-id: 636a4eaf77279a0007f14861, name: Pimp My Ride, ch_n: 540
 id: 69148c76e9dec35c9269a16c, name: Pluto TV Snooker 900, ch_n: 540
+id: 636a4eaf77279a0007f14861, name: Pimp My Ride, ch_n: 540
 id: 660bfc4424e1d000085b5f93, name: FIFA+, ch_n: 545
 id: 608016e446d73500075ea7e0, name: World Poker Tour, ch_n: 550
 id: 6616a51124e1d00008761a7e, name: Triton Poker, ch_n: 555
-id: 65df0b428b24c80008eec0b6, name: Billiard TV, ch_n: 560
 id: 608030eff4b6f70007e1684c, name: Pluto TV Sport, ch_n: 565
 id: 66461e4394d5580008cfd9c5, name: DFB Play TV, ch_n: 570
-id: 65f955ff18036500084e88fc, name: Realmadrid TV, ch_n: 575
-id: 679203d4bc03978b9b4b79a6, name: UFC, ch_n: 580
-id: 671655b2daad7f00085d202d, name: MODUS Super Series Darts, ch_n: 585
+id: 679203d4bc03978b9b4b79a6, name: UFC, ch_n: 575
+id: 671655b2daad7f00085d202d, name: MODUS Super Series Darts, ch_n: 580
 id: 62bc1f502b70e3000706298e, name: South Park, ch_n: 610
 id: 6602acadb2abe500081cf28a, name: I soliti idioti, ch_n: 615
 id: 609404b0a8ec810007d8de9d, name: Pluto TV Scherzi e risate, ch_n: 620
@@ -101,16 +95,16 @@ id: 65b90daed77d450008a43345, name: Pluto TV Anime, ch_n: 740
 id: 612375086abc84000738fc03, name: Inazuma Eleven, ch_n: 745
 id: 62619405c733e8000732d1fe, name: Teenage Mutant Ninja Turtles, ch_n: 750
 id: 66a8c64814a2bb00084d09d6, name: Gormiti, ch_n: 755
-id: 62e8e4e19bc0ab00072e049f, name: Super! A casa dei Loud, ch_n: 760
 id: 626182c72e4c720007432786, name: Super! Film, ch_n: 760
+id: 62e8e4e19bc0ab00072e049f, name: Super! A casa dei Loud, ch_n: 760
 id: 62e8ddbbaed0390007b258a6, name: Super! Rugrats, ch_n: 765
 id: 61925ea79541940007d20881, name: Super! Brothers and Sisters, ch_n: 775
 id: 609401db8cf51c00084b592e, name: Super! iCarly, ch_n: 780
 id: 63c012504faf1c0007abfa93, name: Super! Victorious, ch_n: 785
 id: 6304ed62410a4c00083c0291, name: Super! Zoey 101, ch_n: 790
 id: 666174c9f999220008769012, name: Super! Big Time Rush, ch_n: 795
-id: 6093f7b5bb49b90007cecaad, name: Super! Pop, ch_n: 800
 id: 664f0ddbf78a8500092dcffa, name: Hell's Kitchen, ch_n: 800
+id: 6093f7b5bb49b90007cecaad, name: Super! Pop, ch_n: 800
 id: 608aa718a8ec810007d87fee, name: Pluto TV Cucina, ch_n: 805
 id: 60801976f92a750007a0699c, name: Pluto TV Real Life, ch_n: 810
 id: 63c923944207be0007fd0887, name: Pluto TV Viaggi, ch_n: 815
@@ -125,9 +119,3 @@ id: 61b86ea479a4390007c6d5fc, name: Euronews, ch_n: 900
 id: 6231ec4b62cd1f0007093c7b, name: CBS News 24/7, ch_n: 905
 id: 66c45ba803e3b20008d8c294, name: CNN Headlines, ch_n: 910
 id: 66c3139c21a4740008466116, name: Desi Play TV, ch_n: 915
-id: 62e8cc10ca869f00078efca8, name: VH1+ Music Legends, ch_n: 920
-id: 6552085aab05240008b05f6c, name: VH1+ Back to 90's, ch_n: 925
-id: 636a4173e34fd50007534542, name: VH1+ Rock!, ch_n: 930
-id: 65e5d9d2ec9fda0008c35f91, name: VH1+ Dance, ch_n: 935
-id: 6690f892d51259000880d1c4, name: VH1+ Classici, ch_n: 940
-id: 63724270c7c2360007b170e8, name: VH1+ Canzoni Italiane, ch_n: 945
