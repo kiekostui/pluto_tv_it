@@ -2,7 +2,6 @@ id: 612ce23f51cce000078eeed5, name: Pluto TV Fireplace, ch_n: 60
 id: 612e05b885183d0007958101, name: Pluto TV Christmas, ch_n: 60
 id: 688244e00a154253b39f3e44, name: Pluto TV Christmas Family, ch_n: 61
 id: 66a0eea88561260008b1c5d0, name: Carabinieri, ch_n: 100
-id: 62442f28afe626000747f195, name: I Jefferson, ch_n: 105
 id: 6245d3792792150007e20634, name: Settimo Cielo, ch_n: 115
 id: 67d9836ba1609bdb523f0c9d, name: Relic Hunter, ch_n: 120
 id: 60b9ff2722bfa400072676ef, name: Pluto TV Serie, ch_n: 125
@@ -68,8 +67,8 @@ id: 61925f874b1ec000075e700a, name: Pluto TV Reality, ch_n: 510
 id: 60940a07d88ba90007b9cb71, name: 16 Anni e Incinta, ch_n: 515
 id: 62e7fc8c0d061100083946a9, name: Teen Mom, ch_n: 520
 id: 64c109a4798def0008a6e03e, name: Top Gear, ch_n: 535
-id: 69148c76e9dec35c9269a16c, name: Pluto TV Snooker 900, ch_n: 540
 id: 636a4eaf77279a0007f14861, name: Pimp My Ride, ch_n: 540
+id: 69148c76e9dec35c9269a16c, name: Pluto TV Snooker 900, ch_n: 540
 id: 660bfc4424e1d000085b5f93, name: FIFA+, ch_n: 545
 id: 608016e446d73500075ea7e0, name: World Poker Tour, ch_n: 550
 id: 6616a51124e1d00008761a7e, name: Triton Poker, ch_n: 555
@@ -88,17 +87,11 @@ id: 67851bd7d648bf0008c00bc2, name: Winx Club, ch_n: 705
 id: 6093f9281db477000759fce0, name: Super! SpongeBob, ch_n: 710
 id: 6093f6f8351eb0000754afb8, name: Super! Cartoni Animati, ch_n: 715
 id: 67f4f99729b03f18cb36647e, name: Super! Kids Classics, ch_n: 720
-id: 62b57a6752a0060008bc65cd, name: Due Fantagenitori, ch_n: 725
-id: 624da1cd2af90c0007c13205, name: Avatar, ch_n: 730
-id: 63eb82e24e83e70008ab735f, name: Yu-Gi-Oh!, ch_n: 735
-id: 65b90daed77d450008a43345, name: Pluto TV Anime, ch_n: 740
-id: 612375086abc84000738fc03, name: Inazuma Eleven, ch_n: 745
-id: 62619405c733e8000732d1fe, name: Teenage Mutant Ninja Turtles, ch_n: 750
+id: 63eb82e24e83e70008ab735f, name: Yu-Gi-Oh!, ch_n: 725
+id: 65b90daed77d450008a43345, name: Pluto TV Anime, ch_n: 730
+id: 612375086abc84000738fc03, name: Inazuma Eleven, ch_n: 735
+id: 62619405c733e8000732d1fe, name: Teenage Mutant Ninja Turtles, ch_n: 740
 id: 66a8c64814a2bb00084d09d6, name: Gormiti, ch_n: 755
-id: 626182c72e4c720007432786, name: Super! Film, ch_n: 760
-id: 62e8e4e19bc0ab00072e049f, name: Super! A casa dei Loud, ch_n: 760
-id: 62e8ddbbaed0390007b258a6, name: Super! Rugrats, ch_n: 765
-id: 61925ea79541940007d20881, name: Super! Brothers and Sisters, ch_n: 775
 id: 609401db8cf51c00084b592e, name: Super! iCarly, ch_n: 780
 id: 63c012504faf1c0007abfa93, name: Super! Victorious, ch_n: 785
 id: 6304ed62410a4c00083c0291, name: Super! Zoey 101, ch_n: 790
