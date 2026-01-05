@@ -1,5 +1,9 @@
-id: 612ce23f51cce000078eeed5, name: Pluto TV Fireplace, ch_n: 60
+id: 6911c8dd8caba6f046c5c5d5, name: Pluto TV Notti di Terrore, ch_n: 50
+id: 6911c92b4316999535eb1e08, name: Pluto TV Notti di Sangue, ch_n: 51
+id: 6911c9704316999535eb21cf, name: Pluto TV Notti di Passione, ch_n: 52
+id: 6911c9b88caba6f046c5ca8f, name: Pluto TV Notti di Crimine, ch_n: 53
 id: 612e05b885183d0007958101, name: Pluto TV Christmas, ch_n: 60
+id: 612ce23f51cce000078eeed5, name: Pluto TV Fireplace, ch_n: 60
 id: 688244e00a154253b39f3e44, name: Pluto TV Christmas Family, ch_n: 61
 id: 66a0eea88561260008b1c5d0, name: Carabinieri, ch_n: 100
 id: 6245d3792792150007e20634, name: Settimo Cielo, ch_n: 115
@@ -42,8 +46,6 @@ id: 68750875759366af05a151ce, name: Pluto TV Film Storici, ch_n: 295
 id: 65f865a62873090008d06382, name: Duri a Morire, ch_n: 300
 id: 6536608b4f123d000876b78b, name: Gli Immortali | Van Damme vs Lundgren, ch_n: 305
 id: 653660b4295b840008a70ba3, name: CineThriller, ch_n: 310
-id: 6633551323e24f00084744aa, name: Pluto TV Mostri e Vampiri, ch_n: 320
-id: 66335533307fa300082bd80a, name: Pluto TV Splatter, ch_n: 325
 id: 66c35c0c92b1af0008c8e83a, name: Horror Club, ch_n: 330
 id: 66c70033b1a34600087bb09a, name: Pluto TV Paranormal, ch_n: 335
 id: 6581a09edfed030008e12b39, name: Star Trek: The Original Series, ch_n: 340
@@ -96,8 +98,8 @@ id: 609401db8cf51c00084b592e, name: Super! iCarly, ch_n: 780
 id: 63c012504faf1c0007abfa93, name: Super! Victorious, ch_n: 785
 id: 6304ed62410a4c00083c0291, name: Super! Zoey 101, ch_n: 790
 id: 666174c9f999220008769012, name: Super! Big Time Rush, ch_n: 795
-id: 664f0ddbf78a8500092dcffa, name: Hell's Kitchen, ch_n: 800
 id: 6093f7b5bb49b90007cecaad, name: Super! Pop, ch_n: 800
+id: 664f0ddbf78a8500092dcffa, name: Hell's Kitchen, ch_n: 800
 id: 608aa718a8ec810007d87fee, name: Pluto TV Cucina, ch_n: 805
 id: 60801976f92a750007a0699c, name: Pluto TV Real Life, ch_n: 810
 id: 63c923944207be0007fd0887, name: Pluto TV Viaggi, ch_n: 815
