@@ -6,25 +6,25 @@ id: 612e05b885183d0007958101, name: Pluto TV Christmas, ch_n: 60
 id: 612ce23f51cce000078eeed5, name: Pluto TV Fireplace, ch_n: 60
 id: 688244e00a154253b39f3e44, name: Pluto TV Christmas Family, ch_n: 61
 id: 66a0eea88561260008b1c5d0, name: Carabinieri, ch_n: 100
-id: 6245d3792792150007e20634, name: Settimo Cielo, ch_n: 115
-id: 67d9836ba1609bdb523f0c9d, name: Relic Hunter, ch_n: 120
-id: 60b9ff2722bfa400072676ef, name: Pluto TV Serie, ch_n: 125
-id: 60a2837f8154ab0007c4dcdf, name: Le sorelle McLeod, ch_n: 130
-id: 62e7fa5ab5062e0007dcf97d, name: BBC Drama, ch_n: 135
-id: 6349279ed5023700078f2bc2, name: Mai dire sì, ch_n: 140
-id: 66d7120815d2c60008cec006, name: Flashpoint, ch_n: 141
-id: 66a8c7aefe11e500085b1587, name: Cherif, ch_n: 142
-id: 66a8c8b3d2d50d000821fc4c, name: Tandem, ch_n: 143
-id: 66d9aa4315d2c60008d4ac40, name: Alice Nevers, ch_n: 144
-id: 66d9a98961dbf00008efb5fc, name: Sulle tracce del crimine, ch_n: 145
-id: 625e6cc905e09f00073addee, name: Squadra Speciale Cobra 11, ch_n: 146
-id: 638f286445264d00084ec6dc, name: Autostop per il cielo, ch_n: 147
-id: 608aa777b907770007e5d05d, name: Pluto TV Serie Crime, ch_n: 148
-id: 65cb78b83a116800079e2e35, name: Cin Cin, ch_n: 170
-id: 65cb76723a116800079e1fc3, name: Love Boat, ch_n: 175
-id: 65cb76ea11ced70008206b66, name: Dynasty, ch_n: 180
-id: 65cb77853ba51e00084cba02, name: Mission Impossible, ch_n: 185
-id: 634926e4b51d2d00077819a2, name: Renegade, ch_n: 190
+id: 6245d3792792150007e20634, name: Settimo Cielo, ch_n: 105
+id: 67d9836ba1609bdb523f0c9d, name: Relic Hunter, ch_n: 110
+id: 60b9ff2722bfa400072676ef, name: Pluto TV Serie, ch_n: 115
+id: 60a2837f8154ab0007c4dcdf, name: Le sorelle McLeod, ch_n: 120
+id: 62e7fa5ab5062e0007dcf97d, name: BBC Drama, ch_n: 125
+id: 6349279ed5023700078f2bc2, name: Mai dire sì, ch_n: 130
+id: 66d7120815d2c60008cec006, name: Flashpoint, ch_n: 135
+id: 66a8c7aefe11e500085b1587, name: Cherif, ch_n: 140
+id: 66a8c8b3d2d50d000821fc4c, name: Tandem, ch_n: 145
+id: 66d9aa4315d2c60008d4ac40, name: Alice Nevers, ch_n: 150
+id: 66d9a98961dbf00008efb5fc, name: Sulle tracce del crimine, ch_n: 155
+id: 625e6cc905e09f00073addee, name: Squadra Speciale Cobra 11, ch_n: 160
+id: 638f286445264d00084ec6dc, name: Autostop per il cielo, ch_n: 165
+id: 608aa777b907770007e5d05d, name: Pluto TV Serie Crime, ch_n: 170
+id: 65cb78b83a116800079e2e35, name: Cin Cin, ch_n: 175
+id: 65cb76723a116800079e1fc3, name: Love Boat, ch_n: 180
+id: 65cb76ea11ced70008206b66, name: Dynasty, ch_n: 185
+id: 65cb77853ba51e00084cba02, name: Mission Impossible, ch_n: 190
+id: 634926e4b51d2d00077819a2, name: Renegade, ch_n: 195
 id: 608aa17fb9f4490007e6419a, name: Pluto TV Film, ch_n: 200
 id: 608aa20a2e7f270007c4878d, name: Pluto TV Film Azione, ch_n: 205
 id: 61c09e3ac210ed0007606620, name: Pluto TV Horror, ch_n: 210
