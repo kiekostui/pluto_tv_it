@@ -3,8 +3,8 @@ id: 6911c92b4316999535eb1e08, name: Pluto TV Notti di Sangue, ch_n: 51
 id: 6911c9704316999535eb21cf, name: Pluto TV Notti di Passione, ch_n: 52
 id: 6911c9b88caba6f046c5ca8f, name: Pluto TV Notti di Crimine, ch_n: 53
 id: 612e05b885183d0007958101, name: Pluto TV Christmas, ch_n: 60
-id: 612ce23f51cce000078eeed5, name: Pluto TV Fireplace, ch_n: 60
 id: 688244e00a154253b39f3e44, name: Pluto TV Christmas Family, ch_n: 61
+id: 612ce23f51cce000078eeed5, name: Pluto TV Fireplace, ch_n: 62
 id: 66a0eea88561260008b1c5d0, name: Carabinieri, ch_n: 100
 id: 6245d3792792150007e20634, name: Settimo Cielo, ch_n: 105
 id: 67d9836ba1609bdb523f0c9d, name: Relic Hunter, ch_n: 110
