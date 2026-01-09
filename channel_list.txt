@@ -2,9 +2,6 @@ id: 6911c8dd8caba6f046c5c5d5, name: Pluto TV Notti di Terrore, ch_n: 50
 id: 6911c92b4316999535eb1e08, name: Pluto TV Notti di Sangue, ch_n: 51
 id: 6911c9704316999535eb21cf, name: Pluto TV Notti di Passione, ch_n: 52
 id: 6911c9b88caba6f046c5ca8f, name: Pluto TV Notti di Crimine, ch_n: 53
-id: 612e05b885183d0007958101, name: Pluto TV Christmas, ch_n: 60
-id: 688244e00a154253b39f3e44, name: Pluto TV Christmas Family, ch_n: 61
-id: 612ce23f51cce000078eeed5, name: Pluto TV Fireplace, ch_n: 62
 id: 66a0eea88561260008b1c5d0, name: Carabinieri, ch_n: 100
 id: 6245d3792792150007e20634, name: Settimo Cielo, ch_n: 105
 id: 67d9836ba1609bdb523f0c9d, name: Relic Hunter, ch_n: 110
@@ -32,8 +29,8 @@ id: 608aa5e995132a00075f7005, name: Pluto TV Film Thriller, ch_n: 215
 id: 64808a8c536e0c0008a276d1, name: Pluto TV Legami Letali, ch_n: 220
 id: 608aa4a4cc92820007b663af, name: Pluto TV Film Romantici, ch_n: 225
 id: 608aa512d67fd900072323db, name: Pluto TV Film Commedia, ch_n: 240
-id: 608aa42b5c2b8f0007197529, name: Pluto TV Cinema Emozione, ch_n: 245
-id: 608aa3c446d73500075f0e24, name: Pluto TV Film Classici, ch_n: 250
+id: 612e05b885183d0007958101, name: Pluto TV Christmas, ch_n: 245
+id: 688244e00a154253b39f3e44, name: Pluto TV Christmas Family, ch_n: 250
 id: 62e7fb67478a5b0007e6c50c, name: Pluto TV Western, ch_n: 255
 id: 65253f9881f942000833ccd5, name: Pluto TV Totò, ch_n: 260
 id: 661f8f01801af800083d9d81, name: Pluto TV Alberto Sordi, ch_n: 265
@@ -63,6 +60,7 @@ id: 64ec5c6644fe100009d114ae, name: Affare Fatto, ch_n: 405
 id: 67c832cc9b53325ee16fb899, name: Wicked Tuna, ch_n: 410
 id: 61fbd3f0733df400076c9a2d, name: Il Testimone, ch_n: 415
 id: 6093f9ed2c75660007322bb7, name: Catfish, ch_n: 420
+id: 612ce23f51cce000078eeed5, name: Pluto TV Fireplace, ch_n: 425
 id: 619263ee9541940007d20d60, name: Geordie Shore, ch_n: 500
 id: 67e3b0d2443f0671bc8a1297, name: Pluto TV Shore, ch_n: 505
 id: 61925f874b1ec000075e700a, name: Pluto TV Reality, ch_n: 510
