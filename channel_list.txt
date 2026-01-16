@@ -65,12 +65,11 @@ id: 6093f9ed2c75660007322bb7, name: Catfish, ch_n: 420
 id: 612ce23f51cce000078eeed5, name: Pluto TV Fireplace, ch_n: 425
 id: 619263ee9541940007d20d60, name: Geordie Shore, ch_n: 500
 id: 67e3b0d2443f0671bc8a1297, name: Pluto TV Shore, ch_n: 505
-id: 61925f874b1ec000075e700a, name: Pluto TV Reality, ch_n: 510
-id: 60940a07d88ba90007b9cb71, name: 16 Anni e Incinta, ch_n: 515
-id: 62e7fc8c0d061100083946a9, name: Teen Mom, ch_n: 520
+id: 60940a07d88ba90007b9cb71, name: 16 Anni e Incinta, ch_n: 510
+id: 62e7fc8c0d061100083946a9, name: Teen Mom, ch_n: 515
 id: 64c109a4798def0008a6e03e, name: Top Gear, ch_n: 535
-id: 69148c76e9dec35c9269a16c, name: Pluto TV Snooker 900, ch_n: 540
 id: 636a4eaf77279a0007f14861, name: Pimp My Ride, ch_n: 540
+id: 69148c76e9dec35c9269a16c, name: Pluto TV Snooker 900, ch_n: 540
 id: 660bfc4424e1d000085b5f93, name: FIFA+, ch_n: 545
 id: 608016e446d73500075ea7e0, name: World Poker Tour, ch_n: 550
 id: 6616a51124e1d00008761a7e, name: Triton Poker, ch_n: 555
@@ -98,14 +97,12 @@ id: 609401db8cf51c00084b592e, name: Super! iCarly, ch_n: 780
 id: 63c012504faf1c0007abfa93, name: Super! Victorious, ch_n: 785
 id: 6304ed62410a4c00083c0291, name: Super! Zoey 101, ch_n: 790
 id: 666174c9f999220008769012, name: Super! Big Time Rush, ch_n: 795
-id: 664f0ddbf78a8500092dcffa, name: Hell's Kitchen, ch_n: 800
 id: 6093f7b5bb49b90007cecaad, name: Super! Pop, ch_n: 800
+id: 664f0ddbf78a8500092dcffa, name: Hell's Kitchen, ch_n: 800
 id: 608aa718a8ec810007d87fee, name: Pluto TV Cucina, ch_n: 805
 id: 60801976f92a750007a0699c, name: Pluto TV Real Life, ch_n: 810
 id: 63c923944207be0007fd0887, name: Pluto TV Viaggi, ch_n: 815
-id: 66867b9919311200085313d9, name: Pluto TV ASMR, ch_n: 820
-id: 626bb07a58b8dd0007e9f36e, name: Case Pazzesche, ch_n: 825
-id: 6661739641af6400080cd8f1, name: Extreme Makeover Home Edition, ch_n: 830
+id: 6661739641af6400080cd8f1, name: Extreme Makeover Home Edition, ch_n: 820
 id: 608aa8a5709d6b0007b132fe, name: Pluto TV Documentari, ch_n: 835
 id: 65253fdf3fd33c00080214a3, name: Pluto TV Storia, ch_n: 840
 id: 610a9ebe8c2ac2000734776e, name: Naturescape, ch_n: 845
