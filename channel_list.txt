@@ -9,7 +9,7 @@ id: 6245d3792792150007e20634, name: Settimo Cielo, ch_n: 105
 id: 67d9836ba1609bdb523f0c9d, name: Relic Hunter, ch_n: 110
 id: 60b9ff2722bfa400072676ef, name: Pluto TV Serie, ch_n: 115
 id: 60a2837f8154ab0007c4dcdf, name: Le sorelle McLeod, ch_n: 120
-id: 62e7fa5ab5062e0007dcf97d, name: BBC Drama, ch_n: 125
+id: 62e7fa5ab5062e0007dcf97d, name: BBC Series, ch_n: 125
 id: 6349279ed5023700078f2bc2, name: Mai dire sì, ch_n: 130
 id: 66d7120815d2c60008cec006, name: Flashpoint, ch_n: 135
 id: 66a8c7aefe11e500085b1587, name: Cherif, ch_n: 140
@@ -66,15 +66,14 @@ id: 67e3b0d2443f0671bc8a1297, name: Pluto TV Shore, ch_n: 505
 id: 60940a07d88ba90007b9cb71, name: 16 Anni e Incinta, ch_n: 510
 id: 62e7fc8c0d061100083946a9, name: Teen Mom, ch_n: 515
 id: 64c109a4798def0008a6e03e, name: Top Gear, ch_n: 535
-id: 636a4eaf77279a0007f14861, name: Pimp My Ride, ch_n: 540
 id: 69148c76e9dec35c9269a16c, name: Pluto TV Snooker 900, ch_n: 540
 id: 660bfc4424e1d000085b5f93, name: FIFA+, ch_n: 545
 id: 608016e446d73500075ea7e0, name: World Poker Tour, ch_n: 550
 id: 6616a51124e1d00008761a7e, name: Triton Poker, ch_n: 555
-id: 608030eff4b6f70007e1684c, name: Pluto TV Sport, ch_n: 565
-id: 66461e4394d5580008cfd9c5, name: DFB Play TV, ch_n: 570
-id: 679203d4bc03978b9b4b79a6, name: UFC, ch_n: 575
-id: 671655b2daad7f00085d202d, name: MODUS Super Series Darts, ch_n: 580
+id: 608030eff4b6f70007e1684c, name: Pluto TV Sport, ch_n: 560
+id: 66461e4394d5580008cfd9c5, name: DFB Play TV, ch_n: 565
+id: 679203d4bc03978b9b4b79a6, name: UFC, ch_n: 570
+id: 671655b2daad7f00085d202d, name: MODUS Super Series Darts, ch_n: 575
 id: 62bc1f502b70e3000706298e, name: South Park, ch_n: 610
 id: 6602acadb2abe500081cf28a, name: I soliti idioti, ch_n: 615
 id: 609404b0a8ec810007d8de9d, name: Pluto TV Scherzi e risate, ch_n: 620
@@ -86,8 +85,8 @@ id: 67851bd7d648bf0008c00bc2, name: Winx Club, ch_n: 705
 id: 6093f9281db477000759fce0, name: Super! SpongeBob, ch_n: 710
 id: 6093f6f8351eb0000754afb8, name: Super! Cartoni Animati, ch_n: 715
 id: 67f4f99729b03f18cb36647e, name: Super! Kids Classics, ch_n: 720
-id: 63eb82e24e83e70008ab735f, name: Yu-Gi-Oh!, ch_n: 725
 id: 686cfdf894a028da3aac4252, name: Barbie & Friends, ch_n: 725
+id: 63eb82e24e83e70008ab735f, name: Yu-Gi-Oh!, ch_n: 725
 id: 686cfe983ffa5e0c91cdb5df, name: Mattel Junior, ch_n: 729
 id: 65b90daed77d450008a43345, name: Pluto TV Anime, ch_n: 730
 id: 612375086abc84000738fc03, name: Inazuma Eleven, ch_n: 735
