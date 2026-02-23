@@ -106,6 +106,6 @@ id: 608aa8a5709d6b0007b132fe, name: Pluto TV Documentari, ch_n: 835
 id: 65253fdf3fd33c00080214a3, name: Pluto TV Storia, ch_n: 840
 id: 610a9ebe8c2ac2000734776e, name: Naturescape, ch_n: 845
 id: 60802b37709d6b0007b0c549, name: Pluto TV Natura, ch_n: 850
-id: 61b86ea479a4390007c6d5fc, name: Euronews, ch_n: 900
-id: 6231ec4b62cd1f0007093c7b, name: CBS News 24/7, ch_n: 905
-id: 66c45ba803e3b20008d8c294, name: CNN Headlines, ch_n: 910
+id: 6231ec4b62cd1f0007093c7b, name: CBS News 24/7, ch_n: 897
+id: 66c45ba803e3b20008d8c294, name: CNN Headlines, ch_n: 905
+id: 61b86ea479a4390007c6d5fc, name: Euronews, ch_n: 910
