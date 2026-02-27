@@ -1,5 +1,5 @@
-id: 6192605c9541940007d208f8, name: Pluto TV In Love, ch_n: 50
-id: 63eb573ba99571000897135b, name: Pluto TV Teen, ch_n: 51
+id: 691c5b2e74baa89ef7230baf, name: Nina, ch_n: 49
+id: 6192605c9541940007d208f8, name: Pluto TV In Love, ch_n: 51
 id: 6911c9704316999535eb21cf, name: Pluto TV Notti di Passione, ch_n: 80
 id: 6911c8dd8caba6f046c5c5d5, name: Pluto TV Notti di Terrore, ch_n: 80
 id: 6911c92b4316999535eb1e08, name: Pluto TV Notti di Sangue, ch_n: 81
@@ -92,6 +92,7 @@ id: 65b90daed77d450008a43345, name: Pluto TV Anime, ch_n: 730
 id: 612375086abc84000738fc03, name: Inazuma Eleven, ch_n: 735
 id: 62619405c733e8000732d1fe, name: Teenage Mutant Ninja Turtles, ch_n: 740
 id: 66a8c64814a2bb00084d09d6, name: Gormiti, ch_n: 755
+id: 63eb573ba99571000897135b, name: Pluto TV Teen, ch_n: 770
 id: 609401db8cf51c00084b592e, name: Super! iCarly, ch_n: 775
 id: 63c012504faf1c0007abfa93, name: Super! Victorious, ch_n: 780
 id: 6304ed62410a4c00083c0291, name: Super! Zoey 101, ch_n: 785
