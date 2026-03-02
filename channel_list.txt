@@ -1,20 +1,27 @@
-id: 691c5b2e74baa89ef7230baf, name: Nina, ch_n: 49
-id: 6192605c9541940007d208f8, name: Pluto TV In Love, ch_n: 51
-id: 6911c9704316999535eb21cf, name: Pluto TV Notti di Passione, ch_n: 80
+id: 691c5b2e74baa89ef7230baf, name: Nina, ch_n: 50
+id: 69664afedcbf5c784492e422, name: The Intern, ch_n: 51
+id: 69709f3331b356840267c41a, name: Pluto TV Donne Protagoniste, ch_n: 52
+id: 64fee60130ab3300084d9157, name: The Musketeers, ch_n: 53
+id: 66a0eea88561260008b1c5d0, name: Carabinieri, ch_n: 60
+id: 6245d3792792150007e20634, name: Settimo Cielo, ch_n: 61
+id: 67d9836ba1609bdb523f0c9d, name: Relic Hunter, ch_n: 62
+id: 60a2837f8154ab0007c4dcdf, name: Le sorelle McLeod, ch_n: 63
+id: 66a8c7aefe11e500085b1587, name: Cherif, ch_n: 64
+id: 66a8c8b3d2d50d000821fc4c, name: Tandem, ch_n: 65
+id: 66d9aa4315d2c60008d4ac40, name: Alice Nevers, ch_n: 66
+id: 619263ee9541940007d20d60, name: Geordie Shore, ch_n: 67
+id: 67e3b0d2443f0671bc8a1297, name: Pluto TV Shore, ch_n: 68
+id: 60940a07d88ba90007b9cb71, name: 16 Anni e Incinta, ch_n: 69
+id: 62e7fc8c0d061100083946a9, name: Teen Mom, ch_n: 70
+id: 60801976f92a750007a0699c, name: Pluto TV Real Life, ch_n: 71
 id: 6911c8dd8caba6f046c5c5d5, name: Pluto TV Notti di Terrore, ch_n: 80
+id: 6911c9704316999535eb21cf, name: Pluto TV Notti di Passione, ch_n: 80
 id: 6911c92b4316999535eb1e08, name: Pluto TV Notti di Sangue, ch_n: 81
 id: 6911c9b88caba6f046c5ca8f, name: Pluto TV Notti di Crimine, ch_n: 83
-id: 66a0eea88561260008b1c5d0, name: Carabinieri, ch_n: 100
-id: 6245d3792792150007e20634, name: Settimo Cielo, ch_n: 105
-id: 67d9836ba1609bdb523f0c9d, name: Relic Hunter, ch_n: 110
 id: 60b9ff2722bfa400072676ef, name: Pluto TV Serie, ch_n: 115
-id: 60a2837f8154ab0007c4dcdf, name: Le sorelle McLeod, ch_n: 120
 id: 62e7fa5ab5062e0007dcf97d, name: BBC Series, ch_n: 125
 id: 6349279ed5023700078f2bc2, name: Mai dire sì, ch_n: 130
 id: 66d7120815d2c60008cec006, name: Flashpoint, ch_n: 135
-id: 66a8c7aefe11e500085b1587, name: Cherif, ch_n: 140
-id: 66a8c8b3d2d50d000821fc4c, name: Tandem, ch_n: 145
-id: 66d9aa4315d2c60008d4ac40, name: Alice Nevers, ch_n: 150
 id: 66d9a98961dbf00008efb5fc, name: Sulle tracce del crimine, ch_n: 155
 id: 625e6cc905e09f00073addee, name: Squadra Speciale Cobra 11, ch_n: 160
 id: 638f286445264d00084ec6dc, name: Autostop per il cielo, ch_n: 165
@@ -61,19 +68,14 @@ id: 690cb9140d121b44ad925ac9, name: Mayday: Disastro Aereo, ch_n: 410
 id: 67c832cc9b53325ee16fb899, name: Wicked Tuna, ch_n: 415
 id: 61fbd3f0733df400076c9a2d, name: Il Testimone, ch_n: 420
 id: 6093f9ed2c75660007322bb7, name: Catfish, ch_n: 425
-id: 619263ee9541940007d20d60, name: Geordie Shore, ch_n: 500
-id: 67e3b0d2443f0671bc8a1297, name: Pluto TV Shore, ch_n: 505
-id: 60940a07d88ba90007b9cb71, name: 16 Anni e Incinta, ch_n: 510
-id: 62e7fc8c0d061100083946a9, name: Teen Mom, ch_n: 515
 id: 64c109a4798def0008a6e03e, name: Top Gear, ch_n: 535
 id: 69148c76e9dec35c9269a16c, name: Pluto TV Snooker 900, ch_n: 540
 id: 660bfc4424e1d000085b5f93, name: FIFA+, ch_n: 545
 id: 608016e446d73500075ea7e0, name: World Poker Tour, ch_n: 550
 id: 6616a51124e1d00008761a7e, name: Triton Poker, ch_n: 555
 id: 608030eff4b6f70007e1684c, name: Pluto TV Sport, ch_n: 560
-id: 66461e4394d5580008cfd9c5, name: DFB Play TV, ch_n: 565
-id: 679203d4bc03978b9b4b79a6, name: UFC, ch_n: 570
-id: 671655b2daad7f00085d202d, name: MODUS Super Series Darts, ch_n: 575
+id: 679203d4bc03978b9b4b79a6, name: UFC, ch_n: 565
+id: 671655b2daad7f00085d202d, name: MODUS Super Series Darts, ch_n: 570
 id: 62bc1f502b70e3000706298e, name: South Park, ch_n: 610
 id: 6602acadb2abe500081cf28a, name: I soliti idioti, ch_n: 615
 id: 609404b0a8ec810007d8de9d, name: Pluto TV Scherzi e risate, ch_n: 620
@@ -94,13 +96,9 @@ id: 62619405c733e8000732d1fe, name: Teenage Mutant Ninja Turtles, ch_n: 740
 id: 66a8c64814a2bb00084d09d6, name: Gormiti, ch_n: 755
 id: 63eb573ba99571000897135b, name: Pluto TV Teen, ch_n: 770
 id: 609401db8cf51c00084b592e, name: Super! iCarly, ch_n: 775
-id: 63c012504faf1c0007abfa93, name: Super! Victorious, ch_n: 780
-id: 6304ed62410a4c00083c0291, name: Super! Zoey 101, ch_n: 785
-id: 666174c9f999220008769012, name: Super! Big Time Rush, ch_n: 790
-id: 6093f7b5bb49b90007cecaad, name: Super! Pop, ch_n: 795
+id: 6093f7b5bb49b90007cecaad, name: Super! Pop, ch_n: 780
 id: 664f0ddbf78a8500092dcffa, name: Hell's Kitchen, ch_n: 800
 id: 608aa718a8ec810007d87fee, name: Pluto TV Cucina, ch_n: 805
-id: 60801976f92a750007a0699c, name: Pluto TV Real Life, ch_n: 810
 id: 63c923944207be0007fd0887, name: Pluto TV Viaggi, ch_n: 815
 id: 6661739641af6400080cd8f1, name: Extreme Makeover Home Edition, ch_n: 820
 id: 608aa8a5709d6b0007b132fe, name: Pluto TV Documentari, ch_n: 835
