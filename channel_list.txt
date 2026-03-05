@@ -82,8 +82,7 @@ id: 609404b0a8ec810007d8de9d, name: Pluto TV Scherzi e risate, ch_n: 620
 id: 608014d19a26320007c92ab6, name: FailArmy, ch_n: 625
 id: 6093f48c95132a00075fd859, name: Just for Laughs GAGS, ch_n: 630
 id: 65d7211d0d45610008ffcf92, name: LOL Just For Laughs, ch_n: 635
-id: 68adb5853efb41cd97ce413d, name: I Puffi, ch_n: 700
-id: 67851bd7d648bf0008c00bc2, name: Winx Club, ch_n: 705
+id: 68adb5853efb41cd97ce413d, name: I Puffi, ch_n: 705
 id: 6093f9281db477000759fce0, name: Super! SpongeBob, ch_n: 710
 id: 6093f6f8351eb0000754afb8, name: Super! Cartoni Animati, ch_n: 715
 id: 67f4f99729b03f18cb36647e, name: Super! Kids Classics, ch_n: 720
@@ -95,6 +94,7 @@ id: 612375086abc84000738fc03, name: Inazuma Eleven, ch_n: 735
 id: 62619405c733e8000732d1fe, name: Teenage Mutant Ninja Turtles, ch_n: 740
 id: 66a8c64814a2bb00084d09d6, name: Gormiti, ch_n: 755
 id: 63eb573ba99571000897135b, name: Pluto TV Teen, ch_n: 770
+id: 67851bd7d648bf0008c00bc2, name: Winx Club, ch_n: 775
 id: 609401db8cf51c00084b592e, name: Super! iCarly, ch_n: 775
 id: 6093f7b5bb49b90007cecaad, name: Super! Pop, ch_n: 780
 id: 664f0ddbf78a8500092dcffa, name: Hell's Kitchen, ch_n: 800
