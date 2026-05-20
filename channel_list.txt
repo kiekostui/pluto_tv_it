@@ -1,8 +1,8 @@
 id: 699d87093d5dba980705cca8, name: Pluto TV Film Ancora Più Romantici, ch_n: 50
-id: 69ef53e12f4d2b4f9c582e76, name: That’s 70s, ch_n: 51
-id: 69ef54f3c700cf0140272def, name: That’s 80s, ch_n: 52
-id: 69ef55c3b80e144b55d74e36, name: That’s 90s/00s, ch_n: 53
-id: 69ef5682980899a9edf1a884, name: That’s Rock, ch_n: 54
+id: 69ef53e12f4d2b4f9c582e76, name: That's 70s, ch_n: 51
+id: 69ef54f3c700cf0140272def, name: That's 80s, ch_n: 52
+id: 69ef55c3b80e144b55d74e36, name: That's 90s/00s, ch_n: 53
+id: 69ef5682980899a9edf1a884, name: That's Rock, ch_n: 54
 id: 6971fc07c945e6e4e5bc46bf, name: Gambero Rosso, ch_n: 55
 id: 6971fc932c004063166ac8fd, name: Il Sole24Ore TV, ch_n: 56
 id: 6971fc6dca441014e4600f2c, name: Automoto, ch_n: 57
