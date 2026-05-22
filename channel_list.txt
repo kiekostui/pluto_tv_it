@@ -3,10 +3,6 @@ id: 69ef53e12f4d2b4f9c582e76, name: That's 70s, ch_n: 51
 id: 69ef54f3c700cf0140272def, name: That's 80s, ch_n: 52
 id: 69ef55c3b80e144b55d74e36, name: That's 90s/00s, ch_n: 53
 id: 69ef5682980899a9edf1a884, name: That's Rock, ch_n: 54
-id: 6971fc07c945e6e4e5bc46bf, name: Gambero Rosso, ch_n: 55
-id: 6971fc932c004063166ac8fd, name: Il Sole24Ore TV, ch_n: 56
-id: 6971fc6dca441014e4600f2c, name: Automoto, ch_n: 57
-id: 691c5bef3a369d8f40192e71, name: Inter 24/7, ch_n: 58
 id: 6911c8dd8caba6f046c5c5d5, name: Pluto TV Notti di Terrore, ch_n: 80
 id: 6911c9704316999535eb21cf, name: Pluto TV Notti di Passione, ch_n: 80
 id: 6911c92b4316999535eb1e08, name: Pluto TV Notti di Sangue, ch_n: 81
@@ -58,8 +54,8 @@ id: 653660b4295b840008a70ba3, name: CineThriller, ch_n: 310
 id: 66c35c0c92b1af0008c8e83a, name: Horror Club, ch_n: 330
 id: 66c70033b1a34600087bb09a, name: Pluto TV Paranormal, ch_n: 335
 id: 62e8d5369e48940007fc1dc1, name: The Asylum, ch_n: 350
-id: 65cb73d33ba51e00084cabad, name: Star Trek: Voyager, ch_n: 355
 id: 67ed14aaf7c5d70b9089c3bf, name: Pluto TV Serie Sci-Fi, ch_n: 355
+id: 65cb73d33ba51e00084cabad, name: Star Trek: Voyager, ch_n: 355
 id: 61728bb9ee3773000840c1fa, name: Pluto TV Sci-Fi, ch_n: 360
 id: 60802d37ee238e0007c94e64, name: Andromeda, ch_n: 365
 id: 63eb57d6c111bc0008fe2658, name: Sanctuary, ch_n: 370
@@ -77,14 +73,16 @@ id: 67e3b0d2443f0671bc8a1297, name: Pluto TV Shore, ch_n: 505
 id: 60940a07d88ba90007b9cb71, name: 16 Anni e Incinta, ch_n: 510
 id: 62e7fc8c0d061100083946a9, name: Teen Mom, ch_n: 515
 id: 64c109a4798def0008a6e03e, name: Top Gear, ch_n: 535
-id: 69148c76e9dec35c9269a16c, name: Pluto TV Snooker 900, ch_n: 540
-id: 696e0fe49ba4ac18057433ac, name: Rally TV, ch_n: 545
-id: 660bfc4424e1d000085b5f93, name: FIFA+, ch_n: 550
-id: 608016e446d73500075ea7e0, name: World Poker Tour, ch_n: 555
-id: 6616a51124e1d00008761a7e, name: Triton Poker, ch_n: 560
-id: 608030eff4b6f70007e1684c, name: Pluto TV Sport, ch_n: 565
-id: 679203d4bc03978b9b4b79a6, name: UFC, ch_n: 570
-id: 671655b2daad7f00085d202d, name: MODUS Super Series Darts, ch_n: 575
+id: 691c5bef3a369d8f40192e71, name: Inter 24/7, ch_n: 540
+id: 69148c76e9dec35c9269a16c, name: Pluto TV Snooker 900, ch_n: 545
+id: 696e0fe49ba4ac18057433ac, name: Rally TV, ch_n: 550
+id: 6971fc6dca441014e4600f2c, name: Automoto, ch_n: 555
+id: 660bfc4424e1d000085b5f93, name: FIFA+, ch_n: 560
+id: 608016e446d73500075ea7e0, name: World Poker Tour, ch_n: 565
+id: 6616a51124e1d00008761a7e, name: Triton Poker, ch_n: 570
+id: 608030eff4b6f70007e1684c, name: Pluto TV Sport, ch_n: 575
+id: 679203d4bc03978b9b4b79a6, name: UFC, ch_n: 580
+id: 671655b2daad7f00085d202d, name: MODUS Super Series Darts, ch_n: 585
 id: 62bc1f502b70e3000706298e, name: South Park, ch_n: 610
 id: 6602acadb2abe500081cf28a, name: I soliti idioti, ch_n: 615
 id: 609404b0a8ec810007d8de9d, name: Pluto TV Scherzi e risate, ch_n: 620
@@ -106,10 +104,11 @@ id: 63eb573ba99571000897135b, name: Pluto TV Teen, ch_n: 770
 id: 609401db8cf51c00084b592e, name: Super! iCarly, ch_n: 775
 id: 6093f7b5bb49b90007cecaad, name: Super! Pop, ch_n: 780
 id: 664f0ddbf78a8500092dcffa, name: Hell's Kitchen, ch_n: 800
-id: 608aa718a8ec810007d87fee, name: Pluto TV Cucina, ch_n: 805
-id: 60801976f92a750007a0699c, name: Pluto TV Real Life, ch_n: 810
-id: 63c923944207be0007fd0887, name: Pluto TV Viaggi, ch_n: 815
-id: 6661739641af6400080cd8f1, name: Extreme Makeover Home Edition, ch_n: 820
+id: 6971fc07c945e6e4e5bc46bf, name: Gambero Rosso, ch_n: 804
+id: 608aa718a8ec810007d87fee, name: Pluto TV Cucina, ch_n: 810
+id: 60801976f92a750007a0699c, name: Pluto TV Real Life, ch_n: 815
+id: 63c923944207be0007fd0887, name: Pluto TV Viaggi, ch_n: 820
+id: 6661739641af6400080cd8f1, name: Extreme Makeover Home Edition, ch_n: 825
 id: 69b1489b5828e7c242d83064, name: Space Live, ch_n: 830
 id: 608aa8a5709d6b0007b132fe, name: Pluto TV Documentari, ch_n: 835
 id: 65253fdf3fd33c00080214a3, name: Pluto TV Storia, ch_n: 840
@@ -118,3 +117,4 @@ id: 60802b37709d6b0007b0c549, name: Pluto TV Natura, ch_n: 850
 id: 6231ec4b62cd1f0007093c7b, name: CBS News 24/7, ch_n: 897
 id: 66c45ba803e3b20008d8c294, name: CNN Headlines International, ch_n: 905
 id: 61b86ea479a4390007c6d5fc, name: Euronews, ch_n: 910
+id: 6971fc932c004063166ac8fd, name: Il Sole24Ore TV, ch_n: 915
