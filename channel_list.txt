@@ -1,4 +1,5 @@
 id: 69affcad8940750a23a7231a, name: One Piece, ch_n: 50
+id: 6500457d3efb510008315e59, name: New Tricks, ch_n: 51
 id: 6911c8dd8caba6f046c5c5d5, name: Pluto TV Notti di Terrore, ch_n: 80
 id: 6911c92b4316999535eb1e08, name: Pluto TV Notti di Sangue, ch_n: 81
 id: 6911c9704316999535eb21cf, name: Pluto TV Notti di Passione, ch_n: 82
@@ -50,8 +51,8 @@ id: 653660b4295b840008a70ba3, name: CineThriller, ch_n: 310
 id: 66c35c0c92b1af0008c8e83a, name: Horror Club, ch_n: 330
 id: 66c70033b1a34600087bb09a, name: Pluto TV Paranormal, ch_n: 335
 id: 62e8d5369e48940007fc1dc1, name: The Asylum, ch_n: 350
-id: 67ed14aaf7c5d70b9089c3bf, name: Pluto TV Serie Sci-Fi, ch_n: 355
 id: 65cb73d33ba51e00084cabad, name: Star Trek: Voyager, ch_n: 355
+id: 67ed14aaf7c5d70b9089c3bf, name: Pluto TV Serie Sci-Fi, ch_n: 355
 id: 61728bb9ee3773000840c1fa, name: Pluto TV Sci-Fi, ch_n: 360
 id: 60802d37ee238e0007c94e64, name: Andromeda, ch_n: 365
 id: 63eb57d6c111bc0008fe2658, name: Sanctuary, ch_n: 370
