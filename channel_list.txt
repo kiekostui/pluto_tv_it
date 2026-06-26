@@ -36,25 +36,24 @@ id: 62e7fb67478a5b0007e6c50c, name: Pluto TV Western, ch_n: 255
 id: 65253f9881f942000833ccd5, name: Pluto TV Totò, ch_n: 260
 id: 661f8f01801af800083d9d81, name: Pluto TV Alberto Sordi, ch_n: 265
 id: 608aa7d8359b270007861489, name: Pluto TV Cinema Italiano, ch_n: 270
-id: 6875080e3484d607323641f8, name: Pluto TV Dive Italiane, ch_n: 275
-id: 671754d8e482950008962aaf, name: Cinema Poliziottesco, ch_n: 280
-id: 66335489307fa300082bd6e4, name: Pluto TV Eros, ch_n: 285
-id: 6786235bd648bf0008c2780a, name: Pluto TV Cinema Orientale, ch_n: 290
-id: 68750875759366af05a151ce, name: Pluto TV Film Storici, ch_n: 295
-id: 65f865a62873090008d06382, name: Duri a Morire, ch_n: 300
-id: 6536608b4f123d000876b78b, name: Gli Immortali | Van Damme vs Lundgren, ch_n: 305
-id: 653660b4295b840008a70ba3, name: CineThriller, ch_n: 310
-id: 6911c8dd8caba6f046c5c5d5, name: Pluto TV Notti di Terrore, ch_n: 340
-id: 6911c92b4316999535eb1e08, name: Pluto TV Notti di Sangue, ch_n: 345
-id: 6911c9704316999535eb21cf, name: Pluto TV Notti di Passione, ch_n: 355
-id: 66c35c0c92b1af0008c8e83a, name: Horror Club, ch_n: 360
-id: 61728bb9ee3773000840c1fa, name: Pluto TV Sci-Fi, ch_n: 360
-id: 66c70033b1a34600087bb09a, name: Pluto TV Paranormal, ch_n: 365
-id: 65cb73d33ba51e00084cabad, name: Star Trek: Voyager, ch_n: 370
-id: 62e8d5369e48940007fc1dc1, name: The Asylum, ch_n: 375
-id: 67ed14aaf7c5d70b9089c3bf, name: Pluto TV Serie Sci-Fi, ch_n: 385
-id: 60802d37ee238e0007c94e64, name: Andromeda, ch_n: 390
-id: 63eb57d6c111bc0008fe2658, name: Sanctuary, ch_n: 395
+id: 671754d8e482950008962aaf, name: Cinema Poliziottesco, ch_n: 275
+id: 66335489307fa300082bd6e4, name: Pluto TV Eros, ch_n: 280
+id: 6786235bd648bf0008c2780a, name: Pluto TV Cinema Orientale, ch_n: 285
+id: 68750875759366af05a151ce, name: Pluto TV Film Storici, ch_n: 290
+id: 65f865a62873090008d06382, name: Duri a Morire, ch_n: 295
+id: 6536608b4f123d000876b78b, name: Gli Immortali | Van Damme vs Lundgren, ch_n: 300
+id: 653660b4295b840008a70ba3, name: CineThriller, ch_n: 305
+id: 6911c8dd8caba6f046c5c5d5, name: Pluto TV Notti di Terrore, ch_n: 310
+id: 6911c92b4316999535eb1e08, name: Pluto TV Notti di Sangue, ch_n: 315
+id: 6911c9704316999535eb21cf, name: Pluto TV Notti di Passione, ch_n: 320
+id: 66c35c0c92b1af0008c8e83a, name: Horror Club, ch_n: 325
+id: 66c70033b1a34600087bb09a, name: Pluto TV Paranormal, ch_n: 330
+id: 62e8d5369e48940007fc1dc1, name: The Asylum, ch_n: 340
+id: 67ed14aaf7c5d70b9089c3bf, name: Pluto TV Serie Sci-Fi, ch_n: 345
+id: 61728bb9ee3773000840c1fa, name: Pluto TV Sci-Fi, ch_n: 350
+id: 60802d37ee238e0007c94e64, name: Andromeda, ch_n: 355
+id: 65cb73d33ba51e00084cabad, name: Star Trek: Voyager, ch_n: 355
+id: 63eb57d6c111bc0008fe2658, name: Sanctuary, ch_n: 360
 id: 66d9ab4bf0f17500084e9b7e, name: Pluto TV True Crime, ch_n: 400
 id: 64ec5cf50f73a800081310a5, name: Forensic Files, ch_n: 405
 id: 66177d18c8311c0008d077d0, name: Storie Criminali, ch_n: 410
@@ -91,8 +90,8 @@ id: 65b90daed77d450008a43345, name: Pluto TV Anime, ch_n: 720
 id: 68adb5853efb41cd97ce413d, name: I Puffi, ch_n: 725
 id: 6093f9281db477000759fce0, name: Super! SpongeBob, ch_n: 730
 id: 6093f6f8351eb0000754afb8, name: Super! Cartoni Animati, ch_n: 735
-id: 67f4f99729b03f18cb36647e, name: Super! Kids Classics, ch_n: 740
 id: 686cfdf894a028da3aac4252, name: Barbie & Friends, ch_n: 740
+id: 67f4f99729b03f18cb36647e, name: Super! Kids Classics, ch_n: 740
 id: 686cfe983ffa5e0c91cdb5df, name: Mattel Junior, ch_n: 750
 id: 62619405c733e8000732d1fe, name: Teenage Mutant Ninja Turtles, ch_n: 755
 id: 66a8c64814a2bb00084d09d6, name: Gormiti, ch_n: 760
