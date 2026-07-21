@@ -42,7 +42,7 @@ id: 66335489307fa300082bd6e4, name: Pluto TV Eros, ch_n: 280
 id: 6786235bd648bf0008c2780a, name: Pluto TV Cinema Orientale, ch_n: 285
 id: 68750875759366af05a151ce, name: Pluto TV Film Storici, ch_n: 290
 id: 65f865a62873090008d06382, name: Duri a Morire, ch_n: 295
-id: 6536608b4f123d000876b78b, name: Gli Immortali | Van Damme vs Lundgren, ch_n: 300
+id: 6536608b4f123d000876b78b, name: Gli Immortali – Seagal vs Lundgren, ch_n: 300
 id: 653660b4295b840008a70ba3, name: CineThriller, ch_n: 305
 id: 6911c8dd8caba6f046c5c5d5, name: Pluto TV Notti di Terrore, ch_n: 310
 id: 6911c92b4316999535eb1e08, name: Pluto TV Notti di Sangue, ch_n: 315
