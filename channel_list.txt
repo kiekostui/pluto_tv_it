@@ -1,7 +1,4 @@
-id: 6a439aae539f6cfa9cd04d27, name: Pluto TV Arte, ch_n: 50
-id: 69ef572280ef8232ceef596b, name: That's 60s, ch_n: 51
-id: 69fc9010f6ac24413f520103, name: ZDF Squadra Speciale Lipsia, ch_n: 52
-id: 69fc8fd109705ebdf782724a, name: ZDF Guardia Costiera, ch_n: 53
+id: 69690bb672db627531285928, name: NFL Channel, ch_n: 50
 id: 62442f28afe626000747f195, name: I Jefferson, ch_n: 100
 id: 66a0eea88561260008b1c5d0, name: Carabinieri, ch_n: 105
 id: 6245d3792792150007e20634, name: Settimo Cielo, ch_n: 110
@@ -18,14 +15,16 @@ id: 66a8c8b3d2d50d000821fc4c, name: Tandem, ch_n: 165
 id: 66d9aa4315d2c60008d4ac40, name: Alice Nevers, ch_n: 170
 id: 66d9a98961dbf00008efb5fc, name: Sulle tracce del crimine, ch_n: 175
 id: 6500457d3efb510008315e59, name: New Tricks, ch_n: 180
-id: 625e6cc905e09f00073addee, name: Squadra Speciale Cobra 11, ch_n: 180
-id: 638f286445264d00084ec6dc, name: Autostop per il cielo, ch_n: 185
-id: 608aa777b907770007e5d05d, name: Pluto TV Serie Crime, ch_n: 190
-id: 65cb78b83a116800079e2e35, name: Cin Cin, ch_n: 191
-id: 65cb76723a116800079e1fc3, name: Love Boat, ch_n: 192
-id: 65cb76ea11ced70008206b66, name: Dynasty, ch_n: 193
-id: 65cb77853ba51e00084cba02, name: Mission Impossible, ch_n: 194
-id: 634926e4b51d2d00077819a2, name: Renegade, ch_n: 195
+id: 625e6cc905e09f00073addee, name: Squadra Speciale Cobra 11, ch_n: 185
+id: 69fc9010f6ac24413f520103, name: ZDF Squadra Speciale Lipsia, ch_n: 190
+id: 69fc8fd109705ebdf782724a, name: ZDF Guardia Costiera, ch_n: 191
+id: 638f286445264d00084ec6dc, name: Autostop per il cielo, ch_n: 192
+id: 608aa777b907770007e5d05d, name: Pluto TV Serie Crime, ch_n: 193
+id: 65cb78b83a116800079e2e35, name: Cin Cin, ch_n: 194
+id: 65cb76723a116800079e1fc3, name: Love Boat, ch_n: 195
+id: 65cb76ea11ced70008206b66, name: Dynasty, ch_n: 196
+id: 65cb77853ba51e00084cba02, name: Mission Impossible, ch_n: 197
+id: 634926e4b51d2d00077819a2, name: Renegade, ch_n: 198
 id: 608aa17fb9f4490007e6419a, name: Pluto TV Film, ch_n: 200
 id: 608aa20a2e7f270007c4878d, name: Pluto TV Film Azione, ch_n: 205
 id: 61c09e3ac210ed0007606620, name: Pluto TV Horror, ch_n: 210
@@ -112,13 +111,15 @@ id: 6661739641af6400080cd8f1, name: Extreme Makeover Home Edition, ch_n: 830
 id: 69b1489b5828e7c242d83064, name: Space Live, ch_n: 835
 id: 608aa8a5709d6b0007b132fe, name: Pluto TV Documentari, ch_n: 840
 id: 65253fdf3fd33c00080214a3, name: Pluto TV Storia, ch_n: 845
-id: 610a9ebe8c2ac2000734776e, name: Naturescape, ch_n: 850
-id: 60802b37709d6b0007b0c549, name: Pluto TV Natura, ch_n: 850
+id: 6a439aae539f6cfa9cd04d27, name: Pluto TV Arte, ch_n: 850
+id: 610a9ebe8c2ac2000734776e, name: Naturescape, ch_n: 851
+id: 60802b37709d6b0007b0c549, name: Pluto TV Natura, ch_n: 855
 id: 6231ec4b62cd1f0007093c7b, name: CBS News 24/7, ch_n: 897
 id: 66c45ba803e3b20008d8c294, name: CNN Headlines International, ch_n: 905
 id: 61b86ea479a4390007c6d5fc, name: Euronews, ch_n: 910
 id: 6971fc932c004063166ac8fd, name: Il Sole24Ore TV, ch_n: 915
-id: 69ef53e12f4d2b4f9c582e76, name: That's 70s, ch_n: 920
-id: 69ef54f3c700cf0140272def, name: That's 80s, ch_n: 925
-id: 69ef55c3b80e144b55d74e36, name: That's 90s/00s, ch_n: 930
-id: 69ef5682980899a9edf1a884, name: That's Rock, ch_n: 935
+id: 69ef572280ef8232ceef596b, name: That's 60s, ch_n: 920
+id: 69ef53e12f4d2b4f9c582e76, name: That's 70s, ch_n: 925
+id: 69ef54f3c700cf0140272def, name: That's 80s, ch_n: 930
+id: 69ef55c3b80e144b55d74e36, name: That's 90s/00s, ch_n: 935
+id: 69ef5682980899a9edf1a884, name: That's Rock, ch_n: 940
