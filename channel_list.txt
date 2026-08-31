@@ -1,4 +1,3 @@
-id: 69690bb672db627531285928, name: NFL Channel, ch_n: 50
 id: 62442f28afe626000747f195, name: I Jefferson, ch_n: 100
 id: 66a0eea88561260008b1c5d0, name: Carabinieri, ch_n: 105
 id: 6245d3792792150007e20634, name: Settimo Cielo, ch_n: 110
@@ -14,17 +13,15 @@ id: 66a8c7aefe11e500085b1587, name: Cherif, ch_n: 160
 id: 66a8c8b3d2d50d000821fc4c, name: Tandem, ch_n: 165
 id: 66d9aa4315d2c60008d4ac40, name: Alice Nevers, ch_n: 170
 id: 66d9a98961dbf00008efb5fc, name: Sulle tracce del crimine, ch_n: 175
-id: 6500457d3efb510008315e59, name: New Tricks, ch_n: 180
-id: 625e6cc905e09f00073addee, name: Squadra Speciale Cobra 11, ch_n: 185
-id: 69fc9010f6ac24413f520103, name: ZDF Squadra Speciale Lipsia, ch_n: 190
-id: 69fc8fd109705ebdf782724a, name: ZDF Guardia Costiera, ch_n: 191
-id: 638f286445264d00084ec6dc, name: Autostop per il cielo, ch_n: 192
-id: 608aa777b907770007e5d05d, name: Pluto TV Serie Crime, ch_n: 193
-id: 65cb78b83a116800079e2e35, name: Cin Cin, ch_n: 194
-id: 65cb76723a116800079e1fc3, name: Love Boat, ch_n: 195
-id: 65cb76ea11ced70008206b66, name: Dynasty, ch_n: 196
-id: 65cb77853ba51e00084cba02, name: Mission Impossible, ch_n: 197
-id: 634926e4b51d2d00077819a2, name: Renegade, ch_n: 198
+id: 69fc9010f6ac24413f520103, name: ZDF Squadra Speciale Lipsia, ch_n: 180
+id: 69fc8fd109705ebdf782724a, name: ZDF Guardia Costiera, ch_n: 181
+id: 638f286445264d00084ec6dc, name: Autostop per il cielo, ch_n: 182
+id: 608aa777b907770007e5d05d, name: Pluto TV Serie Crime, ch_n: 183
+id: 65cb78b83a116800079e2e35, name: Cin Cin, ch_n: 184
+id: 65cb76723a116800079e1fc3, name: Love Boat, ch_n: 185
+id: 65cb76ea11ced70008206b66, name: Dynasty, ch_n: 186
+id: 65cb77853ba51e00084cba02, name: Mission Impossible, ch_n: 187
+id: 634926e4b51d2d00077819a2, name: Renegade, ch_n: 188
 id: 608aa17fb9f4490007e6419a, name: Pluto TV Film, ch_n: 200
 id: 608aa20a2e7f270007c4878d, name: Pluto TV Film Azione, ch_n: 205
 id: 61c09e3ac210ed0007606620, name: Pluto TV Horror, ch_n: 210
@@ -53,8 +50,8 @@ id: 66c70033b1a34600087bb09a, name: Pluto TV Paranormal, ch_n: 330
 id: 62e8d5369e48940007fc1dc1, name: The Asylum, ch_n: 340
 id: 67ed14aaf7c5d70b9089c3bf, name: Pluto TV Serie Sci-Fi, ch_n: 345
 id: 61728bb9ee3773000840c1fa, name: Pluto TV Sci-Fi, ch_n: 350
-id: 65cb73d33ba51e00084cabad, name: Star Trek: Voyager, ch_n: 355
 id: 60802d37ee238e0007c94e64, name: Andromeda, ch_n: 355
+id: 65cb73d33ba51e00084cabad, name: Star Trek: Voyager, ch_n: 355
 id: 63eb57d6c111bc0008fe2658, name: Sanctuary, ch_n: 360
 id: 66d9ab4bf0f17500084e9b7e, name: Pluto TV True Crime, ch_n: 400
 id: 64ec5cf50f73a800081310a5, name: Forensic Files, ch_n: 405
@@ -70,15 +67,16 @@ id: 67e3b0d2443f0671bc8a1297, name: Pluto TV Shore, ch_n: 505
 id: 60940a07d88ba90007b9cb71, name: 16 Anni e Incinta, ch_n: 510
 id: 62e7fc8c0d061100083946a9, name: Teen Mom, ch_n: 515
 id: 64c109a4798def0008a6e03e, name: Top Gear, ch_n: 535
-id: 691c5bef3a369d8f40192e71, name: Inter 24/7, ch_n: 540
-id: 69148c76e9dec35c9269a16c, name: Pluto TV Snooker 900, ch_n: 545
-id: 696e0fe49ba4ac18057433ac, name: Rally TV, ch_n: 550
-id: 6971fc6dca441014e4600f2c, name: Automoto, ch_n: 555
-id: 660bfc4424e1d000085b5f93, name: FIFA+, ch_n: 560
-id: 608016e446d73500075ea7e0, name: World Poker Tour, ch_n: 565
-id: 608030eff4b6f70007e1684c, name: Pluto TV Sport, ch_n: 570
-id: 679203d4bc03978b9b4b79a6, name: UFC, ch_n: 575
-id: 671655b2daad7f00085d202d, name: MODUS Super Series Darts, ch_n: 580
+id: 69690bb672db627531285928, name: NFL Channel, ch_n: 540
+id: 691c5bef3a369d8f40192e71, name: Inter 24/7, ch_n: 545
+id: 69148c76e9dec35c9269a16c, name: Pluto TV Snooker 900, ch_n: 550
+id: 696e0fe49ba4ac18057433ac, name: Rally TV, ch_n: 555
+id: 6971fc6dca441014e4600f2c, name: Automoto, ch_n: 560
+id: 660bfc4424e1d000085b5f93, name: FIFA+, ch_n: 565
+id: 608016e446d73500075ea7e0, name: World Poker Tour, ch_n: 570
+id: 608030eff4b6f70007e1684c, name: Pluto TV Sport, ch_n: 575
+id: 679203d4bc03978b9b4b79a6, name: UFC, ch_n: 580
+id: 671655b2daad7f00085d202d, name: MODUS Super Series Darts, ch_n: 585
 id: 62bc1f502b70e3000706298e, name: South Park, ch_n: 610
 id: 6602acadb2abe500081cf28a, name: I soliti idioti, ch_n: 615
 id: 609404b0a8ec810007d8de9d, name: Pluto TV Scherzi e risate, ch_n: 620
@@ -89,7 +87,6 @@ id: 69affcad8940750a23a7231a, name: One Piece, ch_n: 700
 id: 63eb82e24e83e70008ab735f, name: Yu-Gi-Oh!, ch_n: 710
 id: 612375086abc84000738fc03, name: Inazuma Eleven, ch_n: 715
 id: 65b90daed77d450008a43345, name: Pluto TV Anime, ch_n: 720
-id: 624da1cd2af90c0007c13205, name: Avatar, ch_n: 725
 id: 68adb5853efb41cd97ce413d, name: I Puffi, ch_n: 730
 id: 6093f9281db477000759fce0, name: SpongeBob, ch_n: 735
 id: 6093f6f8351eb0000754afb8, name: Pluto TV Cartoni Animati, ch_n: 740
