@@ -19,7 +19,6 @@ id: 638f286445264d00084ec6dc, name: Autostop per il cielo, ch_n: 182
 id: 608aa777b907770007e5d05d, name: Pluto TV Serie Crime, ch_n: 183
 id: 65cb78b83a116800079e2e35, name: Cin Cin, ch_n: 184
 id: 65cb76723a116800079e1fc3, name: Love Boat, ch_n: 185
-id: 65cb76ea11ced70008206b66, name: Dynasty, ch_n: 186
 id: 65cb77853ba51e00084cba02, name: Mission Impossible, ch_n: 187
 id: 634926e4b51d2d00077819a2, name: Renegade, ch_n: 188
 id: 608aa17fb9f4490007e6419a, name: Pluto TV Film, ch_n: 200
