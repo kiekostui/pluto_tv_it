@@ -1,5 +1,5 @@
-id: 6994803179545c21a1061dab, name: Pluto TV Virus Letali, ch_n: 50
-id: 661f8f4c307fa30008033ab5, name: Pluto TV Alieni, ch_n: 51
+id: 661f8f4c307fa30008033ab5, name: Pluto TV Alieni, ch_n: 50
+id: 6994803179545c21a1061dab, name: Pluto TV Virus Letali, ch_n: 51
 id: 62442f28afe626000747f195, name: I Jefferson, ch_n: 100
 id: 66a0eea88561260008b1c5d0, name: Carabinieri, ch_n: 105
 id: 6245d3792792150007e20634, name: Settimo Cielo, ch_n: 110
