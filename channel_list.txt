@@ -1,4 +1,4 @@
-id: 691c5ba253a7a030e7c509d8, name: Distretto di Polizia, ch_n: 50
+id: 6aa3d9647b2b887bbcd9510b, name: VMA, ch_n: 50
 id: 62442f28afe626000747f195, name: I Jefferson, ch_n: 100
 id: 66a0eea88561260008b1c5d0, name: Carabinieri, ch_n: 105
 id: 6245d3792792150007e20634, name: Settimo Cielo, ch_n: 110
@@ -9,6 +9,7 @@ id: 60a2837f8154ab0007c4dcdf, name: Le sorelle McLeod, ch_n: 130
 id: 62e7fa5ab5062e0007dcf97d, name: BBC Series, ch_n: 135
 id: 6349279ed5023700078f2bc2, name: Mai dire sì, ch_n: 140
 id: 69664afedcbf5c784492e422, name: The Intern, ch_n: 150
+id: 691c5ba253a7a030e7c509d8, name: Distretto di Polizia, ch_n: 150
 id: 66d7120815d2c60008cec006, name: Flashpoint, ch_n: 155
 id: 66a8c7aefe11e500085b1587, name: Cherif, ch_n: 160
 id: 66a8c8b3d2d50d000821fc4c, name: Tandem, ch_n: 165
@@ -50,8 +51,8 @@ id: 66c70033b1a34600087bb09a, name: Pluto TV Paranormal, ch_n: 330
 id: 62e8d5369e48940007fc1dc1, name: The Asylum, ch_n: 340
 id: 67ed14aaf7c5d70b9089c3bf, name: Pluto TV Serie Sci-Fi, ch_n: 345
 id: 61728bb9ee3773000840c1fa, name: Pluto TV Sci-Fi, ch_n: 350
-id: 6994803179545c21a1061dab, name: Pluto TV Virus Letali, ch_n: 355
 id: 65cb73d33ba51e00084cabad, name: Star Trek: Voyager, ch_n: 355
+id: 6994803179545c21a1061dab, name: Pluto TV Virus Letali, ch_n: 355
 id: 661f8f4c307fa30008033ab5, name: Pluto TV Alieni, ch_n: 360
 id: 60802d37ee238e0007c94e64, name: Andromeda, ch_n: 365
 id: 63eb57d6c111bc0008fe2658, name: Sanctuary, ch_n: 370
