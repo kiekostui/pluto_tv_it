@@ -1,4 +1,7 @@
-id: 6aa3d9647b2b887bbcd9510b, name: VMA, ch_n: 50
+id: 6633551323e24f00084744aa, name: Pluto TV Mostri e Vampiri, ch_n: 80
+id: 66335533307fa300082bd80a, name: Pluto TV Splatter, ch_n: 85
+id: 62e8d3c2c2db99000787b786, name: Pluto TV Halloween, ch_n: 90
+id: 685a7fc00cba305fd20ed869, name: Pluto TV Psycho, ch_n: 95
 id: 62442f28afe626000747f195, name: I Jefferson, ch_n: 100
 id: 66a0eea88561260008b1c5d0, name: Carabinieri, ch_n: 105
 id: 6245d3792792150007e20634, name: Settimo Cielo, ch_n: 110
@@ -31,31 +34,28 @@ id: 64808a8c536e0c0008a276d1, name: Pluto TV Legami Letali, ch_n: 220
 id: 608aa4a4cc92820007b663af, name: Pluto TV Film Romantici, ch_n: 224
 id: 699d87093d5dba980705cca8, name: Pluto TV Film Ancora Più Romantici, ch_n: 230
 id: 608aa512d67fd900072323db, name: Pluto TV Film Commedia, ch_n: 240
-id: 612e05b885183d0007958101, name: Pluto TV Christmas tutto l'anno, ch_n: 245
+id: 612e05b885183d0007958101, name: Pluto TV Christmas, ch_n: 245
 id: 62e7fb67478a5b0007e6c50c, name: Pluto TV Western, ch_n: 255
 id: 65253f9881f942000833ccd5, name: Pluto TV Totò, ch_n: 260
 id: 661f8f01801af800083d9d81, name: Pluto TV Alberto Sordi, ch_n: 265
 id: 608aa7d8359b270007861489, name: Pluto TV Cinema Italiano, ch_n: 270
 id: 671754d8e482950008962aaf, name: Cinema Poliziottesco, ch_n: 275
 id: 66335489307fa300082bd6e4, name: Pluto TV Eros, ch_n: 280
+id: 6911c9704316999535eb21cf, name: Pluto TV Notti di Passione, ch_n: 285
 id: 6786235bd648bf0008c2780a, name: Pluto TV Cinema Orientale, ch_n: 285
 id: 68750875759366af05a151ce, name: Pluto TV Film Storici, ch_n: 290
 id: 65f865a62873090008d06382, name: Duri a Morire, ch_n: 295
 id: 6536608b4f123d000876b78b, name: Gli Immortali – Seagal vs Lundgren, ch_n: 300
 id: 653660b4295b840008a70ba3, name: CineThriller, ch_n: 305
-id: 6911c8dd8caba6f046c5c5d5, name: Pluto TV Notti di Terrore, ch_n: 310
-id: 6911c92b4316999535eb1e08, name: Pluto TV Notti di Sangue, ch_n: 315
-id: 6911c9704316999535eb21cf, name: Pluto TV Notti di Passione, ch_n: 320
 id: 66c35c0c92b1af0008c8e83a, name: Horror Club, ch_n: 325
 id: 66c70033b1a34600087bb09a, name: Pluto TV Paranormal, ch_n: 330
 id: 62e8d5369e48940007fc1dc1, name: The Asylum, ch_n: 340
 id: 67ed14aaf7c5d70b9089c3bf, name: Pluto TV Serie Sci-Fi, ch_n: 345
 id: 61728bb9ee3773000840c1fa, name: Pluto TV Sci-Fi, ch_n: 350
+id: 661f8f4c307fa30008033ab5, name: Pluto TV Alieni, ch_n: 355
 id: 65cb73d33ba51e00084cabad, name: Star Trek: Voyager, ch_n: 355
-id: 6994803179545c21a1061dab, name: Pluto TV Virus Letali, ch_n: 355
-id: 661f8f4c307fa30008033ab5, name: Pluto TV Alieni, ch_n: 360
-id: 60802d37ee238e0007c94e64, name: Andromeda, ch_n: 365
-id: 63eb57d6c111bc0008fe2658, name: Sanctuary, ch_n: 370
+id: 60802d37ee238e0007c94e64, name: Andromeda, ch_n: 360
+id: 63eb57d6c111bc0008fe2658, name: Sanctuary, ch_n: 365
 id: 66d9ab4bf0f17500084e9b7e, name: Pluto TV True Crime, ch_n: 400
 id: 64ec5cf50f73a800081310a5, name: Forensic Files, ch_n: 405
 id: 66177d18c8311c0008d077d0, name: Storie Criminali, ch_n: 410
@@ -119,7 +119,9 @@ id: 66c45ba803e3b20008d8c294, name: CNN Headlines International, ch_n: 905
 id: 61b86ea479a4390007c6d5fc, name: Euronews, ch_n: 910
 id: 6971fc932c004063166ac8fd, name: Il Sole24Ore TV, ch_n: 915
 id: 69ef572280ef8232ceef596b, name: That's 60s, ch_n: 920
+id: 6aa3d9647b2b887bbcd9510b, name: VMA, ch_n: 920
 id: 69ef53e12f4d2b4f9c582e76, name: That's 70s, ch_n: 925
+id: 612ce23f51cce000078eeed5, name: Pluto TV Fireplace, ch_n: 925
 id: 69ef54f3c700cf0140272def, name: That's 80s, ch_n: 930
 id: 69ef55c3b80e144b55d74e36, name: That's 90s/00s, ch_n: 935
 id: 69ef5682980899a9edf1a884, name: That's Rock, ch_n: 940
