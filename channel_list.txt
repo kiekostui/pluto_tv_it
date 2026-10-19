@@ -1,6 +1,5 @@
 id: 691c5ba253a7a030e7c509d8, name: Distretto di Polizia, ch_n: 50
 id: 6a4399d27d65ad4fa68a8806, name: Mr. Bean, ch_n: 51
-id: 67b483618344dd93338afd7d, name: Dominance FC TV, ch_n: 52
 id: 62e8d3c2c2db99000787b786, name: Pluto TV Halloween, ch_n: 80
 id: 66335533307fa300082bd80a, name: Pluto TV Splatter, ch_n: 85
 id: 6633551323e24f00084744aa, name: Pluto TV Mostri e Vampiri, ch_n: 90
@@ -12,8 +11,8 @@ id: 67d9836ba1609bdb523f0c9d, name: Relic Hunter, ch_n: 115
 id: 691c5b2e74baa89ef7230baf, name: Nina, ch_n: 120
 id: 60b9ff2722bfa400072676ef, name: Pluto TV Serie, ch_n: 125
 id: 60a2837f8154ab0007c4dcdf, name: Le sorelle McLeod, ch_n: 130
-id: 6a7c73738a40fc87bcbac99e, name: Call the Midwife, ch_n: 135
 id: 62e7fa5ab5062e0007dcf97d, name: BBC Series, ch_n: 135
+id: 6a7c73738a40fc87bcbac99e, name: Call the Midwife, ch_n: 135
 id: 6349279ed5023700078f2bc2, name: Mai dire sì, ch_n: 140
 id: 69664afedcbf5c784492e422, name: The Intern, ch_n: 150
 id: 66d7120815d2c60008cec006, name: Flashpoint, ch_n: 155
@@ -27,8 +26,8 @@ id: 638f286445264d00084ec6dc, name: Autostop per il cielo, ch_n: 182
 id: 608aa777b907770007e5d05d, name: Pluto TV Serie Crime, ch_n: 183
 id: 65cb78b83a116800079e2e35, name: Cin Cin, ch_n: 184
 id: 65cb76723a116800079e1fc3, name: Love Boat, ch_n: 185
-id: 65cb76ea11ced70008206b66, name: Dynasty, ch_n: 187
 id: 65cb77853ba51e00084cba02, name: Mission Impossible, ch_n: 187
+id: 65cb76ea11ced70008206b66, name: Dynasty, ch_n: 187
 id: 634926e4b51d2d00077819a2, name: Renegade, ch_n: 188
 id: 608aa17fb9f4490007e6419a, name: Pluto TV Film, ch_n: 200
 id: 608aa20a2e7f270007c4878d, name: Pluto TV Film Azione, ch_n: 205
@@ -55,8 +54,8 @@ id: 66c70033b1a34600087bb09a, name: Pluto TV Paranormal, ch_n: 330
 id: 62e8d5369e48940007fc1dc1, name: The Asylum, ch_n: 340
 id: 67ed14aaf7c5d70b9089c3bf, name: Pluto TV Serie Sci-Fi, ch_n: 345
 id: 61728bb9ee3773000840c1fa, name: Pluto TV Sci-Fi, ch_n: 350
-id: 65cb73d33ba51e00084cabad, name: Star Trek: Voyager, ch_n: 355
 id: 661f8f4c307fa30008033ab5, name: Pluto TV Alieni, ch_n: 355
+id: 65cb73d33ba51e00084cabad, name: Star Trek: Voyager, ch_n: 355
 id: 60802d37ee238e0007c94e64, name: Andromeda, ch_n: 360
 id: 63eb57d6c111bc0008fe2658, name: Sanctuary, ch_n: 365
 id: 66d9ab4bf0f17500084e9b7e, name: Pluto TV True Crime, ch_n: 400
