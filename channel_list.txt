@@ -1,34 +1,34 @@
-id: 691c5ba253a7a030e7c509d8, name: Distretto di Polizia, ch_n: 50
-id: 6a4399d27d65ad4fa68a8806, name: Mr. Bean, ch_n: 51
+id: 67b482d52f8d3da5924857c6, name: Streghe, ch_n: 50
 id: 62e8d3c2c2db99000787b786, name: Pluto TV Halloween, ch_n: 80
 id: 66335533307fa300082bd80a, name: Pluto TV Splatter, ch_n: 85
 id: 6633551323e24f00084744aa, name: Pluto TV Mostri e Vampiri, ch_n: 90
 id: 685a7fc00cba305fd20ed869, name: Pluto TV Psycho, ch_n: 95
 id: 62442f28afe626000747f195, name: I Jefferson, ch_n: 100
-id: 66a0eea88561260008b1c5d0, name: Carabinieri, ch_n: 105
-id: 6245d3792792150007e20634, name: Settimo Cielo, ch_n: 110
-id: 67d9836ba1609bdb523f0c9d, name: Relic Hunter, ch_n: 115
-id: 691c5b2e74baa89ef7230baf, name: Nina, ch_n: 120
-id: 60b9ff2722bfa400072676ef, name: Pluto TV Serie, ch_n: 125
-id: 60a2837f8154ab0007c4dcdf, name: Le sorelle McLeod, ch_n: 130
-id: 62e7fa5ab5062e0007dcf97d, name: BBC Series, ch_n: 135
-id: 6a7c73738a40fc87bcbac99e, name: Call the Midwife, ch_n: 135
-id: 6349279ed5023700078f2bc2, name: Mai dire sì, ch_n: 140
-id: 69664afedcbf5c784492e422, name: The Intern, ch_n: 150
-id: 66d7120815d2c60008cec006, name: Flashpoint, ch_n: 155
-id: 66a8c7aefe11e500085b1587, name: Cherif, ch_n: 160
-id: 66a8c8b3d2d50d000821fc4c, name: Tandem, ch_n: 165
-id: 66d9aa4315d2c60008d4ac40, name: Alice Nevers, ch_n: 170
-id: 66d9a98961dbf00008efb5fc, name: Sulle tracce del crimine, ch_n: 175
-id: 69fc9010f6ac24413f520103, name: ZDF Squadra Speciale Lipsia, ch_n: 180
-id: 69fc8fd109705ebdf782724a, name: ZDF Guardia Costiera, ch_n: 181
-id: 638f286445264d00084ec6dc, name: Autostop per il cielo, ch_n: 182
-id: 608aa777b907770007e5d05d, name: Pluto TV Serie Crime, ch_n: 183
-id: 65cb78b83a116800079e2e35, name: Cin Cin, ch_n: 184
-id: 65cb76723a116800079e1fc3, name: Love Boat, ch_n: 185
-id: 65cb77853ba51e00084cba02, name: Mission Impossible, ch_n: 187
+id: 691c5ba253a7a030e7c509d8, name: Distretto di Polizia, ch_n: 105
+id: 66a0eea88561260008b1c5d0, name: Carabinieri, ch_n: 110
+id: 6245d3792792150007e20634, name: Settimo Cielo, ch_n: 115
+id: 67d9836ba1609bdb523f0c9d, name: Relic Hunter, ch_n: 120
+id: 691c5b2e74baa89ef7230baf, name: Nina, ch_n: 125
+id: 60b9ff2722bfa400072676ef, name: Pluto TV Serie, ch_n: 130
+id: 60a2837f8154ab0007c4dcdf, name: Le sorelle McLeod, ch_n: 135
+id: 6a7c73738a40fc87bcbac99e, name: Call the Midwife, ch_n: 140
+id: 62e7fa5ab5062e0007dcf97d, name: BBC Series, ch_n: 145
+id: 6349279ed5023700078f2bc2, name: Mai dire sì, ch_n: 150
+id: 69664afedcbf5c784492e422, name: The Intern, ch_n: 155
+id: 66d7120815d2c60008cec006, name: Flashpoint, ch_n: 160
+id: 66a8c7aefe11e500085b1587, name: Cherif, ch_n: 165
+id: 66a8c8b3d2d50d000821fc4c, name: Tandem, ch_n: 170
+id: 66d9aa4315d2c60008d4ac40, name: Alice Nevers, ch_n: 175
+id: 66d9a98961dbf00008efb5fc, name: Sulle tracce del crimine, ch_n: 180
+id: 69fc9010f6ac24413f520103, name: ZDF Squadra Speciale Lipsia, ch_n: 181
+id: 69fc8fd109705ebdf782724a, name: ZDF Guardia Costiera, ch_n: 182
+id: 638f286445264d00084ec6dc, name: Autostop per il cielo, ch_n: 183
+id: 608aa777b907770007e5d05d, name: Pluto TV Serie Crime, ch_n: 184
+id: 65cb78b83a116800079e2e35, name: Cin Cin, ch_n: 185
+id: 65cb76723a116800079e1fc3, name: Love Boat, ch_n: 186
 id: 65cb76ea11ced70008206b66, name: Dynasty, ch_n: 187
-id: 634926e4b51d2d00077819a2, name: Renegade, ch_n: 188
+id: 65cb77853ba51e00084cba02, name: Mission Impossible, ch_n: 188
+id: 634926e4b51d2d00077819a2, name: Renegade, ch_n: 189
 id: 608aa17fb9f4490007e6419a, name: Pluto TV Film, ch_n: 200
 id: 608aa20a2e7f270007c4878d, name: Pluto TV Film Azione, ch_n: 205
 id: 61c09e3ac210ed0007606620, name: Pluto TV Horror, ch_n: 210
@@ -54,7 +54,6 @@ id: 66c70033b1a34600087bb09a, name: Pluto TV Paranormal, ch_n: 330
 id: 62e8d5369e48940007fc1dc1, name: The Asylum, ch_n: 340
 id: 67ed14aaf7c5d70b9089c3bf, name: Pluto TV Serie Sci-Fi, ch_n: 345
 id: 61728bb9ee3773000840c1fa, name: Pluto TV Sci-Fi, ch_n: 350
-id: 661f8f4c307fa30008033ab5, name: Pluto TV Alieni, ch_n: 355
 id: 65cb73d33ba51e00084cabad, name: Star Trek: Voyager, ch_n: 355
 id: 60802d37ee238e0007c94e64, name: Andromeda, ch_n: 360
 id: 63eb57d6c111bc0008fe2658, name: Sanctuary, ch_n: 365
@@ -92,6 +91,7 @@ id: 69affcad8940750a23a7231a, name: One Piece, ch_n: 700
 id: 63eb82e24e83e70008ab735f, name: Yu-Gi-Oh!, ch_n: 710
 id: 612375086abc84000738fc03, name: Inazuma Eleven, ch_n: 715
 id: 65b90daed77d450008a43345, name: Pluto TV Anime, ch_n: 720
+id: 6a4399d27d65ad4fa68a8806, name: Mr. Bean, ch_n: 725
 id: 68adb5853efb41cd97ce413d, name: I Puffi, ch_n: 730
 id: 6093f9281db477000759fce0, name: SpongeBob, ch_n: 735
 id: 6093f6f8351eb0000754afb8, name: Pluto TV Cartoni Animati, ch_n: 740
@@ -99,7 +99,7 @@ id: 67f4f99729b03f18cb36647e, name: Pluto TV Kids Classics, ch_n: 745
 id: 686cfdf894a028da3aac4252, name: Barbie & Friends, ch_n: 750
 id: 686cfe983ffa5e0c91cdb5df, name: Mattel Junior, ch_n: 755
 id: 62619405c733e8000732d1fe, name: Teenage Mutant Ninja Turtles, ch_n: 760
-id: 66a8c64814a2bb00084d09d6, name: Gormiti, ch_n: 770
+id: 66a8c64814a2bb00084d09d6, name: Gormiti, ch_n: 765
 id: 63eb573ba99571000897135b, name: Pluto TV Teen, ch_n: 775
 id: 609401db8cf51c00084b592e, name: iCarly, ch_n: 780
 id: 6093f7b5bb49b90007cecaad, name: Pluto TV Teen Club, ch_n: 785
