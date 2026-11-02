@@ -1,8 +1,5 @@
 id: 67b482d52f8d3da5924857c6, name: Streghe, ch_n: 50
-id: 62e8d3c2c2db99000787b786, name: Pluto TV Halloween, ch_n: 80
-id: 66335533307fa300082bd80a, name: Pluto TV Splatter, ch_n: 85
-id: 6633551323e24f00084744aa, name: Pluto TV Mostri e Vampiri, ch_n: 90
-id: 685a7fc00cba305fd20ed869, name: Pluto TV Psycho, ch_n: 95
+id: 6a6880d2ec8f486bf0e69800, name: Black Beard Project, ch_n: 51
 id: 62442f28afe626000747f195, name: I Jefferson, ch_n: 100
 id: 691c5ba253a7a030e7c509d8, name: Distretto di Polizia, ch_n: 105
 id: 66a0eea88561260008b1c5d0, name: Carabinieri, ch_n: 110
