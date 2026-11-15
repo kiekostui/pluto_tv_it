@@ -2,7 +2,6 @@ id: 67b482d52f8d3da5924857c6, name: Streghe, ch_n: 50
 id: 6a6880d2ec8f486bf0e69800, name: Black Beard Project, ch_n: 51
 id: 62442f28afe626000747f195, name: I Jefferson, ch_n: 100
 id: 691c5ba253a7a030e7c509d8, name: Distretto di Polizia, ch_n: 105
-id: 66a0eea88561260008b1c5d0, name: Carabinieri, ch_n: 110
 id: 6245d3792792150007e20634, name: Settimo Cielo, ch_n: 115
 id: 67d9836ba1609bdb523f0c9d, name: Relic Hunter, ch_n: 120
 id: 691c5b2e74baa89ef7230baf, name: Nina, ch_n: 125
@@ -88,8 +87,8 @@ id: 63eb82e24e83e70008ab735f, name: Yu-Gi-Oh!, ch_n: 710
 id: 612375086abc84000738fc03, name: Inazuma Eleven, ch_n: 715
 id: 65b90daed77d450008a43345, name: Pluto TV Anime, ch_n: 720
 id: 6a4399d27d65ad4fa68a8806, name: Mr. Bean, ch_n: 725
-id: 68adb5853efb41cd97ce413d, name: I Puffi, ch_n: 730
 id: 624da1cd2af90c0007c13205, name: Avatar, ch_n: 730
+id: 68adb5853efb41cd97ce413d, name: I Puffi, ch_n: 730
 id: 6093f9281db477000759fce0, name: SpongeBob, ch_n: 735
 id: 62b57a6752a0060008bc65cd, name: Due Fantagenitori, ch_n: 735
 id: 6093f6f8351eb0000754afb8, name: Pluto TV Cartoni Animati, ch_n: 740
@@ -122,8 +121,8 @@ id: 66c45ba803e3b20008d8c294, name: CNN Headlines International, ch_n: 905
 id: 61b86ea479a4390007c6d5fc, name: Euronews, ch_n: 910
 id: 6971fc932c004063166ac8fd, name: Il Sole24Ore TV, ch_n: 915
 id: 69ef572280ef8232ceef596b, name: That's 60s, ch_n: 920
-id: 69ef53e12f4d2b4f9c582e76, name: That's Christmas, ch_n: 925
 id: 612ce23f51cce000078eeed5, name: Pluto TV Fireplace, ch_n: 925
+id: 69ef53e12f4d2b4f9c582e76, name: That's Christmas, ch_n: 925
 id: 69ef54f3c700cf0140272def, name: That's 80s, ch_n: 930
 id: 69ef55c3b80e144b55d74e36, name: That's 90s/00s, ch_n: 935
 id: 69ef5682980899a9edf1a884, name: That's Rock, ch_n: 940
