@@ -1,29 +1,28 @@
-id: 67b482d52f8d3da5924857c6, name: Streghe, ch_n: 50
-id: 6ab275faa311e7c50eac1243, name: Cine Peplum, ch_n: 51
-id: 62442f28afe626000747f195, name: I Jefferson, ch_n: 100
-id: 691c5ba253a7a030e7c509d8, name: Distretto di Polizia, ch_n: 105
-id: 6245d3792792150007e20634, name: Settimo Cielo, ch_n: 115
-id: 67d9836ba1609bdb523f0c9d, name: Relic Hunter, ch_n: 120
-id: 691c5b2e74baa89ef7230baf, name: Nina, ch_n: 125
-id: 60b9ff2722bfa400072676ef, name: Pluto TV Serie, ch_n: 130
-id: 60a2837f8154ab0007c4dcdf, name: Le sorelle McLeod, ch_n: 135
-id: 6a7c73738a40fc87bcbac99e, name: Call the Midwife, ch_n: 140
-id: 62e7fa5ab5062e0007dcf97d, name: BBC Series, ch_n: 145
-id: 69664afedcbf5c784492e422, name: The Intern, ch_n: 155
-id: 66d7120815d2c60008cec006, name: Flashpoint, ch_n: 160
-id: 66a8c7aefe11e500085b1587, name: Cherif, ch_n: 165
-id: 66a8c8b3d2d50d000821fc4c, name: Tandem, ch_n: 170
-id: 66d9aa4315d2c60008d4ac40, name: Alice Nevers, ch_n: 175
-id: 66d9a98961dbf00008efb5fc, name: Sulle tracce del crimine, ch_n: 180
-id: 69fc9010f6ac24413f520103, name: ZDF Squadra Speciale Lipsia, ch_n: 181
-id: 69fc8fd109705ebdf782724a, name: ZDF Guardia Costiera, ch_n: 182
-id: 638f286445264d00084ec6dc, name: Autostop per il cielo, ch_n: 183
-id: 608aa777b907770007e5d05d, name: Pluto TV Serie Crime, ch_n: 184
-id: 65cb78b83a116800079e2e35, name: Cin Cin, ch_n: 185
-id: 65cb76723a116800079e1fc3, name: Love Boat, ch_n: 186
-id: 65cb76ea11ced70008206b66, name: Dynasty, ch_n: 187
-id: 65cb77853ba51e00084cba02, name: Mission Impossible, ch_n: 188
-id: 634926e4b51d2d00077819a2, name: Renegade, ch_n: 189
+id: 67b482d52f8d3da5924857c6, name: Streghe, ch_n: 100
+id: 691c5ba253a7a030e7c509d8, name: Distretto di Polizia, ch_n: 115
+id: 62442f28afe626000747f195, name: I Jefferson, ch_n: 120
+id: 6245d3792792150007e20634, name: Settimo Cielo, ch_n: 125
+id: 67d9836ba1609bdb523f0c9d, name: Relic Hunter, ch_n: 130
+id: 691c5b2e74baa89ef7230baf, name: Nina, ch_n: 135
+id: 60b9ff2722bfa400072676ef, name: Pluto TV Serie, ch_n: 140
+id: 60a2837f8154ab0007c4dcdf, name: Le sorelle McLeod, ch_n: 145
+id: 6a7c73738a40fc87bcbac99e, name: Call the Midwife, ch_n: 150
+id: 62e7fa5ab5062e0007dcf97d, name: BBC Series, ch_n: 155
+id: 69664afedcbf5c784492e422, name: The Intern, ch_n: 160
+id: 66d7120815d2c60008cec006, name: Flashpoint, ch_n: 165
+id: 66a8c7aefe11e500085b1587, name: Cherif, ch_n: 170
+id: 66a8c8b3d2d50d000821fc4c, name: Tandem, ch_n: 175
+id: 66d9aa4315d2c60008d4ac40, name: Alice Nevers, ch_n: 180
+id: 66d9a98961dbf00008efb5fc, name: Sulle tracce del crimine, ch_n: 181
+id: 69fc9010f6ac24413f520103, name: ZDF Squadra Speciale Lipsia, ch_n: 182
+id: 69fc8fd109705ebdf782724a, name: ZDF Guardia Costiera, ch_n: 183
+id: 638f286445264d00084ec6dc, name: Autostop per il cielo, ch_n: 184
+id: 608aa777b907770007e5d05d, name: Pluto TV Serie Crime, ch_n: 185
+id: 65cb78b83a116800079e2e35, name: Cin Cin, ch_n: 186
+id: 65cb76723a116800079e1fc3, name: Love Boat, ch_n: 187
+id: 65cb76ea11ced70008206b66, name: Dynasty, ch_n: 188
+id: 65cb77853ba51e00084cba02, name: Mission Impossible, ch_n: 189
+id: 634926e4b51d2d00077819a2, name: Renegade, ch_n: 190
 id: 608aa17fb9f4490007e6419a, name: Pluto TV Film, ch_n: 200
 id: 608aa20a2e7f270007c4878d, name: Pluto TV Film Azione, ch_n: 205
 id: 61c09e3ac210ed0007606620, name: Pluto TV Horror, ch_n: 210
@@ -33,17 +32,18 @@ id: 608aa4a4cc92820007b663af, name: Pluto TV Film Romantici, ch_n: 224
 id: 608aa512d67fd900072323db, name: Pluto TV Film Commedia, ch_n: 230
 id: 612e05b885183d0007958101, name: Pluto TV Christmas, ch_n: 235
 id: 62e7fb67478a5b0007e6c50c, name: Pluto TV Western, ch_n: 240
-id: 65253f9881f942000833ccd5, name: Pluto TV Totò, ch_n: 245
-id: 661f8f01801af800083d9d81, name: Pluto TV Alberto Sordi, ch_n: 250
-id: 608aa7d8359b270007861489, name: Pluto TV Cinema Italiano, ch_n: 255
-id: 671754d8e482950008962aaf, name: Cinema Poliziottesco, ch_n: 260
-id: 66335489307fa300082bd6e4, name: Pluto TV Eros, ch_n: 265
-id: 6911c9704316999535eb21cf, name: Pluto TV Notti di Passione, ch_n: 270
-id: 6786235bd648bf0008c2780a, name: Pluto TV Cinema Orientale, ch_n: 275
-id: 68750875759366af05a151ce, name: Pluto TV Film Storici, ch_n: 280
-id: 65f865a62873090008d06382, name: Duri a Morire, ch_n: 285
-id: 6536608b4f123d000876b78b, name: Gli Immortali – Seagal vs Lundgren, ch_n: 290
-id: 653660b4295b840008a70ba3, name: CineThriller, ch_n: 295
+id: 6ab275faa311e7c50eac1243, name: Cine Peplum, ch_n: 245
+id: 65253f9881f942000833ccd5, name: Pluto TV Totò, ch_n: 250
+id: 661f8f01801af800083d9d81, name: Pluto TV Alberto Sordi, ch_n: 255
+id: 608aa7d8359b270007861489, name: Pluto TV Cinema Italiano, ch_n: 260
+id: 671754d8e482950008962aaf, name: Cinema Poliziottesco, ch_n: 265
+id: 66335489307fa300082bd6e4, name: Pluto TV Eros, ch_n: 270
+id: 6911c9704316999535eb21cf, name: Pluto TV Notti di Passione, ch_n: 275
+id: 6786235bd648bf0008c2780a, name: Pluto TV Cinema Orientale, ch_n: 280
+id: 68750875759366af05a151ce, name: Pluto TV Film Storici, ch_n: 285
+id: 65f865a62873090008d06382, name: Duri a Morire, ch_n: 290
+id: 6536608b4f123d000876b78b, name: Gli Immortali – Seagal vs Lundgren, ch_n: 295
+id: 653660b4295b840008a70ba3, name: CineThriller, ch_n: 300
 id: 66c35c0c92b1af0008c8e83a, name: Horror Club, ch_n: 325
 id: 66c70033b1a34600087bb09a, name: Pluto TV Paranormal, ch_n: 330
 id: 62e8d5369e48940007fc1dc1, name: The Asylum, ch_n: 340
